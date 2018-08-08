@@ -1,0 +1,53 @@
+<dx-data-grid
+    id="gridContainer"
+    [dataSource]="dataSource"
+    [showBorders]="true"
+    (onInitialized)="gridInitialized($event)">
+    <dxi-column 
+        dataField="LastUpdate" 
+        dataType="date" 
+        [width]="115"
+        format="longTime">
+    </dxi-column>
+    <dxi-column 
+        dataField="Symbol">
+    </dxi-column>
+    <dxi-column 
+        dataField="Price" 
+        dataType="number" 
+        format="#0.####"
+        cellTemplate="priceCellTemplate">
+    </dxi-column>
+    <dxi-column 
+        dataField="Change" 
+        dataType="number" 
+        [width]="140"
+        format="#0.####"
+        cellTemplate="changeCellTemplate">
+    </dxi-column>
+    <dxi-column 
+        dataField="DayOpen" 
+        dataType="number" 
+        format="#0.####">
+    </dxi-column>
+    <dxi-column 
+        dataField="DayMin" 
+        dataType="number" 
+        format="#0.####">
+    </dxi-column>
+    <dxi-column 
+        dataField="DayMax" 
+        dataType="number" 
+        format="#0.####">
+    </dxi-column>
+    <dxo-load-panel [enabled]="false"></dxo-load-panel>
+
+    <div *dxTemplate="let cell of 'priceCellTemplate'" [class.inc]="cell.data.Change > 0" [class.dec]="cell.data.Change < 0">
+        <span>{{cell.text}}</span>
+    </div>
+    <div *dxTemplate="let cell of 'changeCellTemplate'" [class.inc]="cell.data.Change > 0" [class.dec]="cell.data.Change < 0">
+        <span class="current-value">{{cell.text}}</span>
+        <span class="arrow"></span>
+        <span class="diff">{{cell.data.PercentChange.toFixed(2)}}%</span>
+    </div>
+</dx-data-grid>

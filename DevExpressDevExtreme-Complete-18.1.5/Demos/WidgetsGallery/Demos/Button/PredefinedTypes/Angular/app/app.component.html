@@ -1,0 +1,49 @@
+<div class="dx-fieldset">
+    <div class="dx-field">
+        <div class="dx-field-label">Normal</div>
+        <div class="dx-field-value">
+            <dx-button width="90" [text]="okButtonOptions.text" [type]="okButtonOptions.type" (onClick)="okButtonOptions.onClick()"></dx-button>
+        </div>
+    </div>
+    <div class="dx-field">
+        <div class="dx-field-label">Success</div>
+        <div class="dx-field-value">
+            <dx-button width="90" [text]="applyButtonOptions.text" [type]="applyButtonOptions.type" (onClick)="applyButtonOptions.onClick()"></dx-button>
+        </div>
+    </div>
+    <div class="dx-field">
+        <div class="dx-field-label">Default</div>
+        <div class="dx-field-value">
+            <dx-button width="90" [text]="doneButtonOptions.text" [type]="doneButtonOptions.type" (onClick)="doneButtonOptions.onClick()"></dx-button>
+        </div>
+    </div>
+    <div class="dx-field">
+        <div class="dx-field-label">Danger</div>
+        <div class="dx-field-value">
+            <dx-button width="90" [text]="deleteButtonOptions.text" [type]="deleteButtonOptions.type" (onClick)="deleteButtonOptions.onClick()"></dx-button>
+        </div>
+    </div>
+</div>
+<div class="dx-fieldset">
+    <div class="dx-fieldset-header">DISABLED</div>
+    <div class="dx-field">
+        <div class="dx-field-value">
+            <dx-button width="90" [text]="okButtonOptions.text" [type]="okButtonOptions.type" [disabled]="true"></dx-button>
+        </div>
+    </div>
+    <div class="dx-field">
+        <div class="dx-field-value">
+            <dx-button width="90" [text]="applyButtonOptions.text" [type]="applyButtonOptions.type" [disabled]="true"></dx-button>
+        </div>
+    </div>
+    <div class="dx-field">
+        <div class="dx-field-value">
+            <dx-button width="90" [text]="doneButtonOptions.text" [type]="doneButtonOptions.type" [disabled]="true"></dx-button>
+        </div>
+    </div>
+    <div class="dx-field">
+        <div class="dx-field-value">
+            <dx-button width="90" [text]="deleteButtonOptions.text" [type]="deleteButtonOptions.type" [disabled]="true"></dx-button>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,6 @@
+::ng-deep .demo-container {
+    height: 560px;
+}
+::ng-deep #age {
+    display: inline-block;
+}

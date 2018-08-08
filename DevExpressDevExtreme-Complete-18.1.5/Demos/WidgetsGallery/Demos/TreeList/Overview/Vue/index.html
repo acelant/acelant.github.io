@@ -1,0 +1,85 @@
+﻿<html>
+
+<head>
+    <title>DevExtreme Demo</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="../../../../css/dx.spa.css" />
+    <link rel="stylesheet" type="text/css" href="../../../../css/dx.common.css" />
+    <link rel="dx-theme" data-theme="generic.light" href="../../../../css/dx.light.css" />
+    <link rel="stylesheet" type ="text/css" href ="styles.css" />
+
+    <script src="https://unpkg.com/core-js@2.4.1/client/shim.min.js"></script>
+    <script src="https://unpkg.com/systemjs@0.21.3/dist/system.js"></script>
+    <script type="text/javascript" src="config.js"></script>
+    <script type="text/javascript">
+        System.import('./index.js');
+    </script>
+</head>
+
+<body class="dx-viewport">
+    <div class="demo-container">
+        <div id="app">
+            <span v-if="false">Loading...</span>
+            <dx-tree-list id="tasks"
+                          key-expr="Task_ID"
+                          parent-id-expr="Task_Parent_ID"
+                          :data-source="dataSource"
+                          :show-borders="true"
+                          :column-auto-width="true"
+                          :word-wrap-enabled="true"
+                          :expanded-row-keys="expandedRowKeys"
+                          :selected-row-keys="selectedRowKeys">
+
+                <dx-search-panel :visible="true" :width="250"></dx-search-panel>
+                <dx-header-filter :visible="true"></dx-header-filter>
+                <dx-selection mode="multiple"></dx-selection>
+                <dx-column-chooser :enabled="true"></dx-column-chooser>
+
+                <dx-column data-field="Task_Subject" :min-width="250"></dx-column>
+                <dx-column data-field="Task_Assigned_Employee_ID"
+                           caption="Assigned"
+                           cell-template="employeeTemplate"
+                           :allow-sorting="true"
+                           :min-width="200"
+                           :lookup="employeeLookup">
+                </dx-column>
+                <dx-column data-field="Task_Status"
+                           caption="Status"
+                           :min-width="100"
+                           :lookup="statusLookup">
+                </dx-column>
+                <dx-column data-field="Task_Priority"
+                           caption="Priority"
+                           :lookup="priorityLookup"
+                           :visible="false">
+                </dx-column>
+                <dx-column data-field="Task_Completion"
+                           caption="% Completed"
+                           :min-width="100"
+                           :customize-text="customizeTaskCompletionText"
+                           :visible="false">
+                </dx-column>
+                <dx-column data-field="Task_Start_Date"
+                           caption="Start Date"
+                           data-type="date">
+                </dx-column>
+                <dx-column data-field="Task_Due_Date"
+                           caption="Due Date"
+                           data-type="date">
+                </dx-column>
+
+                <div slot="employeeTemplate" slot-scope="options">
+                    <div class="img"
+                         v-if="options.data.Task_Assigned_Employee"
+                         :style="'background-image:url(' +  options.data.Task_Assigned_Employee.Picture + ')'"></div>
+                    <span v-if="options.data.Task_Assigned_Employee" class="name">{{options.data.Task_Assigned_Employee.Name}}</span>
+                </div>
+            </dx-tree-list>
+            <br />
+        </div>
+    </div>
+</body>
+
+</html>

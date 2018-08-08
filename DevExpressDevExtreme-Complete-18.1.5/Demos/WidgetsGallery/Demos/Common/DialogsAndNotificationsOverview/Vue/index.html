@@ -1,0 +1,94 @@
+<html>
+
+<head>
+    <title>DevExtreme Demo</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="../../../../css/dx.spa.css" />
+    <link rel="stylesheet" type="text/css" href="../../../../css/dx.common.css" />
+    <link rel="dx-theme" data-theme="generic.light" href="../../../../css/dx.light.css" />
+    <link rel="stylesheet" type ="text/css" href ="styles.css" />
+
+    <script src="https://unpkg.com/core-js@2.4.1/client/shim.min.js"></script>
+    <script src="https://unpkg.com/systemjs@0.21.3/dist/system.js"></script>
+    <script type="text/javascript" src="config.js"></script>
+    <script type="text/javascript">
+        System.import('./index.js');
+    </script>
+</head>
+
+<body class="dx-viewport">
+    <div class="demo-container">
+        <div id="app">
+            <span v-if="false">Loading...</span>
+            <div class="images">
+                <div v-for="house in houses" :key="house.ID">
+                    <div @click="showHouse(house)" class="item-content">
+                        <img :src="house.Image" />
+                        <div class="item-options">
+                            <div>
+                                <div class="address">{{house.Address}}</div>
+                                <div class="price large-text">{{ house.Price | currency }}</div>
+                                <div class="agent">
+                                    <div :id="'house' + house.ID">
+                                        <img src="images/icon-agent.svg">
+                                        Listing agent
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <dx-popover
+                            show-event="mouseenter"
+                            hide-event="mouseleave"
+                            content-template="popoverContent"
+                            :position="position"
+                            :target="'#house' + house.ID" 
+                            :width="260">
+                            <div slot="popoverContent" slot-scope="data">
+                                <div class="agent-details">
+                                    <img :src="house.Agent.Picture" />
+                                    <div>
+                                        <div class="name large-text">{{house.Agent.Name}}</div>
+                                        <div class="phone">Tel: {{house.Agent.Phone}}</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </dx-popover>
+                    </div>
+                </div>
+        
+                <dx-popup
+                    :width="660"
+                    :height="540"
+                    :show-title="true"
+                    :title="currentHouse.Address"
+                    :drag-enabled="false"
+                    :close-on-outside-click="true"
+                    :visible.sync="popupVisible">
+                    <div slot="content" slot-scope="data">
+                        <div class='popup-property-details'>
+                            <div class='large-text'>{{currentHouse.Price | currency}}</div>
+                            <div class='opacity'>{{currentHouse.Address}}, {{currentHouse.City}}, {{currentHouse.State}}</div>
+                            <dx-button
+                                class="favorites"
+                                icon="favorites"
+                                :text="favoriteText"
+                                :width="210"
+                                :height="44"
+                                @click="changeFavoriteState">
+                            </dx-button>
+                            <div class='images'>
+                                <img :src="currentHouse.Image" />
+                                <img :src="currentHouse.Image.replace('.jpg', 'b.jpg')" />
+                            </div>
+                            <div>{{currentHouse.Features}}</div>
+                        </div>
+                    </div>
+                </dx-popup>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

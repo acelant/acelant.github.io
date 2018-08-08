@@ -1,0 +1,71 @@
+﻿<html>
+
+<head>
+    <title>DevExtreme Demo</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="../../../../css/dx.spa.css" />
+    <link rel="stylesheet" type="text/css" href="../../../../css/dx.common.css" />
+    <link rel="dx-theme" data-theme="generic.light" href="../../../../css/dx.light.css" />
+    <link rel="stylesheet" type ="text/css" href ="styles.css" />
+
+    <script src="https://unpkg.com/core-js@2.4.1/client/shim.min.js"></script>
+    <script src="https://unpkg.com/systemjs@0.21.3/dist/system.js"></script>
+    <script type="text/javascript" src="config.js"></script>
+    <script type="text/javascript">
+        System.import('./index.js');
+    </script>
+</head>
+
+<body class="dx-viewport">
+    <div class="demo-container">
+        <div id="app">
+            <span v-if="false">Loading...</span>
+            <dx-scheduler
+                :data-source="dataSource"
+                :current-date="currentDate"
+                :views="views"
+                :groups="groups"
+                :height="600"
+                :show-all-day-panel="true"
+                :first-day-of-week="1"
+                :start-day-hour="8"
+                :end-day-hour="18"
+                current-view="month"
+                data-cell-template="dataCellTemplate"
+                resource-cell-template="resourceCellTemplate"
+            >
+                <dx-resource
+                    label="Employee"
+                    field-expr="employeeID"
+                    :data-source="employees"
+                    :allow-multiple="false"
+                ></dx-resource>
+
+                <div slot="dataCellTemplate" slot-scope="cellData" :class="markWeekEnd(cellData)">
+                    <div :class="markTraining(cellData)">
+                        {{cellData.text}}
+                    </div>
+                </div>
+
+                <div slot="resourceCellTemplate" slot-scope="employee">
+                    <div class='name' :style="'background:' + employee.color">
+                        <h2>{{employee.text}}</h2>
+                    </div>
+                    <div class='avatar'>
+                        <img :src="employee.data.avatar" />
+                    </div>
+                    <div class='info' :style="'color:' + employee.color">
+                        Age: {{employee.data.age}}
+                        <br/>
+                        <b>{{employee.data.discipline}}</b>
+                    </div>
+                </div>
+            </dx-scheduler>
+            <br />
+        </div>
+    </div>
+</body>
+
+</html>
