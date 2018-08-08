@@ -1,1 +1,0 @@
-This demo shows how to create a bi-directional bar chart. This is a rotated [stacked bar chart](/Demos/WidgetsGallery/Demo/Charts/StackedBar/jQuery/Light/) with half of its data source values converted from positive to negative.
