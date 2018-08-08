@@ -15,14 +15,14 @@ $(function(){
         fieldChooser: {
             enabled: false
         },
-       /*fieldPanel: {
+       fieldPanel: {
             showColumnFields: false,
             showDataFields: false,
             showFilterFields: false,
             showRowFields: true,
             allowFieldDragging: true,
             visible: true
-	    },*/
+	    },
         "export": {
             enabled: true,
             fileName: "relatorio"
