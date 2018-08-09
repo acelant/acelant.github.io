@@ -1,6 +1,6 @@
 var relatorio = [{
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2017,
@@ -9,7 +9,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2017,
@@ -18,7 +18,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2017,
@@ -27,7 +27,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2017,
@@ -36,7 +36,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2017,
@@ -45,7 +45,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2017,
@@ -54,7 +54,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2017,
@@ -63,7 +63,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2017,
@@ -72,7 +72,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2018,
@@ -81,7 +81,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2018,
@@ -90,7 +90,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2018,
@@ -99,7 +99,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2018,
@@ -108,7 +108,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2018,
@@ -117,7 +117,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2018,
@@ -126,7 +126,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2018,
@@ -135,7 +135,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2018,
@@ -144,7 +144,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2018,
@@ -153,7 +153,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2018,
@@ -162,7 +162,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2018,
@@ -171,7 +171,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2017,
@@ -180,7 +180,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2017,
@@ -189,7 +189,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2017,
@@ -198,7 +198,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2017,
@@ -207,7 +207,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2017,
@@ -216,7 +216,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2017,
@@ -225,7 +225,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2017,
@@ -234,7 +234,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2017,
@@ -243,7 +243,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2017,
@@ -252,7 +252,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2017,
@@ -261,7 +261,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2018,
@@ -270,7 +270,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2018,
@@ -279,7 +279,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2018,
@@ -288,7 +288,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2018,
@@ -297,7 +297,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2018,
@@ -306,7 +306,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2018,
@@ -315,7 +315,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2018,
@@ -324,7 +324,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2018,
@@ -333,7 +333,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2018,
@@ -342,7 +342,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2018,
@@ -351,7 +351,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2018,
@@ -360,7 +360,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2018,
@@ -369,7 +369,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2018,
@@ -378,7 +378,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2018,
@@ -387,7 +387,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2017,
@@ -396,7 +396,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2017,
@@ -405,7 +405,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2017,
@@ -414,7 +414,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2017,
@@ -423,7 +423,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2017,
@@ -432,7 +432,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2017,
@@ -441,7 +441,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2017,
@@ -450,7 +450,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2017,
@@ -459,7 +459,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2017,
@@ -468,7 +468,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2018,
@@ -477,7 +477,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2018,
@@ -486,7 +486,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2018,
@@ -495,7 +495,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2018,
@@ -504,7 +504,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2018,
@@ -513,7 +513,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2018,
@@ -522,7 +522,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2018,
@@ -531,7 +531,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2018,
@@ -540,7 +540,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2018,
@@ -549,7 +549,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2018,
@@ -558,7 +558,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2018,
@@ -567,7 +567,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2017,
@@ -576,7 +576,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2017,
@@ -585,7 +585,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2017,
@@ -594,7 +594,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2017,
@@ -603,7 +603,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2017,
@@ -612,7 +612,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2017,
@@ -621,7 +621,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2017,
@@ -630,7 +630,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2017,
@@ -639,7 +639,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2017,
@@ -648,7 +648,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2017,
@@ -657,7 +657,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2018,
@@ -666,7 +666,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2018,
@@ -675,7 +675,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2018,
@@ -684,7 +684,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2018,
@@ -693,7 +693,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2018,
@@ -702,7 +702,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2018,
@@ -711,7 +711,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2018,
@@ -720,7 +720,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2018,
@@ -729,7 +729,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2018,
@@ -738,7 +738,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2018,
@@ -747,7 +747,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2018,
@@ -756,7 +756,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2018,
@@ -765,7 +765,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2018,
@@ -774,7 +774,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2018,
@@ -783,7 +783,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -792,7 +792,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -801,7 +801,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -810,7 +810,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -819,7 +819,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -828,7 +828,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -837,7 +837,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -846,7 +846,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -855,7 +855,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -864,7 +864,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -873,7 +873,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -882,7 +882,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -891,7 +891,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -900,7 +900,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -909,7 +909,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -918,7 +918,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -927,7 +927,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -936,7 +936,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -945,7 +945,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -954,7 +954,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -963,7 +963,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -972,7 +972,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -981,7 +981,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -990,7 +990,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -999,7 +999,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2017,
@@ -1008,7 +1008,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2017,
@@ -1017,7 +1017,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2017,
@@ -1026,7 +1026,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2017,
@@ -1035,7 +1035,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2017,
@@ -1044,7 +1044,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2017,
@@ -1053,7 +1053,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2017,
@@ -1062,7 +1062,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2017,
@@ -1071,7 +1071,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2017,
@@ -1080,7 +1080,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2017,
@@ -1089,7 +1089,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2017,
@@ -1098,7 +1098,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2018,
@@ -1107,7 +1107,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2018,
@@ -1116,7 +1116,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2018,
@@ -1125,7 +1125,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2018,
@@ -1134,7 +1134,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2018,
@@ -1143,7 +1143,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2018,
@@ -1152,7 +1152,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2018,
@@ -1161,7 +1161,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2018,
@@ -1170,7 +1170,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2018,
@@ -1179,7 +1179,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2018,
@@ -1188,7 +1188,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2018,
@@ -1197,7 +1197,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2018,
@@ -1206,7 +1206,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2018,
@@ -1215,7 +1215,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2018,
@@ -1224,7 +1224,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -1233,7 +1233,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -1242,7 +1242,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -1251,7 +1251,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -1260,7 +1260,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -1269,7 +1269,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -1278,7 +1278,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -1287,7 +1287,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -1296,7 +1296,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -1305,7 +1305,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -1314,7 +1314,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -1323,7 +1323,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -1332,7 +1332,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -1341,7 +1341,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -1350,7 +1350,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -1359,7 +1359,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -1368,7 +1368,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -1377,7 +1377,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -1386,7 +1386,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -1395,7 +1395,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -1404,7 +1404,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -1413,7 +1413,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -1422,7 +1422,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -1431,7 +1431,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -1440,7 +1440,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2017,
@@ -1449,7 +1449,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2017,
@@ -1458,7 +1458,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2017,
@@ -1467,7 +1467,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2017,
@@ -1476,7 +1476,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2017,
@@ -1485,7 +1485,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2017,
@@ -1494,7 +1494,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2017,
@@ -1503,7 +1503,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2017,
@@ -1512,7 +1512,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2017,
@@ -1521,7 +1521,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2017,
@@ -1530,7 +1530,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2018,
@@ -1539,7 +1539,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2018,
@@ -1548,7 +1548,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2018,
@@ -1557,7 +1557,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2018,
@@ -1566,7 +1566,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2018,
@@ -1575,7 +1575,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2018,
@@ -1584,7 +1584,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2018,
@@ -1593,7 +1593,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2018,
@@ -1602,7 +1602,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2018,
@@ -1611,7 +1611,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2018,
@@ -1620,7 +1620,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2018,
@@ -1629,7 +1629,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2018,
@@ -1638,7 +1638,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2018,
@@ -1647,7 +1647,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2018,
@@ -1656,7 +1656,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2017,
@@ -1665,7 +1665,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2017,
@@ -1674,7 +1674,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2017,
@@ -1683,7 +1683,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2017,
@@ -1692,7 +1692,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2017,
@@ -1701,7 +1701,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2017,
@@ -1710,7 +1710,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2017,
@@ -1719,7 +1719,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2017,
@@ -1728,7 +1728,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2017,
@@ -1737,7 +1737,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2017,
@@ -1746,7 +1746,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2018,
@@ -1755,7 +1755,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2018,
@@ -1764,7 +1764,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2018,
@@ -1773,7 +1773,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2018,
@@ -1782,7 +1782,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2018,
@@ -1791,7 +1791,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2018,
@@ -1800,7 +1800,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2018,
@@ -1809,7 +1809,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2018,
@@ -1818,7 +1818,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2018,
@@ -1827,7 +1827,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2018,
@@ -1836,7 +1836,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2018,
@@ -1845,7 +1845,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2018,
@@ -1854,7 +1854,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2018,
@@ -1863,7 +1863,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2018,
@@ -1872,7 +1872,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2017,
@@ -1881,7 +1881,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2017,
@@ -1890,7 +1890,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2017,
@@ -1899,7 +1899,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2017,
@@ -1908,7 +1908,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2017,
@@ -1917,7 +1917,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2017,
@@ -1926,7 +1926,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2017,
@@ -1935,7 +1935,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2017,
@@ -1944,7 +1944,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2017,
@@ -1953,7 +1953,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2017,
@@ -1962,7 +1962,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2018,
@@ -1971,7 +1971,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2018,
@@ -1980,7 +1980,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2018,
@@ -1989,7 +1989,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2018,
@@ -1998,7 +1998,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2018,
@@ -2007,7 +2007,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2018,
@@ -2016,7 +2016,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2018,
@@ -2025,7 +2025,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2018,
@@ -2034,7 +2034,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2018,
@@ -2043,7 +2043,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2018,
@@ -2052,7 +2052,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2018,
@@ -2061,7 +2061,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2018,
@@ -2070,7 +2070,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2018,
@@ -2079,7 +2079,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2018,
@@ -2088,7 +2088,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2017,
@@ -2097,7 +2097,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2017,
@@ -2106,7 +2106,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2017,
@@ -2115,7 +2115,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2017,
@@ -2124,7 +2124,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2017,
@@ -2133,7 +2133,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2017,
@@ -2142,7 +2142,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2017,
@@ -2151,7 +2151,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2017,
@@ -2160,7 +2160,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2017,
@@ -2169,7 +2169,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2018,
@@ -2178,7 +2178,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2018,
@@ -2187,7 +2187,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2018,
@@ -2196,7 +2196,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2018,
@@ -2205,7 +2205,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2018,
@@ -2214,7 +2214,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2018,
@@ -2223,7 +2223,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2018,
@@ -2232,7 +2232,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2018,
@@ -2241,7 +2241,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2018,
@@ -2250,7 +2250,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2018,
@@ -2259,7 +2259,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2018,
@@ -2268,7 +2268,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2018,
@@ -2277,7 +2277,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2017,
@@ -2286,7 +2286,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2017,
@@ -2295,7 +2295,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2017,
@@ -2304,7 +2304,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2017,
@@ -2313,7 +2313,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2017,
@@ -2322,7 +2322,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2017,
@@ -2331,7 +2331,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2017,
@@ -2340,7 +2340,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2017,
@@ -2349,7 +2349,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2017,
@@ -2358,7 +2358,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2017,
@@ -2367,7 +2367,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -2376,7 +2376,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -2385,7 +2385,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -2394,7 +2394,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -2403,7 +2403,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -2412,7 +2412,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -2421,7 +2421,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -2430,7 +2430,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -2439,7 +2439,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -2448,7 +2448,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -2457,7 +2457,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -2466,7 +2466,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -2475,7 +2475,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -2484,7 +2484,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -2493,7 +2493,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -2502,7 +2502,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -2511,7 +2511,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -2520,7 +2520,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -2529,7 +2529,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -2538,7 +2538,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -2547,7 +2547,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -2556,7 +2556,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -2565,7 +2565,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -2574,7 +2574,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -2583,7 +2583,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -2592,7 +2592,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -2601,7 +2601,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -2610,7 +2610,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -2619,7 +2619,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -2628,7 +2628,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -2637,7 +2637,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -2646,7 +2646,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -2655,7 +2655,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -2664,7 +2664,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -2673,7 +2673,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -2682,7 +2682,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2017,
@@ -2691,7 +2691,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2017,
@@ -2700,7 +2700,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2017,
@@ -2709,7 +2709,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2017,
@@ -2718,7 +2718,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2017,
@@ -2727,7 +2727,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2017,
@@ -2736,7 +2736,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2017,
@@ -2745,7 +2745,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2017,
@@ -2754,7 +2754,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2017,
@@ -2763,7 +2763,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2017,
@@ -2772,7 +2772,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2018,
@@ -2781,7 +2781,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2018,
@@ -2790,7 +2790,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2018,
@@ -2799,7 +2799,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2018,
@@ -2808,7 +2808,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2018,
@@ -2817,7 +2817,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2018,
@@ -2826,7 +2826,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2018,
@@ -2835,7 +2835,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2018,
@@ -2844,7 +2844,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2018,
@@ -2853,7 +2853,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2018,
@@ -2862,7 +2862,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2018,
@@ -2871,7 +2871,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2018,
@@ -2880,7 +2880,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2018,
@@ -2889,7 +2889,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2018,
@@ -2898,7 +2898,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2017,
@@ -2907,7 +2907,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2017,
@@ -2916,7 +2916,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2017,
@@ -2925,7 +2925,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2017,
@@ -2934,7 +2934,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2017,
@@ -2943,7 +2943,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2017,
@@ -2952,7 +2952,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -2961,7 +2961,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -2970,7 +2970,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -2979,7 +2979,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -2988,7 +2988,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -2997,7 +2997,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -3006,7 +3006,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -3015,7 +3015,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -3024,7 +3024,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -3033,7 +3033,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -3042,7 +3042,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -3051,7 +3051,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -3060,7 +3060,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -3069,7 +3069,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -3078,7 +3078,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -3087,7 +3087,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -3096,7 +3096,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -3105,7 +3105,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -3114,7 +3114,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -3123,7 +3123,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -3132,7 +3132,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -3141,7 +3141,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -3150,7 +3150,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -3159,7 +3159,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -3168,7 +3168,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -3177,7 +3177,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -3186,7 +3186,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -3195,7 +3195,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -3204,7 +3204,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -3213,7 +3213,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -3222,7 +3222,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -3231,7 +3231,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -3240,7 +3240,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -3249,7 +3249,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -3258,7 +3258,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -3267,7 +3267,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -3276,7 +3276,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -3285,7 +3285,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -3294,7 +3294,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -3303,7 +3303,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -3312,7 +3312,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -3321,7 +3321,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -3330,7 +3330,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -3339,7 +3339,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -3348,7 +3348,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -3357,7 +3357,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -3366,7 +3366,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -3375,7 +3375,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -3384,7 +3384,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -3393,7 +3393,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -3402,7 +3402,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -3411,7 +3411,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -3420,7 +3420,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -3429,7 +3429,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -3438,7 +3438,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -3447,7 +3447,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -3456,7 +3456,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -3465,7 +3465,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -3474,7 +3474,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -3483,7 +3483,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -3492,7 +3492,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -3501,7 +3501,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -3510,7 +3510,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -3519,7 +3519,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -3528,7 +3528,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -3537,7 +3537,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -3546,7 +3546,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -3555,7 +3555,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -3564,7 +3564,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -3573,7 +3573,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -3582,7 +3582,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -3591,7 +3591,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -3600,7 +3600,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -3609,7 +3609,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -3618,7 +3618,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -3627,7 +3627,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -3636,7 +3636,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -3645,7 +3645,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -3654,7 +3654,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -3663,7 +3663,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -3672,7 +3672,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -3681,7 +3681,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -3690,7 +3690,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -3699,7 +3699,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -3708,7 +3708,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -3717,7 +3717,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -3726,7 +3726,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -3735,7 +3735,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -3744,7 +3744,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -3753,7 +3753,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -3762,7 +3762,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -3771,7 +3771,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -3780,7 +3780,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -3789,7 +3789,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -3798,7 +3798,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -3807,7 +3807,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -3816,7 +3816,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -3825,7 +3825,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -3834,7 +3834,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -3843,7 +3843,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -3852,7 +3852,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -3861,7 +3861,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -3870,7 +3870,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -3879,7 +3879,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -3888,7 +3888,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -3897,7 +3897,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -3906,7 +3906,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -3915,7 +3915,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2017,
@@ -3924,7 +3924,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2017,
@@ -3933,7 +3933,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2017,
@@ -3942,7 +3942,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2017,
@@ -3951,7 +3951,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2017,
@@ -3960,7 +3960,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2017,
@@ -3969,7 +3969,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2017,
@@ -3978,7 +3978,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2017,
@@ -3987,7 +3987,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2017,
@@ -3996,7 +3996,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2017,
@@ -4005,7 +4005,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2018,
@@ -4014,7 +4014,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2018,
@@ -4023,7 +4023,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2018,
@@ -4032,7 +4032,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2018,
@@ -4041,7 +4041,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2018,
@@ -4050,7 +4050,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2018,
@@ -4059,7 +4059,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2018,
@@ -4068,7 +4068,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2018,
@@ -4077,7 +4077,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2018,
@@ -4086,7 +4086,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2018,
@@ -4095,7 +4095,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2018,
@@ -4104,7 +4104,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2018,
@@ -4113,7 +4113,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2018,
@@ -4122,7 +4122,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2018,
@@ -4131,7 +4131,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários legais",
 	"ano": 2017,
@@ -4140,7 +4140,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários legais",
 	"ano": 2017,
@@ -4149,7 +4149,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários legais",
 	"ano": 2017,
@@ -4158,7 +4158,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários legais",
 	"ano": 2017,
@@ -4167,7 +4167,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários legais",
 	"ano": 2017,
@@ -4176,7 +4176,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários legais",
 	"ano": 2018,
@@ -4185,7 +4185,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários legais",
 	"ano": 2018,
@@ -4194,7 +4194,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários legais",
 	"ano": 2018,
@@ -4203,7 +4203,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários legais",
 	"ano": 2018,
@@ -4212,7 +4212,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários legais",
 	"ano": 2018,
@@ -4221,7 +4221,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários legais",
 	"ano": 2018,
@@ -4230,7 +4230,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários legais",
 	"ano": 2018,
@@ -4239,7 +4239,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários legais",
 	"ano": 2018,
@@ -4248,7 +4248,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários legais",
 	"ano": 2018,
@@ -4257,7 +4257,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários legais",
 	"ano": 2018,
@@ -4266,7 +4266,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2017,
@@ -4275,7 +4275,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2017,
@@ -4284,7 +4284,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2017,
@@ -4293,7 +4293,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2017,
@@ -4302,7 +4302,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2017,
@@ -4311,7 +4311,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2017,
@@ -4320,7 +4320,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2017,
@@ -4329,7 +4329,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2017,
@@ -4338,7 +4338,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2017,
@@ -4347,7 +4347,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2017,
@@ -4356,7 +4356,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2018,
@@ -4365,7 +4365,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2018,
@@ -4374,7 +4374,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2018,
@@ -4383,7 +4383,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2018,
@@ -4392,7 +4392,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2018,
@@ -4401,7 +4401,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2018,
@@ -4410,7 +4410,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2018,
@@ -4419,7 +4419,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2018,
@@ -4428,7 +4428,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2018,
@@ -4437,7 +4437,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2018,
@@ -4446,7 +4446,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2018,
@@ -4455,7 +4455,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2018,
@@ -4464,7 +4464,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2018,
@@ -4473,7 +4473,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2018,
@@ -4482,7 +4482,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2017,
@@ -4491,7 +4491,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2017,
@@ -4500,7 +4500,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2017,
@@ -4509,7 +4509,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2017,
@@ -4518,7 +4518,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2017,
@@ -4527,7 +4527,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2017,
@@ -4536,7 +4536,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2017,
@@ -4545,7 +4545,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2017,
@@ -4554,7 +4554,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2017,
@@ -4563,7 +4563,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2017,
@@ -4572,7 +4572,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2017,
@@ -4581,7 +4581,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2018,
@@ -4590,7 +4590,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2018,
@@ -4599,7 +4599,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2018,
@@ -4608,7 +4608,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2018,
@@ -4617,7 +4617,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2018,
@@ -4626,7 +4626,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2018,
@@ -4635,7 +4635,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2018,
@@ -4644,7 +4644,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2018,
@@ -4653,7 +4653,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2018,
@@ -4662,7 +4662,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2018,
@@ -4671,7 +4671,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2018,
@@ -4680,7 +4680,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2018,
@@ -4689,7 +4689,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2018,
@@ -4698,7 +4698,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2018,
@@ -4707,7 +4707,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Outros Honorários",
 	"ano": 2017,
@@ -4716,7 +4716,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Outros Honorários",
 	"ano": 2017,
@@ -4725,7 +4725,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Outros Honorários",
 	"ano": 2017,
@@ -4734,7 +4734,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Outros Honorários",
 	"ano": 2017,
@@ -4743,7 +4743,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Outros Honorários",
 	"ano": 2017,
@@ -4752,7 +4752,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Outros Honorários",
 	"ano": 2018,
@@ -4761,7 +4761,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Outros Honorários",
 	"ano": 2018,
@@ -4770,7 +4770,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Outros Honorários",
 	"ano": 2018,
@@ -4779,7 +4779,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Outros Honorários",
 	"ano": 2018,
@@ -4788,7 +4788,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Outros Honorários",
 	"ano": 2018,
@@ -4797,7 +4797,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Outros Honorários",
 	"ano": 2018,
@@ -4806,7 +4806,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Outros Honorários",
 	"ano": 2018,
@@ -4815,7 +4815,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2017,
@@ -4824,7 +4824,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2017,
@@ -4833,7 +4833,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2017,
@@ -4842,7 +4842,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2017,
@@ -4851,7 +4851,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2017,
@@ -4860,7 +4860,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -4869,7 +4869,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -4878,7 +4878,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -4887,7 +4887,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -4896,7 +4896,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -4905,7 +4905,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -4914,7 +4914,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -4923,7 +4923,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -4932,7 +4932,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -4941,7 +4941,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -4950,7 +4950,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -4959,7 +4959,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -4968,7 +4968,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -4977,7 +4977,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -4986,7 +4986,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -4995,7 +4995,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -5004,7 +5004,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -5013,7 +5013,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -5022,7 +5022,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -5031,7 +5031,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -5040,7 +5040,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -5049,7 +5049,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -5058,7 +5058,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -5067,7 +5067,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -5076,7 +5076,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -5085,7 +5085,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -5094,7 +5094,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -5103,7 +5103,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -5112,7 +5112,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -5121,7 +5121,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -5130,7 +5130,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -5139,7 +5139,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -5148,7 +5148,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -5157,7 +5157,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Uniformes",
 	"ano": 2017,
@@ -5166,7 +5166,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Uniformes",
 	"ano": 2017,
@@ -5175,7 +5175,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Uniformes",
 	"ano": 2017,
@@ -5184,7 +5184,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Uniformes",
 	"ano": 2017,
@@ -5193,7 +5193,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Uniformes",
 	"ano": 2017,
@@ -5202,7 +5202,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -5211,7 +5211,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -5220,7 +5220,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -5229,7 +5229,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -5238,7 +5238,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -5247,7 +5247,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -5256,7 +5256,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -5265,7 +5265,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2017,
@@ -5274,7 +5274,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2017,
@@ -5283,7 +5283,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2017,
@@ -5292,7 +5292,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2017,
@@ -5301,7 +5301,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2017,
@@ -5310,7 +5310,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2017,
@@ -5319,7 +5319,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2017,
@@ -5328,7 +5328,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2017,
@@ -5337,7 +5337,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2017,
@@ -5346,7 +5346,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2017,
@@ -5355,7 +5355,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2018,
@@ -5364,7 +5364,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2018,
@@ -5373,7 +5373,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2018,
@@ -5382,7 +5382,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2018,
@@ -5391,7 +5391,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2018,
@@ -5400,7 +5400,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2018,
@@ -5409,7 +5409,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2018,
@@ -5418,7 +5418,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2018,
@@ -5427,7 +5427,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2018,
@@ -5436,7 +5436,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2018,
@@ -5445,7 +5445,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2018,
@@ -5454,7 +5454,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2018,
@@ -5463,7 +5463,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2018,
@@ -5472,7 +5472,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2018,
@@ -5481,7 +5481,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -5490,7 +5490,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -5499,7 +5499,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -5508,7 +5508,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -5517,7 +5517,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -5526,7 +5526,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -5535,7 +5535,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -5544,7 +5544,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -5553,7 +5553,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -5562,7 +5562,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -5571,7 +5571,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -5580,7 +5580,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -5589,7 +5589,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -5598,7 +5598,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -5607,7 +5607,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -5616,7 +5616,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -5625,7 +5625,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -5634,7 +5634,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -5643,7 +5643,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -5652,7 +5652,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -5661,7 +5661,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -5670,7 +5670,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -5679,7 +5679,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -5688,7 +5688,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -5697,7 +5697,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -5706,7 +5706,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -5715,7 +5715,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -5724,7 +5724,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -5733,7 +5733,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -5742,7 +5742,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -5751,7 +5751,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -5760,7 +5760,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -5769,7 +5769,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -5778,7 +5778,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -5787,7 +5787,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -5796,7 +5796,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -5805,7 +5805,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2017,
@@ -5814,7 +5814,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2017,
@@ -5823,7 +5823,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2017,
@@ -5832,7 +5832,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2017,
@@ -5841,7 +5841,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2017,
@@ -5850,7 +5850,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2017,
@@ -5859,7 +5859,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2017,
@@ -5868,7 +5868,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2017,
@@ -5877,7 +5877,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2017,
@@ -5886,7 +5886,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2017,
@@ -5895,7 +5895,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2018,
@@ -5904,7 +5904,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2018,
@@ -5913,7 +5913,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2018,
@@ -5922,7 +5922,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2018,
@@ -5931,7 +5931,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2018,
@@ -5940,7 +5940,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2018,
@@ -5949,7 +5949,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2018,
@@ -5958,7 +5958,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2018,
@@ -5967,7 +5967,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2018,
@@ -5976,7 +5976,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2018,
@@ -5985,7 +5985,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2018,
@@ -5994,7 +5994,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2018,
@@ -6003,7 +6003,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2018,
@@ -6012,7 +6012,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2018,
@@ -6021,7 +6021,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2017,
@@ -6030,7 +6030,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2017,
@@ -6039,7 +6039,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2017,
@@ -6048,7 +6048,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2017,
@@ -6057,7 +6057,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2017,
@@ -6066,7 +6066,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2017,
@@ -6075,7 +6075,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2017,
@@ -6084,7 +6084,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2017,
@@ -6093,7 +6093,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2017,
@@ -6102,7 +6102,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2017,
@@ -6111,7 +6111,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -6120,7 +6120,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -6129,7 +6129,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -6138,7 +6138,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -6147,7 +6147,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -6156,7 +6156,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -6165,7 +6165,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -6174,7 +6174,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -6183,7 +6183,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -6192,7 +6192,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -6201,7 +6201,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -6210,7 +6210,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -6219,7 +6219,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -6228,7 +6228,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -6237,7 +6237,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -6246,7 +6246,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -6255,7 +6255,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2017,
@@ -6264,7 +6264,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2017,
@@ -6273,7 +6273,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2017,
@@ -6282,7 +6282,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2017,
@@ -6291,7 +6291,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2017,
@@ -6300,7 +6300,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2017,
@@ -6309,7 +6309,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2017,
@@ -6318,7 +6318,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2017,
@@ -6327,7 +6327,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2017,
@@ -6336,7 +6336,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2017,
@@ -6345,7 +6345,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2017,
@@ -6354,7 +6354,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2018,
@@ -6363,7 +6363,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2018,
@@ -6372,7 +6372,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2018,
@@ -6381,7 +6381,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2018,
@@ -6390,7 +6390,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2018,
@@ -6399,7 +6399,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2018,
@@ -6408,7 +6408,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2018,
@@ -6417,7 +6417,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2018,
@@ -6426,7 +6426,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2018,
@@ -6435,7 +6435,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2018,
@@ -6444,7 +6444,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2018,
@@ -6453,7 +6453,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2018,
@@ -6462,7 +6462,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2018,
@@ -6471,7 +6471,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2018,
@@ -6480,7 +6480,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2018,
@@ -6489,7 +6489,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Diferença de cambio",
 	"ano": 2017,
@@ -6498,7 +6498,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Diferença de cambio",
 	"ano": 2017,
@@ -6507,7 +6507,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Diferença de cambio",
 	"ano": 2017,
@@ -6516,7 +6516,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Diferença de cambio",
 	"ano": 2017,
@@ -6525,7 +6525,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Diferença de cambio",
 	"ano": 2017,
@@ -6534,7 +6534,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Diferença de cambio",
 	"ano": 2017,
@@ -6543,7 +6543,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Diferença de cambio",
 	"ano": 2018,
@@ -6552,7 +6552,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Diferença de cambio",
 	"ano": 2018,
@@ -6561,7 +6561,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Diferença de cambio",
 	"ano": 2018,
@@ -6570,7 +6570,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Diferença de cambio",
 	"ano": 2018,
@@ -6579,7 +6579,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Diferença de cambio",
 	"ano": 2018,
@@ -6588,7 +6588,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Diferença de cambio",
 	"ano": 2018,
@@ -6597,7 +6597,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Diferença de cambio",
 	"ano": 2018,
@@ -6606,7 +6606,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Diferença de cambio",
 	"ano": 2018,
@@ -6615,7 +6615,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Diferença de cambio",
 	"ano": 2018,
@@ -6624,7 +6624,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Intereses financeiros",
 	"ano": 2017,
@@ -6633,7 +6633,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Intereses financeiros",
 	"ano": 2017,
@@ -6642,7 +6642,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Intereses financeiros",
 	"ano": 2017,
@@ -6651,7 +6651,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Intereses financeiros",
 	"ano": 2017,
@@ -6660,7 +6660,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Intereses financeiros",
 	"ano": 2017,
@@ -6669,7 +6669,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Intereses financeiros",
 	"ano": 2018,
@@ -6678,7 +6678,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Intereses financeiros",
 	"ano": 2018,
@@ -6687,7 +6687,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Intereses financeiros",
 	"ano": 2018,
@@ -6696,7 +6696,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Intereses financeiros",
 	"ano": 2018,
@@ -6705,7 +6705,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Intereses financeiros",
 	"ano": 2018,
@@ -6714,7 +6714,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Intereses financeiros",
 	"ano": 2018,
@@ -6723,7 +6723,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Intereses financeiros",
 	"ano": 2018,
@@ -6732,7 +6732,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2017,
@@ -6741,7 +6741,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2017,
@@ -6750,7 +6750,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2017,
@@ -6759,7 +6759,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2017,
@@ -6768,7 +6768,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2017,
@@ -6777,7 +6777,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2017,
@@ -6786,7 +6786,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2017,
@@ -6795,7 +6795,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2017,
@@ -6804,7 +6804,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2017,
@@ -6813,7 +6813,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2017,
@@ -6822,7 +6822,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2017,
@@ -6831,7 +6831,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2017,
@@ -6840,7 +6840,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2017,
@@ -6849,7 +6849,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2017,
@@ -6858,7 +6858,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2017,
@@ -6867,7 +6867,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -6876,7 +6876,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -6885,7 +6885,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -6894,7 +6894,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -6903,7 +6903,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -6912,7 +6912,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -6921,7 +6921,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -6930,7 +6930,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -6939,7 +6939,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -6948,7 +6948,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -6957,7 +6957,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -6966,7 +6966,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -6975,7 +6975,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -6984,7 +6984,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -6993,7 +6993,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -7002,7 +7002,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -7011,7 +7011,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -7020,7 +7020,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -7029,7 +7029,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -7038,7 +7038,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -7047,7 +7047,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2017,
@@ -7056,7 +7056,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2017,
@@ -7065,7 +7065,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2017,
@@ -7074,7 +7074,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2017,
@@ -7083,7 +7083,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2017,
@@ -7092,7 +7092,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2017,
@@ -7101,7 +7101,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2017,
@@ -7110,7 +7110,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2017,
@@ -7119,7 +7119,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2017,
@@ -7128,7 +7128,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2017,
@@ -7137,7 +7137,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2018,
@@ -7146,7 +7146,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2018,
@@ -7155,7 +7155,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2018,
@@ -7164,7 +7164,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2018,
@@ -7173,7 +7173,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2018,
@@ -7182,7 +7182,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2018,
@@ -7191,7 +7191,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2018,
@@ -7200,7 +7200,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2018,
@@ -7209,7 +7209,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2018,
@@ -7218,7 +7218,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2018,
@@ -7227,7 +7227,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2018,
@@ -7236,7 +7236,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2018,
@@ -7245,7 +7245,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2018,
@@ -7254,7 +7254,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2018,
@@ -7263,7 +7263,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2017,
@@ -7272,7 +7272,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2017,
@@ -7281,7 +7281,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2017,
@@ -7290,7 +7290,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2017,
@@ -7299,7 +7299,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2017,
@@ -7308,7 +7308,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2017,
@@ -7317,7 +7317,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2017,
@@ -7326,7 +7326,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2017,
@@ -7335,7 +7335,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2017,
@@ -7344,7 +7344,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2017,
@@ -7353,7 +7353,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2017,
@@ -7362,7 +7362,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2018,
@@ -7371,7 +7371,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2018,
@@ -7380,7 +7380,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2018,
@@ -7389,7 +7389,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2018,
@@ -7398,7 +7398,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2018,
@@ -7407,7 +7407,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2018,
@@ -7416,7 +7416,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2018,
@@ -7425,7 +7425,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2018,
@@ -7434,7 +7434,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2018,
@@ -7443,7 +7443,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2018,
@@ -7452,7 +7452,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2018,
@@ -7461,7 +7461,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2018,
@@ -7470,7 +7470,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2018,
@@ -7479,7 +7479,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2018,
@@ -7488,7 +7488,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2017,
@@ -7497,7 +7497,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2017,
@@ -7506,7 +7506,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2017,
@@ -7515,7 +7515,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2017,
@@ -7524,7 +7524,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2017,
@@ -7533,7 +7533,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2017,
@@ -7542,7 +7542,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2017,
@@ -7551,7 +7551,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2017,
@@ -7560,7 +7560,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2017,
@@ -7569,7 +7569,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2017,
@@ -7578,7 +7578,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2017,
@@ -7587,7 +7587,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2018,
@@ -7596,7 +7596,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2018,
@@ -7605,7 +7605,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2018,
@@ -7614,7 +7614,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2018,
@@ -7623,7 +7623,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2018,
@@ -7632,7 +7632,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2018,
@@ -7641,7 +7641,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2018,
@@ -7650,7 +7650,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2018,
@@ -7659,7 +7659,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2018,
@@ -7668,7 +7668,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2018,
@@ -7677,7 +7677,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2018,
@@ -7686,7 +7686,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2018,
@@ -7695,7 +7695,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2018,
@@ -7704,7 +7704,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2018,
@@ -7713,7 +7713,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2017,
@@ -7722,7 +7722,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2017,
@@ -7731,7 +7731,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2017,
@@ -7740,7 +7740,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2017,
@@ -7749,7 +7749,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2017,
@@ -7758,7 +7758,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2017,
@@ -7767,7 +7767,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2018,
@@ -7776,7 +7776,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2018,
@@ -7785,7 +7785,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2018,
@@ -7794,7 +7794,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2018,
@@ -7803,7 +7803,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2018,
@@ -7812,7 +7812,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2018,
@@ -7821,7 +7821,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2018,
@@ -7830,7 +7830,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2018,
@@ -7839,7 +7839,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2018,
@@ -7848,7 +7848,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2018,
@@ -7857,7 +7857,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2017,
@@ -7866,7 +7866,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2017,
@@ -7875,7 +7875,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2017,
@@ -7884,7 +7884,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2017,
@@ -7893,7 +7893,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2017,
@@ -7902,7 +7902,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2017,
@@ -7911,7 +7911,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2017,
@@ -7920,7 +7920,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2017,
@@ -7929,7 +7929,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2017,
@@ -7938,7 +7938,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2017,
@@ -7947,7 +7947,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2018,
@@ -7956,7 +7956,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2018,
@@ -7965,7 +7965,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2018,
@@ -7974,7 +7974,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2018,
@@ -7983,7 +7983,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2018,
@@ -7992,7 +7992,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2018,
@@ -8001,7 +8001,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2018,
@@ -8010,7 +8010,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2018,
@@ -8019,7 +8019,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2018,
@@ -8028,7 +8028,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2018,
@@ -8037,7 +8037,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2018,
@@ -8046,7 +8046,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2018,
@@ -8055,7 +8055,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2017,
@@ -8064,7 +8064,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2017,
@@ -8073,7 +8073,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2017,
@@ -8082,7 +8082,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2017,
@@ -8091,7 +8091,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2017,
@@ -8100,7 +8100,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2017,
@@ -8109,7 +8109,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2017,
@@ -8118,7 +8118,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2017,
@@ -8127,7 +8127,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2017,
@@ -8136,7 +8136,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2017,
@@ -8145,7 +8145,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2018,
@@ -8154,7 +8154,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2018,
@@ -8163,7 +8163,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2018,
@@ -8172,7 +8172,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2018,
@@ -8181,7 +8181,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2018,
@@ -8190,7 +8190,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2018,
@@ -8199,7 +8199,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2018,
@@ -8208,7 +8208,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2018,
@@ -8217,7 +8217,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2018,
@@ -8226,7 +8226,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2018,
@@ -8235,7 +8235,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2018,
@@ -8244,7 +8244,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2018,
@@ -8253,7 +8253,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2018,
@@ -8262,7 +8262,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2018,
@@ -8271,7 +8271,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2017,
@@ -8280,7 +8280,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2017,
@@ -8289,7 +8289,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2017,
@@ -8298,7 +8298,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2017,
@@ -8307,7 +8307,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2017,
@@ -8316,7 +8316,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2017,
@@ -8325,7 +8325,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2017,
@@ -8334,7 +8334,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2017,
@@ -8343,7 +8343,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2017,
@@ -8352,7 +8352,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2017,
@@ -8361,7 +8361,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2018,
@@ -8370,7 +8370,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2018,
@@ -8379,7 +8379,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2018,
@@ -8388,7 +8388,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2018,
@@ -8397,7 +8397,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2018,
@@ -8406,7 +8406,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2018,
@@ -8415,7 +8415,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2018,
@@ -8424,7 +8424,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2018,
@@ -8433,7 +8433,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2018,
@@ -8442,7 +8442,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2018,
@@ -8451,7 +8451,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2018,
@@ -8460,7 +8460,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2018,
@@ -8469,7 +8469,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2018,
@@ -8478,7 +8478,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2018,
@@ -8487,7 +8487,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2017,
@@ -8496,7 +8496,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2017,
@@ -8505,7 +8505,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2017,
@@ -8514,7 +8514,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2017,
@@ -8523,7 +8523,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2017,
@@ -8532,7 +8532,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2017,
@@ -8541,7 +8541,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2017,
@@ -8550,7 +8550,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2017,
@@ -8559,7 +8559,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2017,
@@ -8568,7 +8568,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2017,
@@ -8577,7 +8577,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2018,
@@ -8586,7 +8586,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2018,
@@ -8595,7 +8595,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2018,
@@ -8604,7 +8604,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2018,
@@ -8613,7 +8613,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2018,
@@ -8622,7 +8622,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2018,
@@ -8631,7 +8631,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2018,
@@ -8640,7 +8640,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2018,
@@ -8649,7 +8649,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2018,
@@ -8658,7 +8658,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2018,
@@ -8667,7 +8667,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2018,
@@ -8676,7 +8676,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2018,
@@ -8685,7 +8685,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2018,
@@ -8694,7 +8694,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2018,
@@ -8703,7 +8703,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2017,
@@ -8712,7 +8712,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2017,
@@ -8721,7 +8721,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2017,
@@ -8730,7 +8730,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2017,
@@ -8739,7 +8739,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2017,
@@ -8748,7 +8748,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2017,
@@ -8757,7 +8757,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2017,
@@ -8766,7 +8766,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2017,
@@ -8775,7 +8775,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2017,
@@ -8784,7 +8784,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2017,
@@ -8793,7 +8793,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2018,
@@ -8802,7 +8802,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2018,
@@ -8811,7 +8811,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2018,
@@ -8820,7 +8820,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2018,
@@ -8829,7 +8829,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2018,
@@ -8838,7 +8838,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2018,
@@ -8847,7 +8847,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2018,
@@ -8856,7 +8856,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2018,
@@ -8865,7 +8865,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2018,
@@ -8874,7 +8874,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2018,
@@ -8883,7 +8883,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2018,
@@ -8892,7 +8892,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2018,
@@ -8901,7 +8901,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2018,
@@ -8910,7 +8910,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2018,
@@ -8919,7 +8919,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2017,
@@ -8928,7 +8928,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2017,
@@ -8937,7 +8937,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2017,
@@ -8946,7 +8946,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2017,
@@ -8955,7 +8955,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2017,
@@ -8964,7 +8964,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2017,
@@ -8973,7 +8973,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2017,
@@ -8982,7 +8982,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2017,
@@ -8991,7 +8991,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2017,
@@ -9000,7 +9000,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2017,
@@ -9009,7 +9009,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2018,
@@ -9018,7 +9018,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2018,
@@ -9027,7 +9027,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2018,
@@ -9036,7 +9036,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2018,
@@ -9045,7 +9045,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2018,
@@ -9054,7 +9054,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2018,
@@ -9063,7 +9063,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2018,
@@ -9072,7 +9072,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2018,
@@ -9081,7 +9081,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2018,
@@ -9090,7 +9090,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2018,
@@ -9099,7 +9099,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2018,
@@ -9108,7 +9108,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2018,
@@ -9117,7 +9117,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2018,
@@ -9126,7 +9126,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2018,
@@ -9135,7 +9135,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2017,
@@ -9144,7 +9144,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2017,
@@ -9153,7 +9153,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2017,
@@ -9162,7 +9162,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2017,
@@ -9171,7 +9171,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2017,
@@ -9180,7 +9180,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2017,
@@ -9189,7 +9189,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2017,
@@ -9198,7 +9198,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2017,
@@ -9207,7 +9207,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2018,
@@ -9216,7 +9216,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2018,
@@ -9225,7 +9225,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2018,
@@ -9234,7 +9234,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2018,
@@ -9243,7 +9243,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2018,
@@ -9252,7 +9252,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2018,
@@ -9261,7 +9261,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2018,
@@ -9270,7 +9270,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2018,
@@ -9279,7 +9279,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2018,
@@ -9288,7 +9288,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2018,
@@ -9297,7 +9297,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2018,
@@ -9306,7 +9306,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2017,
@@ -9315,7 +9315,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2017,
@@ -9324,7 +9324,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2017,
@@ -9333,7 +9333,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2017,
@@ -9342,7 +9342,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2017,
@@ -9351,7 +9351,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2017,
@@ -9360,7 +9360,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2017,
@@ -9369,7 +9369,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2017,
@@ -9378,7 +9378,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2017,
@@ -9387,7 +9387,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2017,
@@ -9396,7 +9396,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2018,
@@ -9405,7 +9405,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2018,
@@ -9414,7 +9414,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2018,
@@ -9423,7 +9423,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2018,
@@ -9432,7 +9432,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2018,
@@ -9441,7 +9441,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2018,
@@ -9450,7 +9450,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2018,
@@ -9459,7 +9459,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2018,
@@ -9468,7 +9468,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2018,
@@ -9477,7 +9477,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2018,
@@ -9486,7 +9486,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2018,
@@ -9495,7 +9495,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2018,
@@ -9504,7 +9504,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2018,
@@ -9513,7 +9513,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2018,
@@ -9522,7 +9522,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2017,
@@ -9531,7 +9531,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2017,
@@ -9540,7 +9540,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2017,
@@ -9549,7 +9549,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2017,
@@ -9558,7 +9558,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2017,
@@ -9567,7 +9567,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2017,
@@ -9576,7 +9576,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2017,
@@ -9585,7 +9585,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2017,
@@ -9594,7 +9594,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2017,
@@ -9603,7 +9603,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2017,
@@ -9612,7 +9612,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2018,
@@ -9621,7 +9621,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2018,
@@ -9630,7 +9630,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2018,
@@ -9639,7 +9639,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2018,
@@ -9648,7 +9648,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2018,
@@ -9657,7 +9657,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2018,
@@ -9666,7 +9666,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2018,
@@ -9675,7 +9675,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2018,
@@ -9684,7 +9684,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2018,
@@ -9693,7 +9693,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2018,
@@ -9702,7 +9702,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2018,
@@ -9711,7 +9711,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2018,
@@ -9720,7 +9720,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2018,
@@ -9729,7 +9729,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2018,
@@ -9738,7 +9738,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Royalties",
 	"ano": 2017,
@@ -9747,7 +9747,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Royalties",
 	"ano": 2017,
@@ -9756,7 +9756,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Royalties",
 	"ano": 2017,
@@ -9765,7 +9765,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Royalties",
 	"ano": 2017,
@@ -9774,7 +9774,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Royalties",
 	"ano": 2017,
@@ -9783,7 +9783,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Royalties",
 	"ano": 2018,
@@ -9792,7 +9792,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Royalties",
 	"ano": 2018,
@@ -9801,7 +9801,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Royalties",
 	"ano": 2018,
@@ -9810,7 +9810,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Royalties",
 	"ano": 2018,
@@ -9819,7 +9819,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Royalties",
 	"ano": 2018,
@@ -9828,7 +9828,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Royalties",
 	"ano": 2018,
@@ -9837,7 +9837,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Royalties",
 	"ano": 2018,
@@ -9846,7 +9846,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2017,
@@ -9855,7 +9855,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2017,
@@ -9864,7 +9864,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2017,
@@ -9873,7 +9873,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2017,
@@ -9882,7 +9882,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2017,
@@ -9891,7 +9891,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2017,
@@ -9900,7 +9900,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2017,
@@ -9909,7 +9909,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2017,
@@ -9918,7 +9918,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2017,
@@ -9927,7 +9927,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2017,
@@ -9936,7 +9936,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2017,
@@ -9945,7 +9945,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2017,
@@ -9954,7 +9954,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2018,
@@ -9963,7 +9963,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2018,
@@ -9972,7 +9972,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2018,
@@ -9981,7 +9981,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2018,
@@ -9990,7 +9990,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2018,
@@ -9999,7 +9999,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2018,
@@ -10008,7 +10008,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2018,
@@ -10017,7 +10017,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2018,
@@ -10026,7 +10026,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2018,
@@ -10035,7 +10035,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2018,
@@ -10044,7 +10044,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2018,
@@ -10053,7 +10053,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2018,
@@ -10062,7 +10062,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2018,
@@ -10071,7 +10071,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2018,
@@ -10080,7 +10080,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2017,
@@ -10089,7 +10089,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2017,
@@ -10098,7 +10098,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2017,
@@ -10107,7 +10107,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2017,
@@ -10116,7 +10116,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2017,
@@ -10125,7 +10125,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2018,
@@ -10134,7 +10134,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2018,
@@ -10143,7 +10143,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2018,
@@ -10152,7 +10152,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2018,
@@ -10161,7 +10161,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2018,
@@ -10170,7 +10170,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2018,
@@ -10179,7 +10179,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2018,
@@ -10188,7 +10188,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2018,
@@ -10197,7 +10197,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2018,
@@ -10206,7 +10206,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2018,
@@ -10215,7 +10215,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2018,
@@ -10224,7 +10224,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2018,
@@ -10233,7 +10233,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2018,
@@ -10242,7 +10242,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2018,
@@ -10251,7 +10251,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Exclucao lanzamientos desbravador Antiguo",
 	"ano": 2017,
@@ -10260,7 +10260,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Exclucao lanzamientos desbravador Antiguo",
 	"ano": 2017,
@@ -10269,7 +10269,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Exclucao lanzamientos desbravador Antiguo",
 	"ano": 2017,
@@ -10278,7 +10278,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Exclucao lanzamientos desbravador Antiguo",
 	"ano": 2017,
@@ -10287,7 +10287,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Exclucao lanzamientos desbravador Antiguo",
 	"ano": 2017,
@@ -10296,7 +10296,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Exclucao lanzamientos desbravador Antiguo",
 	"ano": 2018,
@@ -10305,7 +10305,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Exclucao lanzamientos desbravador Antiguo",
 	"ano": 2018,
@@ -10314,7 +10314,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Exclucao lanzamientos desbravador Antiguo",
 	"ano": 2018,
@@ -10323,7 +10323,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Exclucao lanzamientos desbravador Antiguo",
 	"ano": 2018,
@@ -10332,7 +10332,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Exclucao lanzamientos desbravador Antiguo",
 	"ano": 2018,
@@ -10341,7 +10341,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Exclucao lanzamientos desbravador Antiguo",
 	"ano": 2018,
@@ -10350,7 +10350,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Exclucao lanzamientos desbravador Antiguo",
 	"ano": 2018,
@@ -10359,7 +10359,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Faltante de Caja a recuperar",
 	"ano": 2017,
@@ -10368,7 +10368,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Faltante de Caja a recuperar",
 	"ano": 2017,
@@ -10377,7 +10377,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Faltante de Caja a recuperar",
 	"ano": 2017,
@@ -10386,7 +10386,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Faltante de Caja a recuperar",
 	"ano": 2017,
@@ -10395,7 +10395,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Faltante de Caja a recuperar",
 	"ano": 2017,
@@ -10404,7 +10404,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Faltante de Caja a recuperar",
 	"ano": 2017,
@@ -10413,7 +10413,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Faltante de Caja a recuperar",
 	"ano": 2018,
@@ -10422,7 +10422,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Faltante de Caja a recuperar",
 	"ano": 2018,
@@ -10431,7 +10431,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Faltante de Caja a recuperar",
 	"ano": 2018,
@@ -10440,7 +10440,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Faltante de Caja a recuperar",
 	"ano": 2018,
@@ -10449,7 +10449,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Faltante de Caja a recuperar",
 	"ano": 2018,
@@ -10458,7 +10458,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Faltante de Caja a recuperar",
 	"ano": 2018,
@@ -10467,7 +10467,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Faltante de Caja a recuperar",
 	"ano": 2018,
@@ -10476,7 +10476,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2017,
@@ -10485,7 +10485,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2017,
@@ -10494,7 +10494,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2017,
@@ -10503,7 +10503,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2017,
@@ -10512,7 +10512,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2017,
@@ -10521,7 +10521,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2017,
@@ -10530,7 +10530,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2017,
@@ -10539,7 +10539,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2017,
@@ -10548,7 +10548,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2017,
@@ -10557,7 +10557,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2017,
@@ -10566,7 +10566,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2018,
@@ -10575,7 +10575,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2018,
@@ -10584,7 +10584,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2018,
@@ -10593,7 +10593,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2018,
@@ -10602,7 +10602,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2018,
@@ -10611,7 +10611,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2018,
@@ -10620,7 +10620,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2018,
@@ -10629,7 +10629,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2018,
@@ -10638,7 +10638,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2018,
@@ -10647,7 +10647,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2018,
@@ -10656,7 +10656,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2018,
@@ -10665,7 +10665,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2018,
@@ -10674,7 +10674,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2018,
@@ -10683,7 +10683,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2018,
@@ -10692,7 +10692,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2017,
@@ -10701,7 +10701,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2017,
@@ -10710,7 +10710,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2017,
@@ -10719,7 +10719,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2017,
@@ -10728,7 +10728,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2017,
@@ -10737,7 +10737,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2017,
@@ -10746,7 +10746,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2017,
@@ -10755,7 +10755,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2017,
@@ -10764,7 +10764,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2017,
@@ -10773,7 +10773,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2017,
@@ -10782,7 +10782,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2017,
@@ -10791,7 +10791,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2018,
@@ -10800,7 +10800,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2018,
@@ -10809,7 +10809,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2018,
@@ -10818,7 +10818,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2018,
@@ -10827,7 +10827,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2018,
@@ -10836,7 +10836,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2018,
@@ -10845,7 +10845,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2018,
@@ -10854,7 +10854,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2018,
@@ -10863,7 +10863,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2018,
@@ -10872,7 +10872,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2018,
@@ -10881,7 +10881,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2018,
@@ -10890,7 +10890,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2018,
@@ -10899,7 +10899,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2017,
@@ -10908,7 +10908,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2017,
@@ -10917,7 +10917,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2017,
@@ -10926,7 +10926,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2017,
@@ -10935,7 +10935,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2017,
@@ -10944,7 +10944,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -10953,7 +10953,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -10962,7 +10962,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -10971,7 +10971,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -10980,7 +10980,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -10989,7 +10989,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -10998,7 +10998,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -11007,7 +11007,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -11016,7 +11016,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -11025,7 +11025,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -11034,7 +11034,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -11043,7 +11043,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -11052,7 +11052,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -11061,7 +11061,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -11070,7 +11070,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2017,
@@ -11079,7 +11079,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2017,
@@ -11088,7 +11088,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2017,
@@ -11097,7 +11097,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2017,
@@ -11106,7 +11106,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2017,
@@ -11115,7 +11115,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2018,
@@ -11124,7 +11124,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2018,
@@ -11133,7 +11133,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2018,
@@ -11142,7 +11142,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2018,
@@ -11151,7 +11151,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2018,
@@ -11160,7 +11160,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2018,
@@ -11169,7 +11169,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2018,
@@ -11178,7 +11178,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas Operativas",
 	"nivel4": "Outras Despesas Operativas",
 	"ano": 2017,
@@ -11187,7 +11187,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas Operativas",
 	"nivel4": "Outras Despesas Operativas",
 	"ano": 2017,
@@ -11196,7 +11196,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas Operativas",
 	"nivel4": "Outras Despesas Operativas",
 	"ano": 2017,
@@ -11205,7 +11205,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas Operativas",
 	"nivel4": "Outras Despesas Operativas",
 	"ano": 2017,
@@ -11214,7 +11214,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas Operativas",
 	"nivel4": "Outras Despesas Operativas",
 	"ano": 2017,
@@ -11223,7 +11223,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas Operativas",
 	"nivel4": "Outras Despesas Operativas",
 	"ano": 2018,
@@ -11232,7 +11232,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas Operativas",
 	"nivel4": "Outras Despesas Operativas",
 	"ano": 2018,
@@ -11241,7 +11241,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas Operativas",
 	"nivel4": "Outras Despesas Operativas",
 	"ano": 2018,
@@ -11250,7 +11250,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas Operativas",
 	"nivel4": "Outras Despesas Operativas",
 	"ano": 2018,
@@ -11259,7 +11259,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas Operativas",
 	"nivel4": "Outras Despesas Operativas",
 	"ano": 2018,
@@ -11268,7 +11268,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas Operativas",
 	"nivel4": "Outras Despesas Operativas",
 	"ano": 2018,
@@ -11277,7 +11277,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas Operativas",
 	"nivel4": "Outras Despesas Operativas",
 	"ano": 2018,
@@ -11286,7 +11286,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas Operativas",
 	"nivel4": "Outras Despesas Operativas",
 	"ano": 2018,
@@ -11295,7 +11295,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas Operativas",
 	"nivel4": "Outras Despesas Operativas",
 	"ano": 2018,
@@ -11304,7 +11304,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "CSLL",
 	"ano": 2017,
@@ -11313,7 +11313,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "CSLL",
 	"ano": 2017,
@@ -11322,7 +11322,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "CSLL",
 	"ano": 2017,
@@ -11331,7 +11331,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "CSLL",
 	"ano": 2017,
@@ -11340,7 +11340,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "CSLL",
 	"ano": 2017,
@@ -11349,7 +11349,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "CSLL",
 	"ano": 2017,
@@ -11358,7 +11358,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "CSLL",
 	"ano": 2018,
@@ -11367,7 +11367,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "CSLL",
 	"ano": 2018,
@@ -11376,7 +11376,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "CSLL",
 	"ano": 2018,
@@ -11385,7 +11385,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "CSLL",
 	"ano": 2018,
@@ -11394,7 +11394,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "CSLL",
 	"ano": 2018,
@@ -11403,7 +11403,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "CSLL",
 	"ano": 2018,
@@ -11412,7 +11412,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "CSLL",
 	"ano": 2018,
@@ -11421,7 +11421,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "CSLL",
 	"ano": 2018,
@@ -11430,7 +11430,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "CSLL",
 	"ano": 2018,
@@ -11439,7 +11439,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "IRPJ",
 	"ano": 2017,
@@ -11448,7 +11448,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "IRPJ",
 	"ano": 2017,
@@ -11457,7 +11457,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "IRPJ",
 	"ano": 2017,
@@ -11466,7 +11466,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "IRPJ",
 	"ano": 2017,
@@ -11475,7 +11475,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "IRPJ",
 	"ano": 2017,
@@ -11484,7 +11484,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "IRPJ",
 	"ano": 2017,
@@ -11493,7 +11493,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "IRPJ",
 	"ano": 2018,
@@ -11502,7 +11502,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "IRPJ",
 	"ano": 2018,
@@ -11511,7 +11511,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "IRPJ",
 	"ano": 2018,
@@ -11520,7 +11520,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "IRPJ",
 	"ano": 2018,
@@ -11529,7 +11529,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "IRPJ",
 	"ano": 2018,
@@ -11538,7 +11538,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "IRPJ",
 	"ano": 2018,
@@ -11547,7 +11547,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "IRPJ",
 	"ano": 2018,
@@ -11556,7 +11556,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "IRPJ",
 	"ano": 2018,
@@ -11565,7 +11565,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "IRPJ",
 	"ano": 2018,
@@ -11574,7 +11574,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2017,
@@ -11583,7 +11583,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2017,
@@ -11592,7 +11592,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2017,
@@ -11601,7 +11601,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2017,
@@ -11610,7 +11610,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2017,
@@ -11619,7 +11619,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2017,
@@ -11628,7 +11628,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2017,
@@ -11637,7 +11637,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2017,
@@ -11646,7 +11646,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2017,
@@ -11655,7 +11655,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2017,
@@ -11664,7 +11664,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2018,
@@ -11673,7 +11673,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2018,
@@ -11682,7 +11682,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2018,
@@ -11691,7 +11691,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2018,
@@ -11700,7 +11700,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2018,
@@ -11709,7 +11709,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2018,
@@ -11718,7 +11718,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2018,
@@ -11727,7 +11727,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2018,
@@ -11736,7 +11736,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2018,
@@ -11745,7 +11745,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2018,
@@ -11754,7 +11754,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2018,
@@ -11763,7 +11763,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2018,
@@ -11772,7 +11772,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2018,
@@ -11781,7 +11781,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2018,
@@ -11790,7 +11790,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2017,
@@ -11799,7 +11799,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2017,
@@ -11808,7 +11808,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2017,
@@ -11817,7 +11817,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2017,
@@ -11826,7 +11826,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2017,
@@ -11835,7 +11835,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2017,
@@ -11844,7 +11844,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2017,
@@ -11853,7 +11853,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2017,
@@ -11862,7 +11862,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2017,
@@ -11871,7 +11871,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2017,
@@ -11880,7 +11880,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2018,
@@ -11889,7 +11889,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2018,
@@ -11898,7 +11898,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2018,
@@ -11907,7 +11907,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2018,
@@ -11916,7 +11916,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2018,
@@ -11925,7 +11925,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2018,
@@ -11934,7 +11934,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2018,
@@ -11943,7 +11943,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2018,
@@ -11952,7 +11952,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2018,
@@ -11961,7 +11961,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2018,
@@ -11970,7 +11970,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2018,
@@ -11979,7 +11979,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2018,
@@ -11988,7 +11988,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2018,
@@ -11997,7 +11997,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2018,
@@ -12006,7 +12006,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2017,
@@ -12015,7 +12015,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2017,
@@ -12024,7 +12024,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2017,
@@ -12033,7 +12033,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2017,
@@ -12042,7 +12042,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2017,
@@ -12051,7 +12051,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2017,
@@ -12060,7 +12060,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2017,
@@ -12069,7 +12069,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2017,
@@ -12078,7 +12078,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2017,
@@ -12087,7 +12087,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2017,
@@ -12096,7 +12096,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2018,
@@ -12105,7 +12105,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2018,
@@ -12114,7 +12114,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2018,
@@ -12123,7 +12123,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2018,
@@ -12132,7 +12132,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2018,
@@ -12141,7 +12141,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2018,
@@ -12150,7 +12150,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2018,
@@ -12159,7 +12159,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2018,
@@ -12168,7 +12168,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2018,
@@ -12177,7 +12177,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2018,
@@ -12186,7 +12186,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2018,
@@ -12195,7 +12195,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2018,
@@ -12204,7 +12204,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2018,
@@ -12213,7 +12213,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2018,
@@ -12222,7 +12222,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2017,
@@ -12231,7 +12231,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2017,
@@ -12240,7 +12240,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2017,
@@ -12249,7 +12249,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2017,
@@ -12258,7 +12258,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2017,
@@ -12267,7 +12267,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2017,
@@ -12276,7 +12276,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2017,
@@ -12285,7 +12285,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2017,
@@ -12294,7 +12294,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2018,
@@ -12303,7 +12303,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2018,
@@ -12312,7 +12312,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2018,
@@ -12321,7 +12321,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2018,
@@ -12330,7 +12330,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2018,
@@ -12339,7 +12339,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2018,
@@ -12348,7 +12348,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2018,
@@ -12357,7 +12357,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2018,
@@ -12366,7 +12366,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Faltante de Caja",
 	"ano": 2017,
@@ -12375,7 +12375,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Faltante de Caja",
 	"ano": 2017,
@@ -12384,7 +12384,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Faltante de Caja",
 	"ano": 2017,
@@ -12393,7 +12393,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Faltante de Caja",
 	"ano": 2017,
@@ -12402,7 +12402,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Faltante de Caja",
 	"ano": 2017,
@@ -12411,7 +12411,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Faltante de Caja",
 	"ano": 2018,
@@ -12420,7 +12420,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Faltante de Caja",
 	"ano": 2018,
@@ -12429,7 +12429,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Faltante de Caja",
 	"ano": 2018,
@@ -12438,7 +12438,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Faltante de Caja",
 	"ano": 2018,
@@ -12447,7 +12447,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Faltante de Caja",
 	"ano": 2018,
@@ -12456,7 +12456,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Faltante de Caja",
 	"ano": 2018,
@@ -12465,7 +12465,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Faltante de Caja",
 	"ano": 2018,
@@ -12474,7 +12474,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2017,
@@ -12483,7 +12483,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2017,
@@ -12492,7 +12492,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2017,
@@ -12501,7 +12501,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2017,
@@ -12510,7 +12510,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2017,
@@ -12519,7 +12519,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2017,
@@ -12528,7 +12528,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2017,
@@ -12537,7 +12537,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2017,
@@ -12546,7 +12546,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2017,
@@ -12555,7 +12555,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2017,
@@ -12564,7 +12564,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2018,
@@ -12573,7 +12573,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2018,
@@ -12582,7 +12582,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2018,
@@ -12591,7 +12591,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2018,
@@ -12600,7 +12600,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2018,
@@ -12609,7 +12609,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2018,
@@ -12618,7 +12618,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2018,
@@ -12627,7 +12627,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2018,
@@ -12636,7 +12636,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2018,
@@ -12645,7 +12645,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2018,
@@ -12654,7 +12654,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2018,
@@ -12663,7 +12663,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2018,
@@ -12672,7 +12672,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2018,
@@ -12681,7 +12681,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2018,
@@ -12690,7 +12690,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2017,
@@ -12699,7 +12699,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2017,
@@ -12708,7 +12708,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2017,
@@ -12717,7 +12717,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2017,
@@ -12726,7 +12726,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2017,
@@ -12735,7 +12735,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2017,
@@ -12744,7 +12744,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2018,
@@ -12753,7 +12753,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2018,
@@ -12762,7 +12762,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2018,
@@ -12771,7 +12771,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2018,
@@ -12780,7 +12780,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2018,
@@ -12789,7 +12789,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2018,
@@ -12798,7 +12798,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2018,
@@ -12807,7 +12807,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2017,
@@ -12816,7 +12816,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2017,
@@ -12825,7 +12825,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2017,
@@ -12834,7 +12834,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2017,
@@ -12843,7 +12843,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2017,
@@ -12852,7 +12852,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2017,
@@ -12861,7 +12861,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2017,
@@ -12870,7 +12870,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2017,
@@ -12879,7 +12879,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2017,
@@ -12888,7 +12888,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2018,
@@ -12897,7 +12897,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2018,
@@ -12906,7 +12906,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2018,
@@ -12915,7 +12915,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2018,
@@ -12924,7 +12924,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2018,
@@ -12933,7 +12933,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2018,
@@ -12942,7 +12942,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2018,
@@ -12951,7 +12951,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2018,
@@ -12960,7 +12960,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2018,
@@ -12969,7 +12969,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2018,
@@ -12978,7 +12978,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2018,
@@ -12987,7 +12987,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2018,
@@ -12996,7 +12996,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2018,
@@ -13005,7 +13005,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Diferencia de cambio",
 	"ano": 2017,
@@ -13014,7 +13014,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Diferencia de cambio",
 	"ano": 2017,
@@ -13023,7 +13023,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Diferencia de cambio",
 	"ano": 2017,
@@ -13032,7 +13032,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Diferencia de cambio",
 	"ano": 2017,
@@ -13041,7 +13041,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Diferencia de cambio",
 	"ano": 2017,
@@ -13050,7 +13050,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Diferencia de cambio",
 	"ano": 2018,
@@ -13059,7 +13059,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Diferencia de cambio",
 	"ano": 2018,
@@ -13068,7 +13068,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Diferencia de cambio",
 	"ano": 2018,
@@ -13077,7 +13077,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Diferencia de cambio",
 	"ano": 2018,
@@ -13086,7 +13086,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Diferencia de cambio",
 	"ano": 2018,
@@ -13095,7 +13095,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Diferencia de cambio",
 	"ano": 2018,
@@ -13104,7 +13104,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Diferencia de cambio",
 	"ano": 2018,
@@ -13113,7 +13113,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2017,
@@ -13122,7 +13122,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2017,
@@ -13131,7 +13131,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2017,
@@ -13140,7 +13140,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2017,
@@ -13149,7 +13149,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2017,
@@ -13158,7 +13158,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -13167,7 +13167,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -13176,7 +13176,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -13185,7 +13185,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -13194,7 +13194,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -13203,7 +13203,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -13212,7 +13212,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -13221,7 +13221,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -13230,7 +13230,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -13239,7 +13239,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -13248,7 +13248,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -13257,7 +13257,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -13266,7 +13266,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -13275,7 +13275,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -13284,7 +13284,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2017,
@@ -13293,7 +13293,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2017,
@@ -13302,7 +13302,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2017,
@@ -13311,7 +13311,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2017,
@@ -13320,7 +13320,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2017,
@@ -13329,7 +13329,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2017,
@@ -13338,7 +13338,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2017,
@@ -13347,7 +13347,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2017,
@@ -13356,7 +13356,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2017,
@@ -13365,7 +13365,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2018,
@@ -13374,7 +13374,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2018,
@@ -13383,7 +13383,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2018,
@@ -13392,7 +13392,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2018,
@@ -13401,7 +13401,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2018,
@@ -13410,7 +13410,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2018,
@@ -13419,7 +13419,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2018,
@@ -13428,7 +13428,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2018,
@@ -13437,7 +13437,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2018,
@@ -13446,7 +13446,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2018,
@@ -13455,7 +13455,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2017,
@@ -13464,7 +13464,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2017,
@@ -13473,7 +13473,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2017,
@@ -13482,7 +13482,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2017,
@@ -13491,7 +13491,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2017,
@@ -13500,7 +13500,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2018,
@@ -13509,7 +13509,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2018,
@@ -13518,7 +13518,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2018,
@@ -13527,7 +13527,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2018,
@@ -13536,7 +13536,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2018,
@@ -13545,7 +13545,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2018,
@@ -13554,7 +13554,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2018,
@@ -13563,7 +13563,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2018,
@@ -13572,7 +13572,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2018,
@@ -13581,7 +13581,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2018,
@@ -13590,7 +13590,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2018,
@@ -13599,7 +13599,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2018,
@@ -13608,7 +13608,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2018,
@@ -13617,7 +13617,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2018,
@@ -13626,7 +13626,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2017,
@@ -13635,7 +13635,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2017,
@@ -13644,7 +13644,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2017,
@@ -13653,7 +13653,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2017,
@@ -13662,7 +13662,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2017,
@@ -13671,7 +13671,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2017,
@@ -13680,7 +13680,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2017,
@@ -13689,7 +13689,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2017,
@@ -13698,7 +13698,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2017,
@@ -13707,7 +13707,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2017,
@@ -13716,7 +13716,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2018,
@@ -13725,7 +13725,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2018,
@@ -13734,7 +13734,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2018,
@@ -13743,7 +13743,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2018,
@@ -13752,7 +13752,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2018,
@@ -13761,7 +13761,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2018,
@@ -13770,7 +13770,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2018,
@@ -13779,7 +13779,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2018,
@@ -13788,7 +13788,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2018,
@@ -13797,7 +13797,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2018,
@@ -13806,7 +13806,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2018,
@@ -13815,7 +13815,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2018,
@@ -13824,7 +13824,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2018,
@@ -13833,7 +13833,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2018,
@@ -13842,7 +13842,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2017,
@@ -13851,7 +13851,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2017,
@@ -13860,7 +13860,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2017,
@@ -13869,7 +13869,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2017,
@@ -13878,7 +13878,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2017,
@@ -13887,7 +13887,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2017,
@@ -13896,7 +13896,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2017,
@@ -13905,7 +13905,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2017,
@@ -13914,7 +13914,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2017,
@@ -13923,7 +13923,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2017,
@@ -13932,7 +13932,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2017,
@@ -13941,7 +13941,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2018,
@@ -13950,7 +13950,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2018,
@@ -13959,7 +13959,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2018,
@@ -13968,7 +13968,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2018,
@@ -13977,7 +13977,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2018,
@@ -13986,7 +13986,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2018,
@@ -13995,7 +13995,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2018,
@@ -14004,7 +14004,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2018,
@@ -14013,7 +14013,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2018,
@@ -14022,7 +14022,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2018,
@@ -14031,7 +14031,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2018,
@@ -14040,7 +14040,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2018,
@@ -14049,7 +14049,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2018,
@@ -14058,7 +14058,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2018,
@@ -14067,7 +14067,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2017,
@@ -14076,7 +14076,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2017,
@@ -14085,7 +14085,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2017,
@@ -14094,7 +14094,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2017,
@@ -14103,7 +14103,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2017,
@@ -14112,7 +14112,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2017,
@@ -14121,7 +14121,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2017,
@@ -14130,7 +14130,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2017,
@@ -14139,7 +14139,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2017,
@@ -14148,7 +14148,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2017,
@@ -14157,7 +14157,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2017,
@@ -14166,7 +14166,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2017,
@@ -14175,7 +14175,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -14184,7 +14184,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -14193,7 +14193,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -14202,7 +14202,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -14211,7 +14211,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -14220,7 +14220,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -14229,7 +14229,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -14238,7 +14238,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -14247,7 +14247,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -14256,7 +14256,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -14265,7 +14265,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -14274,7 +14274,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -14283,7 +14283,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -14292,7 +14292,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -14301,7 +14301,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -14310,7 +14310,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -14319,7 +14319,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -14328,7 +14328,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2017,
@@ -14337,7 +14337,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2017,
@@ -14346,7 +14346,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2017,
@@ -14355,7 +14355,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2017,
@@ -14364,7 +14364,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2017,
@@ -14373,7 +14373,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2017,
@@ -14382,7 +14382,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2017,
@@ -14391,7 +14391,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2017,
@@ -14400,7 +14400,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2017,
@@ -14409,7 +14409,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2017,
@@ -14418,7 +14418,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2018,
@@ -14427,7 +14427,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2018,
@@ -14436,7 +14436,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2018,
@@ -14445,7 +14445,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2018,
@@ -14454,7 +14454,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2018,
@@ -14463,7 +14463,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2018,
@@ -14472,7 +14472,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2018,
@@ -14481,7 +14481,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2018,
@@ -14490,7 +14490,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2018,
@@ -14499,7 +14499,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2018,
@@ -14508,7 +14508,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2018,
@@ -14517,7 +14517,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2018,
@@ -14526,7 +14526,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2018,
@@ -14535,7 +14535,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2018,
@@ -14544,7 +14544,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2018,
@@ -14553,7 +14553,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2017,
@@ -14562,7 +14562,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2017,
@@ -14571,7 +14571,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2017,
@@ -14580,7 +14580,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2017,
@@ -14589,7 +14589,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2017,
@@ -14598,7 +14598,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2017,
@@ -14607,7 +14607,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2017,
@@ -14616,7 +14616,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2017,
@@ -14625,7 +14625,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2017,
@@ -14634,7 +14634,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2017,
@@ -14643,7 +14643,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2017,
@@ -14652,7 +14652,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2018,
@@ -14661,7 +14661,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2018,
@@ -14670,7 +14670,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2018,
@@ -14679,7 +14679,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2018,
@@ -14688,7 +14688,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2018,
@@ -14697,7 +14697,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2018,
@@ -14706,7 +14706,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2018,
@@ -14715,7 +14715,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2018,
@@ -14724,7 +14724,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2018,
@@ -14733,7 +14733,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2018,
@@ -14742,7 +14742,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2018,
@@ -14751,7 +14751,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2018,
@@ -14760,7 +14760,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2018,
@@ -14769,7 +14769,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2018,
@@ -14778,7 +14778,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2017,
@@ -14787,7 +14787,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2017,
@@ -14796,7 +14796,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2017,
@@ -14805,7 +14805,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2017,
@@ -14814,7 +14814,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2017,
@@ -14823,7 +14823,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2017,
@@ -14832,7 +14832,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2017,
@@ -14841,7 +14841,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2017,
@@ -14850,7 +14850,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2017,
@@ -14859,7 +14859,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2017,
@@ -14868,7 +14868,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2018,
@@ -14877,7 +14877,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2018,
@@ -14886,7 +14886,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2018,
@@ -14895,7 +14895,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2018,
@@ -14904,7 +14904,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2018,
@@ -14913,7 +14913,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2018,
@@ -14922,7 +14922,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2018,
@@ -14931,7 +14931,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2018,
@@ -14940,7 +14940,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2018,
@@ -14949,7 +14949,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2018,
@@ -14958,7 +14958,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2018,
@@ -14967,7 +14967,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2018,
@@ -14976,7 +14976,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2018,
@@ -14985,7 +14985,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Caixa",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2018,
@@ -14994,7 +14994,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2017,
@@ -15003,7 +15003,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2017,
@@ -15012,7 +15012,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2017,
@@ -15021,7 +15021,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2017,
@@ -15030,7 +15030,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2017,
@@ -15039,7 +15039,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2017,
@@ -15048,7 +15048,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2017,
@@ -15057,7 +15057,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2018,
@@ -15066,7 +15066,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2018,
@@ -15075,7 +15075,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2018,
@@ -15084,7 +15084,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2018,
@@ -15093,7 +15093,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2018,
@@ -15102,7 +15102,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2018,
@@ -15111,7 +15111,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2018,
@@ -15120,7 +15120,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2018,
@@ -15129,7 +15129,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2018,
@@ -15138,7 +15138,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2018,
@@ -15147,7 +15147,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Activos Fijos",
 	"nivel4": "Muebles y utiles",
 	"ano": 2018,
@@ -15156,7 +15156,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2017,
@@ -15165,7 +15165,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2017,
@@ -15174,7 +15174,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2017,
@@ -15183,7 +15183,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2017,
@@ -15192,7 +15192,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2017,
@@ -15201,7 +15201,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2017,
@@ -15210,7 +15210,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2017,
@@ -15219,7 +15219,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2017,
@@ -15228,7 +15228,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2017,
@@ -15237,7 +15237,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2017,
@@ -15246,7 +15246,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2018,
@@ -15255,7 +15255,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2018,
@@ -15264,7 +15264,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2018,
@@ -15273,7 +15273,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2018,
@@ -15282,7 +15282,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2018,
@@ -15291,7 +15291,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2018,
@@ -15300,7 +15300,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2018,
@@ -15309,7 +15309,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2018,
@@ -15318,7 +15318,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2018,
@@ -15327,7 +15327,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2018,
@@ -15336,7 +15336,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2018,
@@ -15345,7 +15345,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2018,
@@ -15354,7 +15354,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2018,
@@ -15363,7 +15363,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Alimentos e Bebidas",
 	"ano": 2018,
@@ -15372,7 +15372,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2017,
@@ -15381,7 +15381,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2017,
@@ -15390,7 +15390,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2017,
@@ -15399,7 +15399,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2017,
@@ -15408,7 +15408,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2017,
@@ -15417,7 +15417,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2017,
@@ -15426,7 +15426,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2017,
@@ -15435,7 +15435,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2017,
@@ -15444,7 +15444,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2018,
@@ -15453,7 +15453,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2018,
@@ -15462,7 +15462,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2018,
@@ -15471,7 +15471,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2018,
@@ -15480,7 +15480,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2018,
@@ -15489,7 +15489,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2018,
@@ -15498,7 +15498,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2018,
@@ -15507,7 +15507,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2018,
@@ -15516,7 +15516,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2018,
@@ -15525,7 +15525,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2018,
@@ -15534,7 +15534,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2018,
@@ -15543,7 +15543,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Amenities / Facilidades",
 	"ano": 2018,
@@ -15552,7 +15552,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2017,
@@ -15561,7 +15561,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2017,
@@ -15570,7 +15570,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2017,
@@ -15579,7 +15579,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2017,
@@ -15588,7 +15588,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2017,
@@ -15597,7 +15597,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2017,
@@ -15606,7 +15606,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2017,
@@ -15615,7 +15615,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2017,
@@ -15624,7 +15624,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2017,
@@ -15633,7 +15633,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2017,
@@ -15642,7 +15642,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2018,
@@ -15651,7 +15651,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2018,
@@ -15660,7 +15660,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2018,
@@ -15669,7 +15669,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2018,
@@ -15678,7 +15678,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2018,
@@ -15687,7 +15687,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2018,
@@ -15696,7 +15696,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2018,
@@ -15705,7 +15705,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2018,
@@ -15714,7 +15714,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2018,
@@ -15723,7 +15723,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2018,
@@ -15732,7 +15732,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2018,
@@ -15741,7 +15741,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2018,
@@ -15750,7 +15750,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2018,
@@ -15759,7 +15759,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bazar, Cozinha e Brancos",
 	"ano": 2018,
@@ -15768,7 +15768,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -15777,7 +15777,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -15786,7 +15786,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -15795,7 +15795,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -15804,7 +15804,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -15813,7 +15813,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -15822,7 +15822,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -15831,7 +15831,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -15840,7 +15840,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -15849,7 +15849,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -15858,7 +15858,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -15867,7 +15867,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -15876,7 +15876,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -15885,7 +15885,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -15894,7 +15894,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -15903,7 +15903,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -15912,7 +15912,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -15921,7 +15921,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -15930,7 +15930,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -15939,7 +15939,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -15948,7 +15948,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -15957,7 +15957,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -15966,7 +15966,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -15975,7 +15975,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -15984,7 +15984,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2017,
@@ -15993,7 +15993,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2017,
@@ -16002,7 +16002,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2017,
@@ -16011,7 +16011,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2017,
@@ -16020,7 +16020,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2017,
@@ -16029,7 +16029,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2017,
@@ -16038,7 +16038,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2017,
@@ -16047,7 +16047,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2017,
@@ -16056,7 +16056,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2017,
@@ -16065,7 +16065,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2017,
@@ -16074,7 +16074,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2017,
@@ -16083,7 +16083,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2018,
@@ -16092,7 +16092,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2018,
@@ -16101,7 +16101,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2018,
@@ -16110,7 +16110,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2018,
@@ -16119,7 +16119,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2018,
@@ -16128,7 +16128,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2018,
@@ -16137,7 +16137,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2018,
@@ -16146,7 +16146,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2018,
@@ -16155,7 +16155,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2018,
@@ -16164,7 +16164,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2018,
@@ -16173,7 +16173,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2018,
@@ -16182,7 +16182,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2018,
@@ -16191,7 +16191,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2018,
@@ -16200,7 +16200,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Café da manhã",
 	"ano": 2018,
@@ -16209,7 +16209,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -16218,7 +16218,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -16227,7 +16227,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -16236,7 +16236,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -16245,7 +16245,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -16254,7 +16254,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -16263,7 +16263,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -16272,7 +16272,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -16281,7 +16281,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -16290,7 +16290,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -16299,7 +16299,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -16308,7 +16308,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -16317,7 +16317,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -16326,7 +16326,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -16335,7 +16335,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -16344,7 +16344,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -16353,7 +16353,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -16362,7 +16362,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -16371,7 +16371,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -16380,7 +16380,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -16389,7 +16389,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -16398,7 +16398,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -16407,7 +16407,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2017,
@@ -16416,7 +16416,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2017,
@@ -16425,7 +16425,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2017,
@@ -16434,7 +16434,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2017,
@@ -16443,7 +16443,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2017,
@@ -16452,7 +16452,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2017,
@@ -16461,7 +16461,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2017,
@@ -16470,7 +16470,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2017,
@@ -16479,7 +16479,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2017,
@@ -16488,7 +16488,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2017,
@@ -16497,7 +16497,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2018,
@@ -16506,7 +16506,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2018,
@@ -16515,7 +16515,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2018,
@@ -16524,7 +16524,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2018,
@@ -16533,7 +16533,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2018,
@@ -16542,7 +16542,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2018,
@@ -16551,7 +16551,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2018,
@@ -16560,7 +16560,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2018,
@@ -16569,7 +16569,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2018,
@@ -16578,7 +16578,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2018,
@@ -16587,7 +16587,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2018,
@@ -16596,7 +16596,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2018,
@@ -16605,7 +16605,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2018,
@@ -16614,7 +16614,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Lavanderia",
 	"ano": 2018,
@@ -16623,7 +16623,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2017,
@@ -16632,7 +16632,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2017,
@@ -16641,7 +16641,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2017,
@@ -16650,7 +16650,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2017,
@@ -16659,7 +16659,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2017,
@@ -16668,7 +16668,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2017,
@@ -16677,7 +16677,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2017,
@@ -16686,7 +16686,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2017,
@@ -16695,7 +16695,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2017,
@@ -16704,7 +16704,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2017,
@@ -16713,7 +16713,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2018,
@@ -16722,7 +16722,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2018,
@@ -16731,7 +16731,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2018,
@@ -16740,7 +16740,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2018,
@@ -16749,7 +16749,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2018,
@@ -16758,7 +16758,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2018,
@@ -16767,7 +16767,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2018,
@@ -16776,7 +16776,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2018,
@@ -16785,7 +16785,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2018,
@@ -16794,7 +16794,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2018,
@@ -16803,7 +16803,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2018,
@@ -16812,7 +16812,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2018,
@@ -16821,7 +16821,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2018,
@@ -16830,7 +16830,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Otros Beneficios al personal",
 	"ano": 2018,
@@ -16839,7 +16839,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2017,
@@ -16848,7 +16848,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2017,
@@ -16857,7 +16857,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2017,
@@ -16866,7 +16866,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2017,
@@ -16875,7 +16875,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2017,
@@ -16884,7 +16884,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2017,
@@ -16893,7 +16893,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2017,
@@ -16902,7 +16902,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2017,
@@ -16911,7 +16911,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2017,
@@ -16920,7 +16920,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2017,
@@ -16929,7 +16929,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2018,
@@ -16938,7 +16938,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2018,
@@ -16947,7 +16947,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2018,
@@ -16956,7 +16956,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2018,
@@ -16965,7 +16965,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2018,
@@ -16974,7 +16974,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2018,
@@ -16983,7 +16983,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2018,
@@ -16992,7 +16992,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2018,
@@ -17001,7 +17001,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2018,
@@ -17010,7 +17010,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2018,
@@ -17019,7 +17019,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2018,
@@ -17028,7 +17028,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2018,
@@ -17037,7 +17037,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2018,
@@ -17046,7 +17046,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos de Limpeza",
 	"ano": 2018,
@@ -17055,7 +17055,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2017,
@@ -17064,7 +17064,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2017,
@@ -17073,7 +17073,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2017,
@@ -17082,7 +17082,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2017,
@@ -17091,7 +17091,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2017,
@@ -17100,7 +17100,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2017,
@@ -17109,7 +17109,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2017,
@@ -17118,7 +17118,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2017,
@@ -17127,7 +17127,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2017,
@@ -17136,7 +17136,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2018,
@@ -17145,7 +17145,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2018,
@@ -17154,7 +17154,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2018,
@@ -17163,7 +17163,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2018,
@@ -17172,7 +17172,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2018,
@@ -17181,7 +17181,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2018,
@@ -17190,7 +17190,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2018,
@@ -17199,7 +17199,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2018,
@@ -17208,7 +17208,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2018,
@@ -17217,7 +17217,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2018,
@@ -17226,7 +17226,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2018,
@@ -17235,7 +17235,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2018,
@@ -17244,7 +17244,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Produtos para venda",
 	"ano": 2018,
@@ -17253,7 +17253,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2017,
@@ -17262,7 +17262,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2017,
@@ -17271,7 +17271,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2017,
@@ -17280,7 +17280,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2017,
@@ -17289,7 +17289,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2017,
@@ -17298,7 +17298,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2017,
@@ -17307,7 +17307,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2017,
@@ -17316,7 +17316,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2017,
@@ -17325,7 +17325,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2017,
@@ -17334,7 +17334,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2017,
@@ -17343,7 +17343,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -17352,7 +17352,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -17361,7 +17361,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -17370,7 +17370,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -17379,7 +17379,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -17388,7 +17388,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -17397,7 +17397,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -17406,7 +17406,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -17415,7 +17415,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -17424,7 +17424,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -17433,7 +17433,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -17442,7 +17442,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -17451,7 +17451,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -17460,7 +17460,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -17469,7 +17469,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -17478,7 +17478,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -17487,7 +17487,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -17496,7 +17496,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -17505,7 +17505,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -17514,7 +17514,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -17523,7 +17523,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -17532,7 +17532,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -17541,7 +17541,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -17550,7 +17550,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -17559,7 +17559,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -17568,7 +17568,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -17577,7 +17577,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -17586,7 +17586,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -17595,7 +17595,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -17604,7 +17604,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -17613,7 +17613,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -17622,7 +17622,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -17631,7 +17631,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -17640,7 +17640,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -17649,7 +17649,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2017,
@@ -17658,7 +17658,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2017,
@@ -17667,7 +17667,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2017,
@@ -17676,7 +17676,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2017,
@@ -17685,7 +17685,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2017,
@@ -17694,7 +17694,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2017,
@@ -17703,7 +17703,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2017,
@@ -17712,7 +17712,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2017,
@@ -17721,7 +17721,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2017,
@@ -17730,7 +17730,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2017,
@@ -17739,7 +17739,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2018,
@@ -17748,7 +17748,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2018,
@@ -17757,7 +17757,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2018,
@@ -17766,7 +17766,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2018,
@@ -17775,7 +17775,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2018,
@@ -17784,7 +17784,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2018,
@@ -17793,7 +17793,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2018,
@@ -17802,7 +17802,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2018,
@@ -17811,7 +17811,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2018,
@@ -17820,7 +17820,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2018,
@@ -17829,7 +17829,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2018,
@@ -17838,7 +17838,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2018,
@@ -17847,7 +17847,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2018,
@@ -17856,7 +17856,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "TV, Internet, telefone",
 	"ano": 2018,
@@ -17865,7 +17865,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2017,
@@ -17874,7 +17874,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2017,
@@ -17883,7 +17883,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2017,
@@ -17892,7 +17892,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2017,
@@ -17901,7 +17901,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2017,
@@ -17910,7 +17910,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2017,
@@ -17919,7 +17919,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -17928,7 +17928,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -17937,7 +17937,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -17946,7 +17946,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -17955,7 +17955,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -17964,7 +17964,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -17973,7 +17973,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -17982,7 +17982,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -17991,7 +17991,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -18000,7 +18000,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -18009,7 +18009,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -18018,7 +18018,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -18027,7 +18027,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -18036,7 +18036,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -18045,7 +18045,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -18054,7 +18054,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -18063,7 +18063,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -18072,7 +18072,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -18081,7 +18081,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -18090,7 +18090,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -18099,7 +18099,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -18108,7 +18108,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -18117,7 +18117,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -18126,7 +18126,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -18135,7 +18135,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -18144,7 +18144,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -18153,7 +18153,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -18162,7 +18162,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -18171,7 +18171,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -18180,7 +18180,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -18189,7 +18189,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -18198,7 +18198,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -18207,7 +18207,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -18216,7 +18216,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -18225,7 +18225,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -18234,7 +18234,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -18243,7 +18243,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -18252,7 +18252,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -18261,7 +18261,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -18270,7 +18270,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -18279,7 +18279,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -18288,7 +18288,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -18297,7 +18297,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -18306,7 +18306,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -18315,7 +18315,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -18324,7 +18324,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -18333,7 +18333,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -18342,7 +18342,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -18351,7 +18351,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -18360,7 +18360,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -18369,7 +18369,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -18378,7 +18378,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -18387,7 +18387,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -18396,7 +18396,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -18405,7 +18405,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -18414,7 +18414,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -18423,7 +18423,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -18432,7 +18432,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Custo dos Serviços Prestados",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -18441,7 +18441,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -18450,7 +18450,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -18459,7 +18459,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -18468,7 +18468,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -18477,7 +18477,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -18486,7 +18486,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -18495,7 +18495,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -18504,7 +18504,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -18513,7 +18513,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2017,
@@ -18522,7 +18522,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -18531,7 +18531,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -18540,7 +18540,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -18549,7 +18549,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -18558,7 +18558,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -18567,7 +18567,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -18576,7 +18576,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -18585,7 +18585,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -18594,7 +18594,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -18603,7 +18603,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -18612,7 +18612,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -18621,7 +18621,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -18630,7 +18630,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -18639,7 +18639,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Bonus e comissões",
 	"ano": 2018,
@@ -18648,7 +18648,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -18657,7 +18657,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -18666,7 +18666,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -18675,7 +18675,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -18684,7 +18684,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -18693,7 +18693,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -18702,7 +18702,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -18711,7 +18711,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -18720,7 +18720,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2017,
@@ -18729,7 +18729,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -18738,7 +18738,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -18747,7 +18747,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -18756,7 +18756,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -18765,7 +18765,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -18774,7 +18774,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -18783,7 +18783,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -18792,7 +18792,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -18801,7 +18801,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -18810,7 +18810,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -18819,7 +18819,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -18828,7 +18828,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -18837,7 +18837,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Cargas Sociais",
 	"ano": 2018,
@@ -18846,7 +18846,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2017,
@@ -18855,7 +18855,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2017,
@@ -18864,7 +18864,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2017,
@@ -18873,7 +18873,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2017,
@@ -18882,7 +18882,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2017,
@@ -18891,7 +18891,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2017,
@@ -18900,7 +18900,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2017,
@@ -18909,7 +18909,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2017,
@@ -18918,7 +18918,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2017,
@@ -18927,7 +18927,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2018,
@@ -18936,7 +18936,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2018,
@@ -18945,7 +18945,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2018,
@@ -18954,7 +18954,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2018,
@@ -18963,7 +18963,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2018,
@@ -18972,7 +18972,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2018,
@@ -18981,7 +18981,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2018,
@@ -18990,7 +18990,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2018,
@@ -18999,7 +18999,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2018,
@@ -19008,7 +19008,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2018,
@@ -19017,7 +19017,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2018,
@@ -19026,7 +19026,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2018,
@@ -19035,7 +19035,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários contáveis",
 	"ano": 2018,
@@ -19044,7 +19044,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários legais",
 	"ano": 2017,
@@ -19053,7 +19053,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários legais",
 	"ano": 2017,
@@ -19062,7 +19062,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários legais",
 	"ano": 2017,
@@ -19071,7 +19071,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários legais",
 	"ano": 2017,
@@ -19080,7 +19080,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários legais",
 	"ano": 2017,
@@ -19089,7 +19089,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários legais",
 	"ano": 2018,
@@ -19098,7 +19098,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários legais",
 	"ano": 2018,
@@ -19107,7 +19107,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários legais",
 	"ano": 2018,
@@ -19116,7 +19116,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários legais",
 	"ano": 2018,
@@ -19125,7 +19125,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários legais",
 	"ano": 2018,
@@ -19134,7 +19134,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários legais",
 	"ano": 2018,
@@ -19143,7 +19143,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários legais",
 	"ano": 2018,
@@ -19152,7 +19152,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários legais",
 	"ano": 2018,
@@ -19161,7 +19161,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários legais",
 	"ano": 2018,
@@ -19170,7 +19170,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Honorários legais",
 	"ano": 2018,
@@ -19179,7 +19179,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2017,
@@ -19188,7 +19188,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2017,
@@ -19197,7 +19197,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2017,
@@ -19206,7 +19206,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2017,
@@ -19215,7 +19215,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2017,
@@ -19224,7 +19224,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2017,
@@ -19233,7 +19233,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2017,
@@ -19242,7 +19242,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2017,
@@ -19251,7 +19251,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2017,
@@ -19260,7 +19260,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2017,
@@ -19269,7 +19269,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2018,
@@ -19278,7 +19278,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2018,
@@ -19287,7 +19287,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2018,
@@ -19296,7 +19296,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2018,
@@ -19305,7 +19305,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2018,
@@ -19314,7 +19314,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2018,
@@ -19323,7 +19323,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2018,
@@ -19332,7 +19332,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2018,
@@ -19341,7 +19341,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2018,
@@ -19350,7 +19350,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2018,
@@ -19359,7 +19359,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2018,
@@ -19368,7 +19368,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2018,
@@ -19377,7 +19377,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2018,
@@ -19386,7 +19386,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Manutenção Computadores",
 	"ano": 2018,
@@ -19395,7 +19395,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2017,
@@ -19404,7 +19404,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2017,
@@ -19413,7 +19413,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2017,
@@ -19422,7 +19422,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2017,
@@ -19431,7 +19431,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2017,
@@ -19440,7 +19440,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2017,
@@ -19449,7 +19449,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2017,
@@ -19458,7 +19458,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2017,
@@ -19467,7 +19467,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2017,
@@ -19476,7 +19476,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2017,
@@ -19485,7 +19485,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2017,
@@ -19494,7 +19494,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2018,
@@ -19503,7 +19503,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2018,
@@ -19512,7 +19512,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2018,
@@ -19521,7 +19521,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2018,
@@ -19530,7 +19530,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2018,
@@ -19539,7 +19539,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2018,
@@ -19548,7 +19548,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2018,
@@ -19557,7 +19557,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2018,
@@ -19566,7 +19566,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2018,
@@ -19575,7 +19575,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2018,
@@ -19584,7 +19584,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2018,
@@ -19593,7 +19593,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2018,
@@ -19602,7 +19602,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2018,
@@ -19611,7 +19611,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Mobilidade e viáticos",
 	"ano": 2018,
@@ -19620,7 +19620,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Outros Honorários",
 	"ano": 2017,
@@ -19629,7 +19629,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Outros Honorários",
 	"ano": 2017,
@@ -19638,7 +19638,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Outros Honorários",
 	"ano": 2017,
@@ -19647,7 +19647,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Outros Honorários",
 	"ano": 2017,
@@ -19656,7 +19656,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Outros Honorários",
 	"ano": 2017,
@@ -19665,7 +19665,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Outros Honorários",
 	"ano": 2018,
@@ -19674,7 +19674,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Outros Honorários",
 	"ano": 2018,
@@ -19683,7 +19683,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Outros Honorários",
 	"ano": 2018,
@@ -19692,7 +19692,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Outros Honorários",
 	"ano": 2018,
@@ -19701,7 +19701,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Outros Honorários",
 	"ano": 2018,
@@ -19710,7 +19710,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Outros Honorários",
 	"ano": 2018,
@@ -19719,7 +19719,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Outros Honorários",
 	"ano": 2018,
@@ -19728,7 +19728,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2017,
@@ -19737,7 +19737,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2017,
@@ -19746,7 +19746,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2017,
@@ -19755,7 +19755,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2017,
@@ -19764,7 +19764,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2017,
@@ -19773,7 +19773,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -19782,7 +19782,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -19791,7 +19791,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -19800,7 +19800,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -19809,7 +19809,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -19818,7 +19818,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -19827,7 +19827,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -19836,7 +19836,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -19845,7 +19845,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Rescisoes e indemnizacoes",
 	"ano": 2018,
@@ -19854,7 +19854,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -19863,7 +19863,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -19872,7 +19872,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -19881,7 +19881,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -19890,7 +19890,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -19899,7 +19899,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -19908,7 +19908,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -19917,7 +19917,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -19926,7 +19926,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -19935,7 +19935,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2017,
@@ -19944,7 +19944,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -19953,7 +19953,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -19962,7 +19962,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -19971,7 +19971,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -19980,7 +19980,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -19989,7 +19989,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -19998,7 +19998,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -20007,7 +20007,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -20016,7 +20016,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -20025,7 +20025,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -20034,7 +20034,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -20043,7 +20043,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -20052,7 +20052,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -20061,7 +20061,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Salarios",
 	"ano": 2018,
@@ -20070,7 +20070,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Uniformes",
 	"ano": 2017,
@@ -20079,7 +20079,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Uniformes",
 	"ano": 2017,
@@ -20088,7 +20088,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Uniformes",
 	"ano": 2017,
@@ -20097,7 +20097,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Uniformes",
 	"ano": 2017,
@@ -20106,7 +20106,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Uniformes",
 	"ano": 2017,
@@ -20115,7 +20115,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -20124,7 +20124,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -20133,7 +20133,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -20142,7 +20142,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -20151,7 +20151,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -20160,7 +20160,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -20169,7 +20169,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Uniformes",
 	"ano": 2018,
@@ -20178,7 +20178,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2017,
@@ -20187,7 +20187,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2017,
@@ -20196,7 +20196,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2017,
@@ -20205,7 +20205,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2017,
@@ -20214,7 +20214,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2017,
@@ -20223,7 +20223,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2017,
@@ -20232,7 +20232,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2017,
@@ -20241,7 +20241,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2017,
@@ -20250,7 +20250,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2017,
@@ -20259,7 +20259,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2017,
@@ -20268,7 +20268,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2018,
@@ -20277,7 +20277,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2018,
@@ -20286,7 +20286,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2018,
@@ -20295,7 +20295,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2018,
@@ -20304,7 +20304,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2018,
@@ -20313,7 +20313,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2018,
@@ -20322,7 +20322,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2018,
@@ -20331,7 +20331,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2018,
@@ -20340,7 +20340,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2018,
@@ -20349,7 +20349,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2018,
@@ -20358,7 +20358,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2018,
@@ -20367,7 +20367,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2018,
@@ -20376,7 +20376,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2018,
@@ -20385,7 +20385,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "Utiles de Oficina y Papeleria",
 	"ano": 2018,
@@ -20394,7 +20394,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -20403,7 +20403,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -20412,7 +20412,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -20421,7 +20421,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -20430,7 +20430,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -20439,7 +20439,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -20448,7 +20448,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -20457,7 +20457,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -20466,7 +20466,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -20475,7 +20475,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2017,
@@ -20484,7 +20484,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -20493,7 +20493,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -20502,7 +20502,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -20511,7 +20511,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -20520,7 +20520,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -20529,7 +20529,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -20538,7 +20538,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -20547,7 +20547,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -20556,7 +20556,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -20565,7 +20565,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -20574,7 +20574,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -20583,7 +20583,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -20592,7 +20592,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -20601,7 +20601,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VA",
 	"ano": 2018,
@@ -20610,7 +20610,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -20619,7 +20619,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -20628,7 +20628,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -20637,7 +20637,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -20646,7 +20646,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VT",
 	"ano": 2017,
@@ -20655,7 +20655,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -20664,7 +20664,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -20673,7 +20673,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -20682,7 +20682,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -20691,7 +20691,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -20700,7 +20700,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -20709,7 +20709,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas Administrativas",
 	"nivel4": "VT",
 	"ano": 2018,
@@ -20718,7 +20718,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2017,
@@ -20727,7 +20727,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2017,
@@ -20736,7 +20736,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2017,
@@ -20745,7 +20745,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2017,
@@ -20754,7 +20754,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2017,
@@ -20763,7 +20763,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2017,
@@ -20772,7 +20772,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2017,
@@ -20781,7 +20781,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2017,
@@ -20790,7 +20790,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2017,
@@ -20799,7 +20799,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2017,
@@ -20808,7 +20808,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2018,
@@ -20817,7 +20817,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2018,
@@ -20826,7 +20826,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2018,
@@ -20835,7 +20835,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2018,
@@ -20844,7 +20844,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2018,
@@ -20853,7 +20853,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2018,
@@ -20862,7 +20862,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2018,
@@ -20871,7 +20871,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2018,
@@ -20880,7 +20880,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2018,
@@ -20889,7 +20889,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2018,
@@ -20898,7 +20898,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2018,
@@ -20907,7 +20907,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2018,
@@ -20916,7 +20916,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2018,
@@ -20925,7 +20925,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (bancos)",
 	"ano": 2018,
@@ -20934,7 +20934,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2017,
@@ -20943,7 +20943,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2017,
@@ -20952,7 +20952,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2017,
@@ -20961,7 +20961,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2017,
@@ -20970,7 +20970,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2017,
@@ -20979,7 +20979,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2017,
@@ -20988,7 +20988,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2017,
@@ -20997,7 +20997,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2017,
@@ -21006,7 +21006,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2017,
@@ -21015,7 +21015,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2017,
@@ -21024,7 +21024,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -21033,7 +21033,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -21042,7 +21042,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -21051,7 +21051,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -21060,7 +21060,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -21069,7 +21069,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -21078,7 +21078,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -21087,7 +21087,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -21096,7 +21096,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -21105,7 +21105,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -21114,7 +21114,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -21123,7 +21123,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -21132,7 +21132,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -21141,7 +21141,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -21150,7 +21150,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -21159,7 +21159,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Comissões cartão de crédito (BCR)",
 	"ano": 2018,
@@ -21168,7 +21168,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2017,
@@ -21177,7 +21177,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2017,
@@ -21186,7 +21186,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2017,
@@ -21195,7 +21195,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2017,
@@ -21204,7 +21204,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2017,
@@ -21213,7 +21213,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2017,
@@ -21222,7 +21222,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2017,
@@ -21231,7 +21231,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2017,
@@ -21240,7 +21240,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2017,
@@ -21249,7 +21249,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2017,
@@ -21258,7 +21258,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2017,
@@ -21267,7 +21267,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2018,
@@ -21276,7 +21276,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2018,
@@ -21285,7 +21285,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2018,
@@ -21294,7 +21294,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2018,
@@ -21303,7 +21303,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2018,
@@ -21312,7 +21312,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2018,
@@ -21321,7 +21321,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2018,
@@ -21330,7 +21330,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2018,
@@ -21339,7 +21339,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2018,
@@ -21348,7 +21348,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2018,
@@ -21357,7 +21357,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2018,
@@ -21366,7 +21366,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2018,
@@ -21375,7 +21375,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2018,
@@ -21384,7 +21384,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2018,
@@ -21393,7 +21393,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Despesas e taxas bancarias",
 	"ano": 2018,
@@ -21402,7 +21402,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Diferença de cambio",
 	"ano": 2017,
@@ -21411,7 +21411,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Diferença de cambio",
 	"ano": 2017,
@@ -21420,7 +21420,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Diferença de cambio",
 	"ano": 2017,
@@ -21429,7 +21429,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Diferença de cambio",
 	"ano": 2017,
@@ -21438,7 +21438,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Diferença de cambio",
 	"ano": 2017,
@@ -21447,7 +21447,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Diferença de cambio",
 	"ano": 2017,
@@ -21456,7 +21456,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Diferença de cambio",
 	"ano": 2018,
@@ -21465,7 +21465,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Diferença de cambio",
 	"ano": 2018,
@@ -21474,7 +21474,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Diferença de cambio",
 	"ano": 2018,
@@ -21483,7 +21483,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Diferença de cambio",
 	"ano": 2018,
@@ -21492,7 +21492,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Diferença de cambio",
 	"ano": 2018,
@@ -21501,7 +21501,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Diferença de cambio",
 	"ano": 2018,
@@ -21510,7 +21510,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Diferença de cambio",
 	"ano": 2018,
@@ -21519,7 +21519,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Diferença de cambio",
 	"ano": 2018,
@@ -21528,7 +21528,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Diferença de cambio",
 	"ano": 2018,
@@ -21537,7 +21537,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Intereses financeiros",
 	"ano": 2017,
@@ -21546,7 +21546,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Intereses financeiros",
 	"ano": 2017,
@@ -21555,7 +21555,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Intereses financeiros",
 	"ano": 2017,
@@ -21564,7 +21564,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Intereses financeiros",
 	"ano": 2017,
@@ -21573,7 +21573,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Intereses financeiros",
 	"ano": 2017,
@@ -21582,7 +21582,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Intereses financeiros",
 	"ano": 2018,
@@ -21591,7 +21591,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Intereses financeiros",
 	"ano": 2018,
@@ -21600,7 +21600,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Intereses financeiros",
 	"ano": 2018,
@@ -21609,7 +21609,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Intereses financeiros",
 	"ano": 2018,
@@ -21618,7 +21618,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Intereses financeiros",
 	"ano": 2018,
@@ -21627,7 +21627,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Intereses financeiros",
 	"ano": 2018,
@@ -21636,7 +21636,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Despesas financeiras",
 	"nivel4": "Intereses financeiros",
 	"ano": 2018,
@@ -21645,7 +21645,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2017,
@@ -21654,7 +21654,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2017,
@@ -21663,7 +21663,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2017,
@@ -21672,7 +21672,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2017,
@@ -21681,7 +21681,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2017,
@@ -21690,7 +21690,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2017,
@@ -21699,7 +21699,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2017,
@@ -21708,7 +21708,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2017,
@@ -21717,7 +21717,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2017,
@@ -21726,7 +21726,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2017,
@@ -21735,7 +21735,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2017,
@@ -21744,7 +21744,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2017,
@@ -21753,7 +21753,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2017,
@@ -21762,7 +21762,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2017,
@@ -21771,7 +21771,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2017,
@@ -21780,7 +21780,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -21789,7 +21789,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -21798,7 +21798,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -21807,7 +21807,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -21816,7 +21816,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -21825,7 +21825,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -21834,7 +21834,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -21843,7 +21843,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -21852,7 +21852,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -21861,7 +21861,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -21870,7 +21870,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -21879,7 +21879,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -21888,7 +21888,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -21897,7 +21897,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -21906,7 +21906,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -21915,7 +21915,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -21924,7 +21924,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -21933,7 +21933,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Devoluções",
 	"nivel4": "Devoluções Alojamiento",
 	"ano": 2018,
@@ -21942,7 +21942,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2017,
@@ -21951,7 +21951,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2017,
@@ -21960,7 +21960,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2017,
@@ -21969,7 +21969,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2017,
@@ -21978,7 +21978,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2017,
@@ -21987,7 +21987,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2017,
@@ -21996,7 +21996,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2017,
@@ -22005,7 +22005,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2017,
@@ -22014,7 +22014,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2017,
@@ -22023,7 +22023,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2018,
@@ -22032,7 +22032,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2018,
@@ -22041,7 +22041,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2018,
@@ -22050,7 +22050,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2018,
@@ -22059,7 +22059,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2018,
@@ -22068,7 +22068,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2018,
@@ -22077,7 +22077,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2018,
@@ -22086,7 +22086,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2018,
@@ -22095,7 +22095,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2018,
@@ -22104,7 +22104,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2018,
@@ -22113,7 +22113,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2018,
@@ -22122,7 +22122,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2018,
@@ -22131,7 +22131,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Aluguel",
 	"ano": 2018,
@@ -22140,7 +22140,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2017,
@@ -22149,7 +22149,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2017,
@@ -22158,7 +22158,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2017,
@@ -22167,7 +22167,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2017,
@@ -22176,7 +22176,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2017,
@@ -22185,7 +22185,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2017,
@@ -22194,7 +22194,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2017,
@@ -22203,7 +22203,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2017,
@@ -22212,7 +22212,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2017,
@@ -22221,7 +22221,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2017,
@@ -22230,7 +22230,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2017,
@@ -22239,7 +22239,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2018,
@@ -22248,7 +22248,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2018,
@@ -22257,7 +22257,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2018,
@@ -22266,7 +22266,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2018,
@@ -22275,7 +22275,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2018,
@@ -22284,7 +22284,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2018,
@@ -22293,7 +22293,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2018,
@@ -22302,7 +22302,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2018,
@@ -22311,7 +22311,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2018,
@@ -22320,7 +22320,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2018,
@@ -22329,7 +22329,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2018,
@@ -22338,7 +22338,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2018,
@@ -22347,7 +22347,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2018,
@@ -22356,7 +22356,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Higiene e seguridade",
 	"ano": 2018,
@@ -22365,7 +22365,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2017,
@@ -22374,7 +22374,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2017,
@@ -22383,7 +22383,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2017,
@@ -22392,7 +22392,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2017,
@@ -22401,7 +22401,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2017,
@@ -22410,7 +22410,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2017,
@@ -22419,7 +22419,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2017,
@@ -22428,7 +22428,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2017,
@@ -22437,7 +22437,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2017,
@@ -22446,7 +22446,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2017,
@@ -22455,7 +22455,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2017,
@@ -22464,7 +22464,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2018,
@@ -22473,7 +22473,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2018,
@@ -22482,7 +22482,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2018,
@@ -22491,7 +22491,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2018,
@@ -22500,7 +22500,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2018,
@@ -22509,7 +22509,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2018,
@@ -22518,7 +22518,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2018,
@@ -22527,7 +22527,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2018,
@@ -22536,7 +22536,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2018,
@@ -22545,7 +22545,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2018,
@@ -22554,7 +22554,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2018,
@@ -22563,7 +22563,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2018,
@@ -22572,7 +22572,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2018,
@@ -22581,7 +22581,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Manutenção",
 	"ano": 2018,
@@ -22590,7 +22590,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2017,
@@ -22599,7 +22599,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2017,
@@ -22608,7 +22608,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2017,
@@ -22617,7 +22617,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2017,
@@ -22626,7 +22626,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2017,
@@ -22635,7 +22635,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2017,
@@ -22644,7 +22644,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2018,
@@ -22653,7 +22653,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2018,
@@ -22662,7 +22662,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2018,
@@ -22671,7 +22671,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2018,
@@ -22680,7 +22680,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2018,
@@ -22689,7 +22689,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2018,
@@ -22698,7 +22698,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2018,
@@ -22707,7 +22707,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2018,
@@ -22716,7 +22716,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2018,
@@ -22725,7 +22725,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Seguro",
 	"ano": 2018,
@@ -22734,7 +22734,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2017,
@@ -22743,7 +22743,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2017,
@@ -22752,7 +22752,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2017,
@@ -22761,7 +22761,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2017,
@@ -22770,7 +22770,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2017,
@@ -22779,7 +22779,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2017,
@@ -22788,7 +22788,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2017,
@@ -22797,7 +22797,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2018,
@@ -22806,7 +22806,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2018,
@@ -22815,7 +22815,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2018,
@@ -22824,7 +22824,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2018,
@@ -22833,7 +22833,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2018,
@@ -22842,7 +22842,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2018,
@@ -22851,7 +22851,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2018,
@@ -22860,7 +22860,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2018,
@@ -22869,7 +22869,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2018,
@@ -22878,7 +22878,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2018,
@@ -22887,7 +22887,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2018,
@@ -22896,7 +22896,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Imóvel e manutenção",
 	"nivel4": "Taxas e impostos imobiliários",
 	"ano": 2018,
@@ -22905,7 +22905,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2017,
@@ -22914,7 +22914,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2017,
@@ -22923,7 +22923,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2017,
@@ -22932,7 +22932,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2017,
@@ -22941,7 +22941,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2017,
@@ -22950,7 +22950,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2017,
@@ -22959,7 +22959,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2017,
@@ -22968,7 +22968,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2017,
@@ -22977,7 +22977,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2017,
@@ -22986,7 +22986,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2018,
@@ -22995,7 +22995,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2018,
@@ -23004,7 +23004,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2018,
@@ -23013,7 +23013,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2018,
@@ -23022,7 +23022,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2018,
@@ -23031,7 +23031,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2018,
@@ -23040,7 +23040,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2018,
@@ -23049,7 +23049,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2018,
@@ -23058,7 +23058,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2018,
@@ -23067,7 +23067,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2018,
@@ -23076,7 +23076,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2018,
@@ -23085,7 +23085,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "COFINS",
 	"ano": 2018,
@@ -23094,7 +23094,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2017,
@@ -23103,7 +23103,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2017,
@@ -23112,7 +23112,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2017,
@@ -23121,7 +23121,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2017,
@@ -23130,7 +23130,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2017,
@@ -23139,7 +23139,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2017,
@@ -23148,7 +23148,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2017,
@@ -23157,7 +23157,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2017,
@@ -23166,7 +23166,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2017,
@@ -23175,7 +23175,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2018,
@@ -23184,7 +23184,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2018,
@@ -23193,7 +23193,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2018,
@@ -23202,7 +23202,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2018,
@@ -23211,7 +23211,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2018,
@@ -23220,7 +23220,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2018,
@@ -23229,7 +23229,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2018,
@@ -23238,7 +23238,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2018,
@@ -23247,7 +23247,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2018,
@@ -23256,7 +23256,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2018,
@@ -23265,7 +23265,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2018,
@@ -23274,7 +23274,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "INSS S/Faturamento",
 	"ano": 2018,
@@ -23283,7 +23283,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2017,
@@ -23292,7 +23292,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2017,
@@ -23301,7 +23301,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2017,
@@ -23310,7 +23310,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2017,
@@ -23319,7 +23319,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2017,
@@ -23328,7 +23328,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2017,
@@ -23337,7 +23337,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2017,
@@ -23346,7 +23346,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2017,
@@ -23355,7 +23355,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2017,
@@ -23364,7 +23364,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2018,
@@ -23373,7 +23373,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2018,
@@ -23382,7 +23382,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2018,
@@ -23391,7 +23391,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2018,
@@ -23400,7 +23400,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2018,
@@ -23409,7 +23409,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2018,
@@ -23418,7 +23418,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2018,
@@ -23427,7 +23427,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2018,
@@ -23436,7 +23436,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2018,
@@ -23445,7 +23445,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2018,
@@ -23454,7 +23454,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2018,
@@ -23463,7 +23463,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "ISSQN",
 	"ano": 2018,
@@ -23472,7 +23472,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2017,
@@ -23481,7 +23481,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2017,
@@ -23490,7 +23490,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2017,
@@ -23499,7 +23499,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2017,
@@ -23508,7 +23508,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2017,
@@ -23517,7 +23517,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2017,
@@ -23526,7 +23526,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2017,
@@ -23535,7 +23535,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2017,
@@ -23544,7 +23544,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2017,
@@ -23553,7 +23553,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2018,
@@ -23562,7 +23562,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2018,
@@ -23571,7 +23571,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2018,
@@ -23580,7 +23580,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2018,
@@ -23589,7 +23589,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2018,
@@ -23598,7 +23598,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2018,
@@ -23607,7 +23607,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2018,
@@ -23616,7 +23616,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2018,
@@ -23625,7 +23625,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2018,
@@ -23634,7 +23634,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2018,
@@ -23643,7 +23643,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2018,
@@ -23652,7 +23652,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Impostos sobre vendas",
 	"nivel4": "PIS",
 	"ano": 2018,
@@ -23661,7 +23661,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2017,
@@ -23670,7 +23670,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2017,
@@ -23679,7 +23679,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2017,
@@ -23688,7 +23688,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2017,
@@ -23697,7 +23697,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2017,
@@ -23706,7 +23706,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2017,
@@ -23715,7 +23715,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2017,
@@ -23724,7 +23724,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2017,
@@ -23733,7 +23733,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2017,
@@ -23742,7 +23742,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2017,
@@ -23751,7 +23751,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2018,
@@ -23760,7 +23760,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2018,
@@ -23769,7 +23769,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2018,
@@ -23778,7 +23778,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2018,
@@ -23787,7 +23787,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2018,
@@ -23796,7 +23796,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2018,
@@ -23805,7 +23805,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2018,
@@ -23814,7 +23814,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2018,
@@ -23823,7 +23823,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2018,
@@ -23832,7 +23832,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2018,
@@ -23841,7 +23841,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2018,
@@ -23850,7 +23850,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2018,
@@ -23859,7 +23859,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2018,
@@ -23868,7 +23868,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Comissões de vendas",
 	"ano": 2018,
@@ -23877,7 +23877,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2017,
@@ -23886,7 +23886,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2017,
@@ -23895,7 +23895,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2017,
@@ -23904,7 +23904,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2017,
@@ -23913,7 +23913,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2017,
@@ -23922,7 +23922,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2017,
@@ -23931,7 +23931,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2017,
@@ -23940,7 +23940,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2017,
@@ -23949,7 +23949,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2018,
@@ -23958,7 +23958,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2018,
@@ -23967,7 +23967,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2018,
@@ -23976,7 +23976,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2018,
@@ -23985,7 +23985,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2018,
@@ -23994,7 +23994,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2018,
@@ -24003,7 +24003,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2018,
@@ -24012,7 +24012,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2018,
@@ -24021,7 +24021,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2018,
@@ -24030,7 +24030,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Estandardização e folhetearia",
 	"ano": 2018,
@@ -24039,7 +24039,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2017,
@@ -24048,7 +24048,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2017,
@@ -24057,7 +24057,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2017,
@@ -24066,7 +24066,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2017,
@@ -24075,7 +24075,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2017,
@@ -24084,7 +24084,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2017,
@@ -24093,7 +24093,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2017,
@@ -24102,7 +24102,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2017,
@@ -24111,7 +24111,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2017,
@@ -24120,7 +24120,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2017,
@@ -24129,7 +24129,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2018,
@@ -24138,7 +24138,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2018,
@@ -24147,7 +24147,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2018,
@@ -24156,7 +24156,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2018,
@@ -24165,7 +24165,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2018,
@@ -24174,7 +24174,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2018,
@@ -24183,7 +24183,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2018,
@@ -24192,7 +24192,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2018,
@@ -24201,7 +24201,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2018,
@@ -24210,7 +24210,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2018,
@@ -24219,7 +24219,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2018,
@@ -24228,7 +24228,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2018,
@@ -24237,7 +24237,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Fee de Marketing",
 	"ano": 2018,
@@ -24246,7 +24246,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2017,
@@ -24255,7 +24255,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2017,
@@ -24264,7 +24264,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2017,
@@ -24273,7 +24273,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2017,
@@ -24282,7 +24282,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2017,
@@ -24291,7 +24291,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2017,
@@ -24300,7 +24300,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2017,
@@ -24309,7 +24309,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2017,
@@ -24318,7 +24318,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2017,
@@ -24327,7 +24327,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2017,
@@ -24336,7 +24336,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2018,
@@ -24345,7 +24345,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2018,
@@ -24354,7 +24354,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2018,
@@ -24363,7 +24363,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2018,
@@ -24372,7 +24372,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2018,
@@ -24381,7 +24381,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2018,
@@ -24390,7 +24390,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2018,
@@ -24399,7 +24399,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2018,
@@ -24408,7 +24408,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2018,
@@ -24417,7 +24417,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2018,
@@ -24426,7 +24426,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2018,
@@ -24435,7 +24435,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2018,
@@ -24444,7 +24444,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2018,
@@ -24453,7 +24453,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Publicidade local",
 	"ano": 2018,
@@ -24462,7 +24462,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Royalties",
 	"ano": 2017,
@@ -24471,7 +24471,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Royalties",
 	"ano": 2017,
@@ -24480,7 +24480,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Royalties",
 	"ano": 2017,
@@ -24489,7 +24489,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Royalties",
 	"ano": 2017,
@@ -24498,7 +24498,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Royalties",
 	"ano": 2017,
@@ -24507,7 +24507,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Royalties",
 	"ano": 2018,
@@ -24516,7 +24516,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Royalties",
 	"ano": 2018,
@@ -24525,7 +24525,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Royalties",
 	"ano": 2018,
@@ -24534,7 +24534,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Royalties",
 	"ano": 2018,
@@ -24543,7 +24543,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Royalties",
 	"ano": 2018,
@@ -24552,7 +24552,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Royalties",
 	"ano": 2018,
@@ -24561,7 +24561,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Marketing e comercialização",
 	"nivel4": "Royalties",
 	"ano": 2018,
@@ -24570,7 +24570,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2017,
@@ -24579,7 +24579,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2017,
@@ -24588,7 +24588,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2017,
@@ -24597,7 +24597,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2017,
@@ -24606,7 +24606,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2017,
@@ -24615,7 +24615,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2017,
@@ -24624,7 +24624,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2017,
@@ -24633,7 +24633,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2017,
@@ -24642,7 +24642,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2017,
@@ -24651,7 +24651,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2017,
@@ -24660,7 +24660,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2017,
@@ -24669,7 +24669,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2017,
@@ -24678,7 +24678,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2018,
@@ -24687,7 +24687,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2018,
@@ -24696,7 +24696,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2018,
@@ -24705,7 +24705,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2018,
@@ -24714,7 +24714,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2018,
@@ -24723,7 +24723,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2018,
@@ -24732,7 +24732,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2018,
@@ -24741,7 +24741,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2018,
@@ -24750,7 +24750,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2018,
@@ -24759,7 +24759,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2018,
@@ -24768,7 +24768,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2018,
@@ -24777,7 +24777,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2018,
@@ -24786,7 +24786,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2018,
@@ -24795,7 +24795,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas CLH Brasil a recuperar",
 	"ano": 2018,
@@ -24804,7 +24804,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2017,
@@ -24813,7 +24813,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2017,
@@ -24822,7 +24822,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2017,
@@ -24831,7 +24831,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2017,
@@ -24840,7 +24840,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2017,
@@ -24849,7 +24849,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2018,
@@ -24858,7 +24858,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2018,
@@ -24867,7 +24867,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2018,
@@ -24876,7 +24876,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2018,
@@ -24885,7 +24885,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2018,
@@ -24894,7 +24894,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2018,
@@ -24903,7 +24903,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2018,
@@ -24912,7 +24912,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2018,
@@ -24921,7 +24921,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2018,
@@ -24930,7 +24930,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2018,
@@ -24939,7 +24939,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2018,
@@ -24948,7 +24948,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2018,
@@ -24957,7 +24957,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Despesas Suites Copacabana DF a recuperar",
 	"ano": 2018,
@@ -24966,7 +24966,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Exclucao lanzamientos desbravador Antiguo",
 	"ano": 2017,
@@ -24975,7 +24975,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Exclucao lanzamientos desbravador Antiguo",
 	"ano": 2017,
@@ -24984,7 +24984,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Exclucao lanzamientos desbravador Antiguo",
 	"ano": 2017,
@@ -24993,7 +24993,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Exclucao lanzamientos desbravador Antiguo",
 	"ano": 2017,
@@ -25002,7 +25002,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Exclucao lanzamientos desbravador Antiguo",
 	"ano": 2017,
@@ -25011,7 +25011,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Exclucao lanzamientos desbravador Antiguo",
 	"ano": 2018,
@@ -25020,7 +25020,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Exclucao lanzamientos desbravador Antiguo",
 	"ano": 2018,
@@ -25029,7 +25029,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Exclucao lanzamientos desbravador Antiguo",
 	"ano": 2018,
@@ -25038,7 +25038,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Exclucao lanzamientos desbravador Antiguo",
 	"ano": 2018,
@@ -25047,7 +25047,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Exclucao lanzamientos desbravador Antiguo",
 	"ano": 2018,
@@ -25056,7 +25056,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Exclucao lanzamientos desbravador Antiguo",
 	"ano": 2018,
@@ -25065,7 +25065,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Exclucao lanzamientos desbravador Antiguo",
 	"ano": 2018,
@@ -25074,7 +25074,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Faltante de Caja a recuperar",
 	"ano": 2017,
@@ -25083,7 +25083,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Faltante de Caja a recuperar",
 	"ano": 2017,
@@ -25092,7 +25092,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Faltante de Caja a recuperar",
 	"ano": 2017,
@@ -25101,7 +25101,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Faltante de Caja a recuperar",
 	"ano": 2017,
@@ -25110,7 +25110,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Faltante de Caja a recuperar",
 	"ano": 2017,
@@ -25119,7 +25119,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Faltante de Caja a recuperar",
 	"ano": 2017,
@@ -25128,7 +25128,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Faltante de Caja a recuperar",
 	"ano": 2018,
@@ -25137,7 +25137,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Faltante de Caja a recuperar",
 	"ano": 2018,
@@ -25146,7 +25146,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Faltante de Caja a recuperar",
 	"ano": 2018,
@@ -25155,7 +25155,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Faltante de Caja a recuperar",
 	"ano": 2018,
@@ -25164,7 +25164,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Faltante de Caja a recuperar",
 	"ano": 2018,
@@ -25173,7 +25173,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Faltante de Caja a recuperar",
 	"ano": 2018,
@@ -25182,7 +25182,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Faltante de Caja a recuperar",
 	"ano": 2018,
@@ -25191,7 +25191,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2017,
@@ -25200,7 +25200,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2017,
@@ -25209,7 +25209,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2017,
@@ -25218,7 +25218,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2017,
@@ -25227,7 +25227,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2017,
@@ -25236,7 +25236,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2017,
@@ -25245,7 +25245,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2017,
@@ -25254,7 +25254,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2017,
@@ -25263,7 +25263,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2017,
@@ -25272,7 +25272,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2018,
@@ -25281,7 +25281,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2018,
@@ -25290,7 +25290,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2018,
@@ -25299,7 +25299,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2018,
@@ -25308,7 +25308,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2018,
@@ -25317,7 +25317,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2018,
@@ -25326,7 +25326,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2018,
@@ -25335,7 +25335,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2018,
@@ -25344,7 +25344,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2018,
@@ -25353,7 +25353,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2018,
@@ -25362,7 +25362,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2018,
@@ -25371,7 +25371,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Impostos Curitiba a recuperar",
 	"ano": 2018,
@@ -25380,7 +25380,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2017,
@@ -25389,7 +25389,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2017,
@@ -25398,7 +25398,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2017,
@@ -25407,7 +25407,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2017,
@@ -25416,7 +25416,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2017,
@@ -25425,7 +25425,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2017,
@@ -25434,7 +25434,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2017,
@@ -25443,7 +25443,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2017,
@@ -25452,7 +25452,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2017,
@@ -25461,7 +25461,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2017,
@@ -25470,7 +25470,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2017,
@@ -25479,7 +25479,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2018,
@@ -25488,7 +25488,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2018,
@@ -25497,7 +25497,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2018,
@@ -25506,7 +25506,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2018,
@@ -25515,7 +25515,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2018,
@@ -25524,7 +25524,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2018,
@@ -25533,7 +25533,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2018,
@@ -25542,7 +25542,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2018,
@@ -25551,7 +25551,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2018,
@@ -25560,7 +25560,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2018,
@@ -25569,7 +25569,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2018,
@@ -25578,7 +25578,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2018,
@@ -25587,7 +25587,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Outras Despesas Nao Operativas",
 	"ano": 2018,
@@ -25596,7 +25596,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2017,
@@ -25605,7 +25605,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2017,
@@ -25614,7 +25614,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2017,
@@ -25623,7 +25623,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2017,
@@ -25632,7 +25632,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2017,
@@ -25641,7 +25641,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -25650,7 +25650,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -25659,7 +25659,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -25668,7 +25668,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -25677,7 +25677,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -25686,7 +25686,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -25695,7 +25695,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -25704,7 +25704,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -25713,7 +25713,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -25722,7 +25722,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -25731,7 +25731,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -25740,7 +25740,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -25749,7 +25749,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -25758,7 +25758,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saidas Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -25767,7 +25767,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2017,
@@ -25776,7 +25776,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2017,
@@ -25785,7 +25785,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2017,
@@ -25794,7 +25794,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2017,
@@ -25803,7 +25803,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2017,
@@ -25812,7 +25812,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2018,
@@ -25821,7 +25821,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2018,
@@ -25830,7 +25830,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2018,
@@ -25839,7 +25839,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2018,
@@ -25848,7 +25848,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2018,
@@ -25857,7 +25857,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2018,
@@ -25866,7 +25866,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2018,
@@ -25875,7 +25875,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas Operativas",
 	"nivel4": "Outras Despesas Operativas",
 	"ano": 2017,
@@ -25884,7 +25884,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas Operativas",
 	"nivel4": "Outras Despesas Operativas",
 	"ano": 2017,
@@ -25893,7 +25893,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas Operativas",
 	"nivel4": "Outras Despesas Operativas",
 	"ano": 2017,
@@ -25902,7 +25902,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas Operativas",
 	"nivel4": "Outras Despesas Operativas",
 	"ano": 2017,
@@ -25911,7 +25911,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas Operativas",
 	"nivel4": "Outras Despesas Operativas",
 	"ano": 2017,
@@ -25920,7 +25920,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas Operativas",
 	"nivel4": "Outras Despesas Operativas",
 	"ano": 2018,
@@ -25929,7 +25929,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas Operativas",
 	"nivel4": "Outras Despesas Operativas",
 	"ano": 2018,
@@ -25938,7 +25938,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas Operativas",
 	"nivel4": "Outras Despesas Operativas",
 	"ano": 2018,
@@ -25947,7 +25947,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas Operativas",
 	"nivel4": "Outras Despesas Operativas",
 	"ano": 2018,
@@ -25956,7 +25956,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas Operativas",
 	"nivel4": "Outras Despesas Operativas",
 	"ano": 2018,
@@ -25965,7 +25965,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas Operativas",
 	"nivel4": "Outras Despesas Operativas",
 	"ano": 2018,
@@ -25974,7 +25974,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas Operativas",
 	"nivel4": "Outras Despesas Operativas",
 	"ano": 2018,
@@ -25983,7 +25983,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas Operativas",
 	"nivel4": "Outras Despesas Operativas",
 	"ano": 2018,
@@ -25992,7 +25992,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outras Despesas Operativas",
 	"nivel4": "Outras Despesas Operativas",
 	"ano": 2018,
@@ -26001,7 +26001,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "CSLL",
 	"ano": 2017,
@@ -26010,7 +26010,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "CSLL",
 	"ano": 2017,
@@ -26019,7 +26019,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "CSLL",
 	"ano": 2017,
@@ -26028,7 +26028,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "CSLL",
 	"ano": 2017,
@@ -26037,7 +26037,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "CSLL",
 	"ano": 2017,
@@ -26046,7 +26046,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "CSLL",
 	"ano": 2017,
@@ -26055,7 +26055,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "CSLL",
 	"ano": 2018,
@@ -26064,7 +26064,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "CSLL",
 	"ano": 2018,
@@ -26073,7 +26073,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "CSLL",
 	"ano": 2018,
@@ -26082,7 +26082,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "CSLL",
 	"ano": 2018,
@@ -26091,7 +26091,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "CSLL",
 	"ano": 2018,
@@ -26100,7 +26100,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "CSLL",
 	"ano": 2018,
@@ -26109,7 +26109,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "CSLL",
 	"ano": 2018,
@@ -26118,7 +26118,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "CSLL",
 	"ano": 2018,
@@ -26127,7 +26127,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "CSLL",
 	"ano": 2018,
@@ -26136,7 +26136,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "IRPJ",
 	"ano": 2017,
@@ -26145,7 +26145,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "IRPJ",
 	"ano": 2017,
@@ -26154,7 +26154,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "IRPJ",
 	"ano": 2017,
@@ -26163,7 +26163,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "IRPJ",
 	"ano": 2017,
@@ -26172,7 +26172,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "IRPJ",
 	"ano": 2017,
@@ -26181,7 +26181,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "IRPJ",
 	"ano": 2017,
@@ -26190,7 +26190,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "IRPJ",
 	"ano": 2018,
@@ -26199,7 +26199,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "IRPJ",
 	"ano": 2018,
@@ -26208,7 +26208,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "IRPJ",
 	"ano": 2018,
@@ -26217,7 +26217,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "IRPJ",
 	"ano": 2018,
@@ -26226,7 +26226,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "IRPJ",
 	"ano": 2018,
@@ -26235,7 +26235,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "IRPJ",
 	"ano": 2018,
@@ -26244,7 +26244,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "IRPJ",
 	"ano": 2018,
@@ -26253,7 +26253,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "IRPJ",
 	"ano": 2018,
@@ -26262,7 +26262,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Outros impostos",
 	"nivel4": "IRPJ",
 	"ano": 2018,
@@ -26271,7 +26271,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2017,
@@ -26280,7 +26280,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2017,
@@ -26289,7 +26289,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2017,
@@ -26298,7 +26298,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2017,
@@ -26307,7 +26307,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2017,
@@ -26316,7 +26316,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2017,
@@ -26325,7 +26325,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2017,
@@ -26334,7 +26334,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2017,
@@ -26343,7 +26343,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2017,
@@ -26352,7 +26352,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2018,
@@ -26361,7 +26361,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2018,
@@ -26370,7 +26370,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2018,
@@ -26379,7 +26379,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2018,
@@ -26388,7 +26388,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2018,
@@ -26397,7 +26397,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2018,
@@ -26406,7 +26406,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2018,
@@ -26415,7 +26415,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2018,
@@ -26424,7 +26424,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2018,
@@ -26433,7 +26433,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2018,
@@ -26442,7 +26442,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2018,
@@ -26451,7 +26451,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2018,
@@ -26460,7 +26460,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Agua",
 	"ano": 2018,
@@ -26469,7 +26469,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2017,
@@ -26478,7 +26478,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2017,
@@ -26487,7 +26487,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2017,
@@ -26496,7 +26496,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2017,
@@ -26505,7 +26505,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2017,
@@ -26514,7 +26514,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2017,
@@ -26523,7 +26523,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2017,
@@ -26532,7 +26532,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2017,
@@ -26541,7 +26541,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2017,
@@ -26550,7 +26550,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2017,
@@ -26559,7 +26559,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2018,
@@ -26568,7 +26568,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2018,
@@ -26577,7 +26577,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2018,
@@ -26586,7 +26586,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2018,
@@ -26595,7 +26595,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2018,
@@ -26604,7 +26604,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2018,
@@ -26613,7 +26613,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2018,
@@ -26622,7 +26622,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2018,
@@ -26631,7 +26631,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2018,
@@ -26640,7 +26640,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2018,
@@ -26649,7 +26649,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2018,
@@ -26658,7 +26658,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2018,
@@ -26667,7 +26667,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2018,
@@ -26676,7 +26676,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Gas",
 	"ano": 2018,
@@ -26685,7 +26685,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2017,
@@ -26694,7 +26694,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2017,
@@ -26703,7 +26703,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2017,
@@ -26712,7 +26712,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2017,
@@ -26721,7 +26721,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2017,
@@ -26730,7 +26730,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2017,
@@ -26739,7 +26739,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2017,
@@ -26748,7 +26748,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2017,
@@ -26757,7 +26757,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2017,
@@ -26766,7 +26766,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2017,
@@ -26775,7 +26775,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2018,
@@ -26784,7 +26784,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2018,
@@ -26793,7 +26793,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2018,
@@ -26802,7 +26802,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2018,
@@ -26811,7 +26811,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2018,
@@ -26820,7 +26820,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2018,
@@ -26829,7 +26829,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2018,
@@ -26838,7 +26838,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2018,
@@ -26847,7 +26847,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2018,
@@ -26856,7 +26856,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2018,
@@ -26865,7 +26865,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2018,
@@ -26874,7 +26874,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2018,
@@ -26883,7 +26883,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2018,
@@ -26892,7 +26892,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "DESPESA",
+	"nivel2": "Despesa",
 	"nivel3": "Serviços",
 	"nivel4": "Luz - Eletricidade",
 	"ano": 2018,
@@ -26901,7 +26901,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2017,
@@ -26910,7 +26910,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2017,
@@ -26919,7 +26919,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2017,
@@ -26928,7 +26928,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2017,
@@ -26937,7 +26937,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2017,
@@ -26946,7 +26946,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2017,
@@ -26955,7 +26955,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2017,
@@ -26964,7 +26964,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2017,
@@ -26973,7 +26973,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2018,
@@ -26982,7 +26982,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2018,
@@ -26991,7 +26991,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2018,
@@ -27000,7 +27000,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2018,
@@ -27009,7 +27009,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2018,
@@ -27018,7 +27018,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2018,
@@ -27027,7 +27027,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2018,
@@ -27036,7 +27036,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Despesas CLH Brasil",
 	"ano": 2018,
@@ -27045,7 +27045,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Faltante de Caja",
 	"ano": 2017,
@@ -27054,7 +27054,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Faltante de Caja",
 	"ano": 2017,
@@ -27063,7 +27063,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Faltante de Caja",
 	"ano": 2017,
@@ -27072,7 +27072,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Faltante de Caja",
 	"ano": 2017,
@@ -27081,7 +27081,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Faltante de Caja",
 	"ano": 2017,
@@ -27090,7 +27090,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Faltante de Caja",
 	"ano": 2018,
@@ -27099,7 +27099,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Faltante de Caja",
 	"ano": 2018,
@@ -27108,7 +27108,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Faltante de Caja",
 	"ano": 2018,
@@ -27117,7 +27117,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Faltante de Caja",
 	"ano": 2018,
@@ -27126,7 +27126,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Faltante de Caja",
 	"ano": 2018,
@@ -27135,7 +27135,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Faltante de Caja",
 	"ano": 2018,
@@ -27144,7 +27144,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Faltante de Caja",
 	"ano": 2018,
@@ -27153,7 +27153,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2017,
@@ -27162,7 +27162,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2017,
@@ -27171,7 +27171,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2017,
@@ -27180,7 +27180,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2017,
@@ -27189,7 +27189,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2017,
@@ -27198,7 +27198,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2017,
@@ -27207,7 +27207,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2017,
@@ -27216,7 +27216,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2017,
@@ -27225,7 +27225,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2017,
@@ -27234,7 +27234,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2017,
@@ -27243,7 +27243,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2018,
@@ -27252,7 +27252,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2018,
@@ -27261,7 +27261,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2018,
@@ -27270,7 +27270,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2018,
@@ -27279,7 +27279,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2018,
@@ -27288,7 +27288,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2018,
@@ -27297,7 +27297,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2018,
@@ -27306,7 +27306,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2018,
@@ -27315,7 +27315,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2018,
@@ -27324,7 +27324,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2018,
@@ -27333,7 +27333,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2018,
@@ -27342,7 +27342,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2018,
@@ -27351,7 +27351,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Recupero Impostos Curitiba",
 	"ano": 2018,
@@ -27360,7 +27360,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2017,
@@ -27369,7 +27369,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2017,
@@ -27378,7 +27378,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2017,
@@ -27387,7 +27387,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2017,
@@ -27396,7 +27396,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2017,
@@ -27405,7 +27405,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2017,
@@ -27414,7 +27414,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2018,
@@ -27423,7 +27423,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2018,
@@ -27432,7 +27432,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2018,
@@ -27441,7 +27441,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2018,
@@ -27450,7 +27450,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2018,
@@ -27459,7 +27459,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2018,
@@ -27468,7 +27468,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Outras Receitas",
 	"nivel4": "Saldo Inicial",
 	"ano": 2018,
@@ -27477,7 +27477,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2017,
@@ -27486,7 +27486,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2017,
@@ -27495,7 +27495,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2017,
@@ -27504,7 +27504,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2017,
@@ -27513,7 +27513,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2017,
@@ -27522,7 +27522,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2017,
@@ -27531,7 +27531,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2017,
@@ -27540,7 +27540,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2017,
@@ -27549,7 +27549,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2017,
@@ -27558,7 +27558,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2018,
@@ -27567,7 +27567,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2018,
@@ -27576,7 +27576,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2018,
@@ -27585,7 +27585,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2018,
@@ -27594,7 +27594,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2018,
@@ -27603,7 +27603,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2018,
@@ -27612,7 +27612,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2018,
@@ -27621,7 +27621,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2018,
@@ -27630,7 +27630,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2018,
@@ -27639,7 +27639,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2018,
@@ -27648,7 +27648,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2018,
@@ -27657,7 +27657,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2018,
@@ -27666,7 +27666,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Aplicações Financeiras",
 	"ano": 2018,
@@ -27675,7 +27675,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Diferencia de cambio",
 	"ano": 2017,
@@ -27684,7 +27684,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Diferencia de cambio",
 	"ano": 2017,
@@ -27693,7 +27693,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Diferencia de cambio",
 	"ano": 2017,
@@ -27702,7 +27702,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Diferencia de cambio",
 	"ano": 2017,
@@ -27711,7 +27711,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Diferencia de cambio",
 	"ano": 2017,
@@ -27720,7 +27720,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Diferencia de cambio",
 	"ano": 2018,
@@ -27729,7 +27729,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Diferencia de cambio",
 	"ano": 2018,
@@ -27738,7 +27738,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Diferencia de cambio",
 	"ano": 2018,
@@ -27747,7 +27747,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Diferencia de cambio",
 	"ano": 2018,
@@ -27756,7 +27756,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Diferencia de cambio",
 	"ano": 2018,
@@ -27765,7 +27765,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Diferencia de cambio",
 	"ano": 2018,
@@ -27774,7 +27774,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas Financeiras",
 	"nivel4": "Diferencia de cambio",
 	"ano": 2018,
@@ -27783,7 +27783,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2017,
@@ -27792,7 +27792,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2017,
@@ -27801,7 +27801,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2017,
@@ -27810,7 +27810,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2017,
@@ -27819,7 +27819,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2017,
@@ -27828,7 +27828,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -27837,7 +27837,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -27846,7 +27846,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -27855,7 +27855,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -27864,7 +27864,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -27873,7 +27873,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -27882,7 +27882,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -27891,7 +27891,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -27900,7 +27900,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -27909,7 +27909,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -27918,7 +27918,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -27927,7 +27927,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -27936,7 +27936,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -27945,7 +27945,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Ingresos Getnet Suites Copacabana DF",
 	"ano": 2018,
@@ -27954,7 +27954,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2017,
@@ -27963,7 +27963,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2017,
@@ -27972,7 +27972,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2017,
@@ -27981,7 +27981,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2017,
@@ -27990,7 +27990,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2017,
@@ -27999,7 +27999,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2017,
@@ -28008,7 +28008,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2017,
@@ -28017,7 +28017,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2017,
@@ -28026,7 +28026,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2017,
@@ -28035,7 +28035,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2018,
@@ -28044,7 +28044,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2018,
@@ -28053,7 +28053,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2018,
@@ -28062,7 +28062,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2018,
@@ -28071,7 +28071,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2018,
@@ -28080,7 +28080,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2018,
@@ -28089,7 +28089,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2018,
@@ -28098,7 +28098,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2018,
@@ -28107,7 +28107,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2018,
@@ -28116,7 +28116,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Outras receitas não operativas",
 	"ano": 2018,
@@ -28125,7 +28125,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2017,
@@ -28134,7 +28134,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2017,
@@ -28143,7 +28143,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2017,
@@ -28152,7 +28152,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2017,
@@ -28161,7 +28161,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2017,
@@ -28170,7 +28170,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2018,
@@ -28179,7 +28179,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2018,
@@ -28188,7 +28188,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2018,
@@ -28197,7 +28197,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2018,
@@ -28206,7 +28206,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2018,
@@ -28215,7 +28215,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2018,
@@ -28224,7 +28224,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2018,
@@ -28233,7 +28233,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2018,
@@ -28242,7 +28242,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2018,
@@ -28251,7 +28251,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2018,
@@ -28260,7 +28260,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2018,
@@ -28269,7 +28269,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2018,
@@ -28278,7 +28278,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas não operativas",
 	"nivel4": "Recupero Despesas Suites Copacabana DF",
 	"ano": 2018,
@@ -28287,7 +28287,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2017,
@@ -28296,7 +28296,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2017,
@@ -28305,7 +28305,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2017,
@@ -28314,7 +28314,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2017,
@@ -28323,7 +28323,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2017,
@@ -28332,7 +28332,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2017,
@@ -28341,7 +28341,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2017,
@@ -28350,7 +28350,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2017,
@@ -28359,7 +28359,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2017,
@@ -28368,7 +28368,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2017,
@@ -28377,7 +28377,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2018,
@@ -28386,7 +28386,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2018,
@@ -28395,7 +28395,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2018,
@@ -28404,7 +28404,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2018,
@@ -28413,7 +28413,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2018,
@@ -28422,7 +28422,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2018,
@@ -28431,7 +28431,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2018,
@@ -28440,7 +28440,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2018,
@@ -28449,7 +28449,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2018,
@@ -28458,7 +28458,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2018,
@@ -28467,7 +28467,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2018,
@@ -28476,7 +28476,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2018,
@@ -28485,7 +28485,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2018,
@@ -28494,7 +28494,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Adiantamentos bancarios",
 	"ano": 2018,
@@ -28503,7 +28503,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2017,
@@ -28512,7 +28512,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2017,
@@ -28521,7 +28521,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2017,
@@ -28530,7 +28530,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2017,
@@ -28539,7 +28539,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2017,
@@ -28548,7 +28548,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2017,
@@ -28557,7 +28557,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2017,
@@ -28566,7 +28566,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2017,
@@ -28575,7 +28575,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2017,
@@ -28584,7 +28584,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2017,
@@ -28593,7 +28593,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2017,
@@ -28602,7 +28602,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2018,
@@ -28611,7 +28611,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2018,
@@ -28620,7 +28620,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2018,
@@ -28629,7 +28629,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2018,
@@ -28638,7 +28638,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2018,
@@ -28647,7 +28647,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2018,
@@ -28656,7 +28656,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2018,
@@ -28665,7 +28665,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2018,
@@ -28674,7 +28674,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2018,
@@ -28683,7 +28683,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2018,
@@ -28692,7 +28692,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2018,
@@ -28701,7 +28701,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2018,
@@ -28710,7 +28710,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2018,
@@ -28719,7 +28719,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Caixa Front",
 	"ano": 2018,
@@ -28728,7 +28728,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2017,
@@ -28737,7 +28737,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2017,
@@ -28746,7 +28746,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2017,
@@ -28755,7 +28755,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2017,
@@ -28764,7 +28764,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2017,
@@ -28773,7 +28773,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2017,
@@ -28782,7 +28782,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2017,
@@ -28791,7 +28791,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2017,
@@ -28800,7 +28800,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2017,
@@ -28809,7 +28809,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2017,
@@ -28818,7 +28818,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2017,
@@ -28827,7 +28827,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2017,
@@ -28836,7 +28836,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -28845,7 +28845,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -28854,7 +28854,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -28863,7 +28863,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -28872,7 +28872,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -28881,7 +28881,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -28890,7 +28890,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -28899,7 +28899,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -28908,7 +28908,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -28917,7 +28917,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -28926,7 +28926,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -28935,7 +28935,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -28944,7 +28944,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -28953,7 +28953,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -28962,7 +28962,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -28971,7 +28971,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -28980,7 +28980,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - R$",
 	"ano": 2018,
@@ -28989,7 +28989,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2017,
@@ -28998,7 +28998,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2017,
@@ -29007,7 +29007,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2017,
@@ -29016,7 +29016,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2017,
@@ -29025,7 +29025,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2017,
@@ -29034,7 +29034,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2017,
@@ -29043,7 +29043,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2017,
@@ -29052,7 +29052,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2017,
@@ -29061,7 +29061,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2017,
@@ -29070,7 +29070,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2017,
@@ -29079,7 +29079,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2018,
@@ -29088,7 +29088,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2018,
@@ -29097,7 +29097,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2018,
@@ -29106,7 +29106,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2018,
@@ -29115,7 +29115,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2018,
@@ -29124,7 +29124,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2018,
@@ -29133,7 +29133,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2018,
@@ -29142,7 +29142,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2018,
@@ -29151,7 +29151,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2018,
@@ -29160,7 +29160,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2018,
@@ -29169,7 +29169,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2018,
@@ -29178,7 +29178,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2018,
@@ -29187,7 +29187,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2018,
@@ -29196,7 +29196,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2018,
@@ -29205,7 +29205,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões BCR - USD",
 	"ano": 2018,
@@ -29214,7 +29214,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2017,
@@ -29223,7 +29223,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2017,
@@ -29232,7 +29232,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2017,
@@ -29241,7 +29241,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2017,
@@ -29250,7 +29250,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2017,
@@ -29259,7 +29259,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2017,
@@ -29268,7 +29268,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2017,
@@ -29277,7 +29277,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2017,
@@ -29286,7 +29286,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2017,
@@ -29295,7 +29295,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2017,
@@ -29304,7 +29304,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2017,
@@ -29313,7 +29313,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2018,
@@ -29322,7 +29322,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2018,
@@ -29331,7 +29331,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2018,
@@ -29340,7 +29340,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2018,
@@ -29349,7 +29349,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2018,
@@ -29358,7 +29358,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2018,
@@ -29367,7 +29367,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2018,
@@ -29376,7 +29376,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2018,
@@ -29385,7 +29385,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2018,
@@ -29394,7 +29394,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2018,
@@ -29403,7 +29403,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2018,
@@ -29412,7 +29412,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2018,
@@ -29421,7 +29421,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2018,
@@ -29430,7 +29430,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Cartões Front",
 	"ano": 2018,
@@ -29439,7 +29439,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2017,
@@ -29448,7 +29448,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2017,
@@ -29457,7 +29457,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2017,
@@ -29466,7 +29466,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2017,
@@ -29475,7 +29475,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2017,
@@ -29484,7 +29484,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2017,
@@ -29493,7 +29493,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2017,
@@ -29502,7 +29502,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2017,
@@ -29511,7 +29511,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2017,
@@ -29520,7 +29520,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2017,
@@ -29529,7 +29529,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2018,
@@ -29538,7 +29538,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2018,
@@ -29547,7 +29547,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2018,
@@ -29556,7 +29556,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2018,
@@ -29565,7 +29565,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2018,
@@ -29574,7 +29574,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2018,
@@ -29583,7 +29583,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2018,
@@ -29592,7 +29592,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2018,
@@ -29601,7 +29601,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2018,
@@ -29610,7 +29610,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2018,
@@ -29619,7 +29619,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2018,
@@ -29628,7 +29628,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2018,
@@ -29637,7 +29637,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2018,
@@ -29646,7 +29646,7 @@ var relatorio = [{
 },
 {
 	"nivel1": "Competencia",
-	"nivel2": "RECEITA",
+	"nivel2": "Receita",
 	"nivel3": "Receitas por vendas",
 	"nivel4": "Conta Corrente",
 	"ano": 2018,

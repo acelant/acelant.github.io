@@ -5,13 +5,26 @@ $(function(){
         allowSorting: true,
         allowFiltering: true,
         allowExpandAll: true,
-        height: 500,
+        //height: 550,
         showBorders: true,
 		showTotalsPrior: "rows",
 		rowHeaderLayout: "tree",
 		showRowGrandTotals: false,
 		showColumnGrandTotals: false,
 		showColumnTotals: false,
+        texts: {
+            collapseAll: "Recolher todos",
+            dataNotAvailable: "N/A",
+            expandAll: "Expandir todos",
+            exportToExcel: "Exportar para arquivo do Excel",
+            grandTotal: "Total Geral",
+            noData: "Sem dados",
+            removeAllSorting: "Remover toda a classificação",
+            showFieldChooser: "Mostrar seletor de campo",
+            sortColumnBySummary: "Ordenar {0} por esta coluna",
+            sortRowBySummary: "Ordenar {0} por esta linha",
+            total: "{0} Total"
+            },
         fieldChooser: {
             enabled: false
         },
@@ -25,43 +38,31 @@ $(function(){
 	    },
         "export": {
             enabled: true,
-            fileName: "relatorio"
+            fileName: "Demonstrativo Conta Corrente"
         },
-		onCellPrepared: function(e) {
-				
-				e.cellElement.css("font-size", "14px");
-				var cek_kolom = e.cell.text;
-				/*if (e.area == 'row' ){
-					if(cek_kolom.indexOf(negativo) != -1){
-						e.cellElement.css("background-color", "red");
-						e.cellElement.css("color", "white");
-					}
-				}else */
-				if(e.area == "data"){
+        onCellPrepared: function(e) {
+                
+                e.cellElement.css("font-size", "14px");
+                /*var cek_kolom = e.cell.text;
+                if (e.area == 'row' ){
+                    if((cek_kolom=='03 - Debitos')){
+                        e.cellElement.css("background-color", "#99a8a1");
+                        e.cellElement.css("color", "red");
+                    }*/
+                if(e.area == "data"){
                     if(e.cell.value < 0 ){
                         e.cellElement.css("color", "red");
 
                     }
-				}
-		},
-		calculateCustomSummary: function (options) {
-                            console.log(options);
-							if (options.summaryProcess == 'start') {
-								options.totalValue = {sum:0};
-							}
-							if (options.summaryProcess == 'calculate') {
-								options.totalValue.sum += options.value.target;	
-							}
-							if (options.summaryProcess == 'finalize') {
-								options.totalValue = options.totalValue.sum;
-							}
-						},	
+                }
+        },	
         dataSource: {
             fields: [{
                 caption: "Nivel 1",
                 width: 120,
                 dataField: "nivel1",
-                area: "row" 
+                area: "row",
+                expanded: false
             }, {
                 caption: "Nivel 2",
                 dataField: "nivel2",

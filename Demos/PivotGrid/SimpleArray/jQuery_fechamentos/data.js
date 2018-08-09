@@ -1,5 +1,5 @@
 var relatorio = [{
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -7,7 +7,7 @@ var relatorio = [{
 	"valor": 28.89
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -15,7 +15,7 @@ var relatorio = [{
 	"valor": 11.00
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -23,7 +23,7 @@ var relatorio = [{
 	"valor": 4.86
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -31,7 +31,7 @@ var relatorio = [{
 	"valor": 4.04
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -39,7 +39,7 @@ var relatorio = [{
 	"valor": 16.34
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -47,7 +47,7 @@ var relatorio = [{
 	"valor": 4.85
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -55,7 +55,7 @@ var relatorio = [{
 	"valor": 0.58
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -63,7 +63,7 @@ var relatorio = [{
 	"valor": 46.37
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -71,7 +71,7 @@ var relatorio = [{
 	"valor": 8.24
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -79,7 +79,7 @@ var relatorio = [{
 	"valor": 67.62
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -87,7 +87,7 @@ var relatorio = [{
 	"valor": 18.53
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -95,7 +95,7 @@ var relatorio = [{
 	"valor": 0.35
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -103,7 +103,7 @@ var relatorio = [{
 	"valor": 60.84
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -111,7 +111,7 @@ var relatorio = [{
 	"valor": 0.72
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -119,7 +119,7 @@ var relatorio = [{
 	"valor": 72.24
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Dolar",
 	"ano": 2017,
@@ -127,7 +127,7 @@ var relatorio = [{
 	"valor": 0.36
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -135,7 +135,7 @@ var relatorio = [{
 	"valor": 84.52
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -143,7 +143,7 @@ var relatorio = [{
 	"valor": 67.62
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -151,7 +151,7 @@ var relatorio = [{
 	"valor": 126.77
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -159,7 +159,7 @@ var relatorio = [{
 	"valor": 76.21
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -167,7 +167,7 @@ var relatorio = [{
 	"valor": 96.95
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -175,7 +175,7 @@ var relatorio = [{
 	"valor": 190.27
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -183,7 +183,7 @@ var relatorio = [{
 	"valor": 157.17
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -191,7 +191,7 @@ var relatorio = [{
 	"valor": 123.70
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -199,7 +199,7 @@ var relatorio = [{
 	"valor": 115.75
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -207,7 +207,7 @@ var relatorio = [{
 	"valor": 78.44
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -215,7 +215,7 @@ var relatorio = [{
 	"valor": 72.01
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -223,7 +223,7 @@ var relatorio = [{
 	"valor": 89.78
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -231,7 +231,7 @@ var relatorio = [{
 	"valor": 3341.62
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -239,7 +239,7 @@ var relatorio = [{
 	"valor": 2842.85
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -247,7 +247,7 @@ var relatorio = [{
 	"valor": 2811.23
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -255,7 +255,7 @@ var relatorio = [{
 	"valor": 3954.21
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -263,7 +263,7 @@ var relatorio = [{
 	"valor": 1894.60
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -271,7 +271,7 @@ var relatorio = [{
 	"valor": 3044.93
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -279,7 +279,7 @@ var relatorio = [{
 	"valor": 5253.92
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -287,7 +287,7 @@ var relatorio = [{
 	"valor": 3166.77
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -295,7 +295,7 @@ var relatorio = [{
 	"valor": 1799.90
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -303,7 +303,7 @@ var relatorio = [{
 	"valor": 5493.22
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -311,7 +311,7 @@ var relatorio = [{
 	"valor": 1424.27
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -319,7 +319,7 @@ var relatorio = [{
 	"valor": 5379.82
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "A Prazo",
 	"ano": 2018,
@@ -327,7 +327,7 @@ var relatorio = [{
 	"valor": 96.00
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -335,7 +335,7 @@ var relatorio = [{
 	"valor": 0.11
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -343,7 +343,7 @@ var relatorio = [{
 	"valor": 3.10
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -351,7 +351,7 @@ var relatorio = [{
 	"valor": 2.92
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -359,7 +359,7 @@ var relatorio = [{
 	"valor": 0.47
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -367,7 +367,7 @@ var relatorio = [{
 	"valor": 0.24
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -375,7 +375,7 @@ var relatorio = [{
 	"valor": 13.25
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -383,7 +383,7 @@ var relatorio = [{
 	"valor": 6.53
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -391,7 +391,7 @@ var relatorio = [{
 	"valor": 1.16
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -399,7 +399,7 @@ var relatorio = [{
 	"valor": 0.13
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -407,7 +407,7 @@ var relatorio = [{
 	"valor": 22.68
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -415,7 +415,7 @@ var relatorio = [{
 	"valor": 22.68
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -423,7 +423,7 @@ var relatorio = [{
 	"valor": 59.34
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Dolar",
 	"ano": 2018,
@@ -431,7 +431,7 @@ var relatorio = [{
 	"valor": 0.86
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -439,7 +439,7 @@ var relatorio = [{
 	"valor": 149.84
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -447,7 +447,7 @@ var relatorio = [{
 	"valor": 82.76
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -455,7 +455,7 @@ var relatorio = [{
 	"valor": 216.99
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -463,7 +463,7 @@ var relatorio = [{
 	"valor": 114.60
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -471,7 +471,7 @@ var relatorio = [{
 	"valor": 63.52
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -479,7 +479,7 @@ var relatorio = [{
 	"valor": 66.15
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -487,7 +487,7 @@ var relatorio = [{
 	"valor": 200.87
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -495,7 +495,7 @@ var relatorio = [{
 	"valor": 91.40
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -503,7 +503,7 @@ var relatorio = [{
 	"valor": 158.45
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -511,7 +511,7 @@ var relatorio = [{
 	"valor": 165.02
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -519,7 +519,7 @@ var relatorio = [{
 	"valor": 332.63
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -527,7 +527,7 @@ var relatorio = [{
 	"valor": 374.62
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -535,7 +535,7 @@ var relatorio = [{
 	"valor": 3010.05
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -543,7 +543,7 @@ var relatorio = [{
 	"valor": 1894.12
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -551,7 +551,7 @@ var relatorio = [{
 	"valor": 3300.09
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -559,7 +559,7 @@ var relatorio = [{
 	"valor": 3364.93
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -567,7 +567,7 @@ var relatorio = [{
 	"valor": 2056.24
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -575,7 +575,7 @@ var relatorio = [{
 	"valor": 2700.61
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -583,7 +583,7 @@ var relatorio = [{
 	"valor": 2752.61
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -591,7 +591,7 @@ var relatorio = [{
 	"valor": 2677.43
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -599,7 +599,7 @@ var relatorio = [{
 	"valor": 2301.42
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -607,7 +607,7 @@ var relatorio = [{
 	"valor": 6126.30
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -615,7 +615,7 @@ var relatorio = [{
 	"valor": 33689.14
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -623,7 +623,7 @@ var relatorio = [{
 	"valor": 50779.21
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -631,7 +631,7 @@ var relatorio = [{
 	"valor": 120.72
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -639,7 +639,7 @@ var relatorio = [{
 	"valor": 68.31
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -647,7 +647,7 @@ var relatorio = [{
 	"valor": 9.84
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -655,7 +655,7 @@ var relatorio = [{
 	"valor": 27.44
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -663,7 +663,7 @@ var relatorio = [{
 	"valor": 33.92
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "A Prazo",
 	"ano": 2018,
@@ -671,7 +671,7 @@ var relatorio = [{
 	"valor": 18.30
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "A Prazo",
 	"ano": 2018,
@@ -679,7 +679,7 @@ var relatorio = [{
 	"valor": 4.97
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cartão",
 	"ano": 2017,
@@ -687,7 +687,7 @@ var relatorio = [{
 	"valor": 2.77
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cartão",
 	"ano": 2017,
@@ -695,7 +695,7 @@ var relatorio = [{
 	"valor": 0.00
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cartão",
 	"ano": 2018,
@@ -703,7 +703,7 @@ var relatorio = [{
 	"valor": 13.16
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cartão",
 	"ano": 2018,
@@ -711,7 +711,7 @@ var relatorio = [{
 	"valor": 1.17
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -719,7 +719,7 @@ var relatorio = [{
 	"valor": 1.29
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -727,7 +727,7 @@ var relatorio = [{
 	"valor": 2.89
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -735,7 +735,7 @@ var relatorio = [{
 	"valor": 3.62
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -743,7 +743,7 @@ var relatorio = [{
 	"valor": 8.87
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -751,7 +751,7 @@ var relatorio = [{
 	"valor": 10.86
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -759,7 +759,7 @@ var relatorio = [{
 	"valor": 9.80
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -767,7 +767,7 @@ var relatorio = [{
 	"valor": 16.12
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -775,7 +775,7 @@ var relatorio = [{
 	"valor": 35.33
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -783,7 +783,7 @@ var relatorio = [{
 	"valor": 11.20
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -791,7 +791,7 @@ var relatorio = [{
 	"valor": 12.51
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -799,7 +799,7 @@ var relatorio = [{
 	"valor": 1.38
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -807,7 +807,7 @@ var relatorio = [{
 	"valor": 3.72
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Dolar",
 	"ano": 2017,
@@ -815,7 +815,7 @@ var relatorio = [{
 	"valor": 6.15
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Dolar",
 	"ano": 2017,
@@ -823,7 +823,7 @@ var relatorio = [{
 	"valor": 0.41
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Dolar",
 	"ano": 2018,
@@ -831,7 +831,7 @@ var relatorio = [{
 	"valor": 2.99
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Dolar",
 	"ano": 2018,
@@ -839,7 +839,7 @@ var relatorio = [{
 	"valor": 7.05
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -847,7 +847,7 @@ var relatorio = [{
 	"valor": 459.28
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -855,7 +855,7 @@ var relatorio = [{
 	"valor": 274.34
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -863,7 +863,7 @@ var relatorio = [{
 	"valor": 359.19
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -871,7 +871,7 @@ var relatorio = [{
 	"valor": 500.97
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -879,7 +879,7 @@ var relatorio = [{
 	"valor": 400.21
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -887,7 +887,7 @@ var relatorio = [{
 	"valor": 584.79
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -895,7 +895,7 @@ var relatorio = [{
 	"valor": 751.64
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -903,7 +903,7 @@ var relatorio = [{
 	"valor": 550.99
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -911,7 +911,7 @@ var relatorio = [{
 	"valor": 532.78
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -919,7 +919,7 @@ var relatorio = [{
 	"valor": 411.17
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -927,7 +927,7 @@ var relatorio = [{
 	"valor": 333.80
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -935,7 +935,7 @@ var relatorio = [{
 	"valor": 440.60
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -943,7 +943,7 @@ var relatorio = [{
 	"valor": 5605.94
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -951,7 +951,7 @@ var relatorio = [{
 	"valor": 5677.47
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -959,7 +959,7 @@ var relatorio = [{
 	"valor": 6244.20
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -967,7 +967,7 @@ var relatorio = [{
 	"valor": 6910.30
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -975,7 +975,7 @@ var relatorio = [{
 	"valor": 5718.01
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -983,7 +983,7 @@ var relatorio = [{
 	"valor": 4639.40
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -991,7 +991,7 @@ var relatorio = [{
 	"valor": 6007.77
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -999,7 +999,7 @@ var relatorio = [{
 	"valor": 5796.71
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -1007,7 +1007,7 @@ var relatorio = [{
 	"valor": 4930.02
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -1015,7 +1015,7 @@ var relatorio = [{
 	"valor": 4432.15
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -1023,7 +1023,7 @@ var relatorio = [{
 	"valor": 3670.81
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -1031,7 +1031,7 @@ var relatorio = [{
 	"valor": 4332.67
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -1039,7 +1039,7 @@ var relatorio = [{
 	"valor": 17472.28
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -1047,7 +1047,7 @@ var relatorio = [{
 	"valor": 15304.97
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -1055,7 +1055,7 @@ var relatorio = [{
 	"valor": 5378.16
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -1063,7 +1063,7 @@ var relatorio = [{
 	"valor": 15383.06
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -1071,7 +1071,7 @@ var relatorio = [{
 	"valor": 11380.22
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "A Prazo",
 	"ano": 2018,
@@ -1079,7 +1079,7 @@ var relatorio = [{
 	"valor": 2250.00
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "A Prazo",
 	"ano": 2018,
@@ -1087,7 +1087,7 @@ var relatorio = [{
 	"valor": 927.70
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "A Prazo",
 	"ano": 2018,
@@ -1095,7 +1095,7 @@ var relatorio = [{
 	"valor": 2979.03
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "A Prazo",
 	"ano": 2018,
@@ -1103,7 +1103,7 @@ var relatorio = [{
 	"valor": 1700.00
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "A Prazo",
 	"ano": 2018,
@@ -1111,7 +1111,7 @@ var relatorio = [{
 	"valor": 704.00
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cartão",
 	"ano": 2017,
@@ -1119,7 +1119,7 @@ var relatorio = [{
 	"valor": 15.23
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cartão",
 	"ano": 2017,
@@ -1127,7 +1127,7 @@ var relatorio = [{
 	"valor": 0.00
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cartão",
 	"ano": 2018,
@@ -1135,7 +1135,7 @@ var relatorio = [{
 	"valor": 324.00
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cartão",
 	"ano": 2018,
@@ -1143,7 +1143,7 @@ var relatorio = [{
 	"valor": 18.84
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cartão",
 	"ano": 2018,
@@ -1151,7 +1151,7 @@ var relatorio = [{
 	"valor": 232.80
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cartão",
 	"ano": 2018,
@@ -1159,7 +1159,7 @@ var relatorio = [{
 	"valor": 22.83
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cartão",
 	"ano": 2018,
@@ -1167,7 +1167,7 @@ var relatorio = [{
 	"valor": 120.00
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -1175,7 +1175,7 @@ var relatorio = [{
 	"valor": 300.64
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -1183,7 +1183,7 @@ var relatorio = [{
 	"valor": 635.43
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -1191,7 +1191,7 @@ var relatorio = [{
 	"valor": 302.30
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -1199,7 +1199,7 @@ var relatorio = [{
 	"valor": 590.82
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -1207,7 +1207,7 @@ var relatorio = [{
 	"valor": 369.55
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -1215,7 +1215,7 @@ var relatorio = [{
 	"valor": 1179.37
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -1223,7 +1223,7 @@ var relatorio = [{
 	"valor": 825.24
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -1231,7 +1231,7 @@ var relatorio = [{
 	"valor": 1767.75
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -1239,7 +1239,7 @@ var relatorio = [{
 	"valor": 535.17
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -1247,7 +1247,7 @@ var relatorio = [{
 	"valor": 265.57
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -1255,7 +1255,7 @@ var relatorio = [{
 	"valor": 123.23
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -1263,7 +1263,7 @@ var relatorio = [{
 	"valor": 305.53
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Dolar",
 	"ano": 2017,
@@ -1271,7 +1271,7 @@ var relatorio = [{
 	"valor": 0.00
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Dolar",
 	"ano": 2017,
@@ -1279,7 +1279,7 @@ var relatorio = [{
 	"valor": 3.63
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Dolar",
 	"ano": 2017,
@@ -1287,7 +1287,7 @@ var relatorio = [{
 	"valor": 11.85
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Dolar",
 	"ano": 2017,
@@ -1295,7 +1295,7 @@ var relatorio = [{
 	"valor": 5.57
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Dolar",
 	"ano": 2018,
@@ -1303,7 +1303,7 @@ var relatorio = [{
 	"valor": 9.54
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -1311,7 +1311,7 @@ var relatorio = [{
 	"valor": 1228.97
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -1319,7 +1319,7 @@ var relatorio = [{
 	"valor": 899.66
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -1327,7 +1327,7 @@ var relatorio = [{
 	"valor": 1539.25
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -1335,7 +1335,7 @@ var relatorio = [{
 	"valor": 1036.60
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -1343,7 +1343,7 @@ var relatorio = [{
 	"valor": 906.99
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -1351,7 +1351,7 @@ var relatorio = [{
 	"valor": 1730.86
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -1359,7 +1359,7 @@ var relatorio = [{
 	"valor": 2714.95
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -1367,7 +1367,7 @@ var relatorio = [{
 	"valor": 1536.19
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -1375,7 +1375,7 @@ var relatorio = [{
 	"valor": 1771.16
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -1383,7 +1383,7 @@ var relatorio = [{
 	"valor": 1674.80
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -1391,7 +1391,7 @@ var relatorio = [{
 	"valor": 1651.73
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -1399,7 +1399,7 @@ var relatorio = [{
 	"valor": 1740.15
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -1407,7 +1407,7 @@ var relatorio = [{
 	"valor": 238114.80
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -1415,7 +1415,7 @@ var relatorio = [{
 	"valor": 276516.91
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -1423,7 +1423,7 @@ var relatorio = [{
 	"valor": 285160.92
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -1431,7 +1431,7 @@ var relatorio = [{
 	"valor": 291743.15
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -1439,7 +1439,7 @@ var relatorio = [{
 	"valor": 285859.89
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -1447,7 +1447,7 @@ var relatorio = [{
 	"valor": 407891.99
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -1455,7 +1455,7 @@ var relatorio = [{
 	"valor": 295990.35
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -1463,7 +1463,7 @@ var relatorio = [{
 	"valor": 296411.82
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -1471,7 +1471,7 @@ var relatorio = [{
 	"valor": 270594.67
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -1479,7 +1479,7 @@ var relatorio = [{
 	"valor": 219135.12
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -1487,7 +1487,7 @@ var relatorio = [{
 	"valor": 185275.10
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -1495,7 +1495,7 @@ var relatorio = [{
 	"valor": 345564.06
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Outros",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -1503,7 +1503,7 @@ var relatorio = [{
 	"valor": 165.14
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Outros",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -1511,7 +1511,7 @@ var relatorio = [{
 	"valor": 0.04
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Outros",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -1519,7 +1519,7 @@ var relatorio = [{
 	"valor": 0.00
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Outros",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -1527,7 +1527,7 @@ var relatorio = [{
 	"valor": 0.00
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Outros",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -1535,7 +1535,7 @@ var relatorio = [{
 	"valor": 0.00
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Outros",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -1543,7 +1543,7 @@ var relatorio = [{
 	"valor": 690.00
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Outros",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -1551,7 +1551,7 @@ var relatorio = [{
 	"valor": 959.86
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Outros",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -1559,7 +1559,7 @@ var relatorio = [{
 	"valor": 309.96
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -1567,7 +1567,7 @@ var relatorio = [{
 	"valor": 3699.90
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -1575,7 +1575,7 @@ var relatorio = [{
 	"valor": 3582.00
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -1583,7 +1583,7 @@ var relatorio = [{
 	"valor": 1432.80
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -1591,7 +1591,7 @@ var relatorio = [{
 	"valor": 3693.30
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -1599,7 +1599,7 @@ var relatorio = [{
 	"valor": 3967.80
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "A Prazo",
 	"ano": 2018,
@@ -1607,7 +1607,7 @@ var relatorio = [{
 	"valor": 3221.10
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "A Prazo",
 	"ano": 2018,
@@ -1615,7 +1615,7 @@ var relatorio = [{
 	"valor": 3985.80
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "A Prazo",
 	"ano": 2018,
@@ -1623,7 +1623,7 @@ var relatorio = [{
 	"valor": 3590.10
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "A Prazo",
 	"ano": 2018,
@@ -1631,7 +1631,7 @@ var relatorio = [{
 	"valor": 3686.10
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "A Prazo",
 	"ano": 2018,
@@ -1639,7 +1639,7 @@ var relatorio = [{
 	"valor": 4095.00
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "A Prazo",
 	"ano": 2018,
@@ -1647,7 +1647,7 @@ var relatorio = [{
 	"valor": 3326.40
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "A Prazo",
 	"ano": 2018,
@@ -1655,7 +1655,7 @@ var relatorio = [{
 	"valor": 3315.30
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -1663,7 +1663,7 @@ var relatorio = [{
 	"valor": 5708.70
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -1671,7 +1671,7 @@ var relatorio = [{
 	"valor": 5951.41
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -1679,7 +1679,7 @@ var relatorio = [{
 	"valor": 5474.70
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -1687,7 +1687,7 @@ var relatorio = [{
 	"valor": 5673.95
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -1695,7 +1695,7 @@ var relatorio = [{
 	"valor": 5127.40
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -1703,7 +1703,7 @@ var relatorio = [{
 	"valor": 5813.10
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -1711,7 +1711,7 @@ var relatorio = [{
 	"valor": 6740.12
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -1719,7 +1719,7 @@ var relatorio = [{
 	"valor": 7137.00
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -1727,7 +1727,7 @@ var relatorio = [{
 	"valor": 7571.16
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -1735,7 +1735,7 @@ var relatorio = [{
 	"valor": 6321.60
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -1743,7 +1743,7 @@ var relatorio = [{
 	"valor": 4171.05
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -1751,7 +1751,7 @@ var relatorio = [{
 	"valor": 6816.30
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -1759,7 +1759,7 @@ var relatorio = [{
 	"valor": 100.32
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -1767,7 +1767,7 @@ var relatorio = [{
 	"valor": 256.50
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -1775,7 +1775,7 @@ var relatorio = [{
 	"valor": 30.97
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -1783,7 +1783,7 @@ var relatorio = [{
 	"valor": 68.45
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -1791,7 +1791,7 @@ var relatorio = [{
 	"valor": 175.92
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -1799,7 +1799,7 @@ var relatorio = [{
 	"valor": 275.44
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -1807,7 +1807,7 @@ var relatorio = [{
 	"valor": 6.40
 },
 {
-	"nivel1": "01 - Pagamentos",
+	"nivel1": "01. Pagamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -1815,1015 +1815,1015 @@ var relatorio = [{
 	"valor": 49.04
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Alimentos e bebidas",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 8,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Alimentos e bebidas",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 9,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Alimentos e bebidas",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 10,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Alimentos e bebidas",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 11,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Alimentos e bebidas",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 12,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Alimentos e bebidas",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 1,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Alimentos e bebidas",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 2,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Alimentos e bebidas",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 3,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Alimentos e bebidas",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 4,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Alimentos e bebidas",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 5,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Alimentos e bebidas",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 6,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Alimentos e bebidas",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 7,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Café da manhã",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 8,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Café da manhã",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 9,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Café da manhã",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 10,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Café da manhã",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 11,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Café da manhã",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 12,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Café da manhã",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 1,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Café da manhã",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 2,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Café da manhã",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 3,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Café da manhã",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 4,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Café da manhã",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 5,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Café da manhã",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 6,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Café da manhã",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 7,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Front Desk",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 8,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Front Desk",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 9,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Front Desk",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 10,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Front Desk",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 11,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Front Desk",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 12,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Front Desk",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 1,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Front Desk",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 2,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Front Desk",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 3,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Front Desk",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 4,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Front Desk",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 5,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Front Desk",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 6,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Front Desk",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 7,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Hospedagem",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 8,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Hospedagem",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 9,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Hospedagem",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 10,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Hospedagem",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 11,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Hospedagem",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 12,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Hospedagem",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 1,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Hospedagem",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 2,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Hospedagem",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 3,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Hospedagem",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 4,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Hospedagem",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 5,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Hospedagem",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 6,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Hospedagem",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 7,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Outros",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 10,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Outros",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 11,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Outros",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 12,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Turismo",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 8,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Turismo",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 9,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Turismo",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 10,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Turismo",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 11,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Turismo",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 12,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Turismo",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 1,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Turismo",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 2,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Turismo",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 3,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Turismo",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 4,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Turismo",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 5,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Turismo",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 6,
 	"valor": 0.00
 },
 {
-	"nivel1": "02 - Impostos Retidos",
+	"nivel1": "02. Impostos Retidos",
 	"nivel2": "Turismo",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 7,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Alimentos e bebidas",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 8,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Alimentos e bebidas",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 9,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Alimentos e bebidas",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 10,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Alimentos e bebidas",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 11,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Alimentos e bebidas",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 12,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Alimentos e bebidas",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 1,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Alimentos e bebidas",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 2,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Alimentos e bebidas",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 3,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Alimentos e bebidas",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 4,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Alimentos e bebidas",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 5,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Alimentos e bebidas",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 6,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Alimentos e bebidas",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 7,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Café da manhã",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 8,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Café da manhã",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 9,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Café da manhã",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 10,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Café da manhã",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 11,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Café da manhã",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 12,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Café da manhã",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 1,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Café da manhã",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 2,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Café da manhã",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 3,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Café da manhã",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 4,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Café da manhã",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 5,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Café da manhã",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 6,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Café da manhã",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 7,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Front Desk",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 8,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Front Desk",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 9,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Front Desk",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 10,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Front Desk",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 11,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Front Desk",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 12,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Front Desk",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 1,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Front Desk",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 2,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Front Desk",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 3,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Front Desk",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 4,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Front Desk",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 5,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Front Desk",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 6,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Front Desk",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 7,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Hospedagem",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 8,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Hospedagem",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 9,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Hospedagem",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 10,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Hospedagem",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 11,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Hospedagem",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 12,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Hospedagem",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 1,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Hospedagem",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 2,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Hospedagem",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 3,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Hospedagem",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 4,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Hospedagem",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 5,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Hospedagem",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 6,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Hospedagem",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 7,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Outros",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 10,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Outros",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 11,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Outros",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 12,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Turismo",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 8,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Turismo",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 9,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Turismo",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 10,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Turismo",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 11,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Turismo",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 12,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Turismo",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 1,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Turismo",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 2,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Turismo",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 3,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Turismo",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 4,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Turismo",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 5,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Turismo",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 6,
 	"valor": 0.00
 },
 {
-	"nivel1": "03 - Descontos",
+	"nivel1": "03. Descontos",
 	"nivel2": "Turismo",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 7,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -2831,7 +2831,7 @@ var relatorio = [{
 	"valor": 28.89
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -2839,7 +2839,7 @@ var relatorio = [{
 	"valor": 11.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -2847,7 +2847,7 @@ var relatorio = [{
 	"valor": 4.86
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -2855,7 +2855,7 @@ var relatorio = [{
 	"valor": 4.04
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -2863,7 +2863,7 @@ var relatorio = [{
 	"valor": 16.34
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -2871,7 +2871,7 @@ var relatorio = [{
 	"valor": 4.85
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -2879,7 +2879,7 @@ var relatorio = [{
 	"valor": 0.58
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -2887,7 +2887,7 @@ var relatorio = [{
 	"valor": 46.37
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -2895,7 +2895,7 @@ var relatorio = [{
 	"valor": 8.24
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -2903,7 +2903,7 @@ var relatorio = [{
 	"valor": 67.62
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -2911,7 +2911,7 @@ var relatorio = [{
 	"valor": 18.53
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -2919,7 +2919,7 @@ var relatorio = [{
 	"valor": 0.35
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -2927,7 +2927,7 @@ var relatorio = [{
 	"valor": 60.84
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -2935,7 +2935,7 @@ var relatorio = [{
 	"valor": 0.72
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -2943,103 +2943,7 @@ var relatorio = [{
 	"valor": 72.24
 },
 {
-	"nivel1": "04 - Fechamentos",
-	"nivel2": "Alimentos e bebidas",
-	"nivel3": "DESCONTO",
-	"ano": 2017,
-	"mes": 8,
-	"valor": 0.00
-},
-{
-	"nivel1": "04 - Fechamentos",
-	"nivel2": "Alimentos e bebidas",
-	"nivel3": "DESCONTO",
-	"ano": 2017,
-	"mes": 9,
-	"valor": 0.00
-},
-{
-	"nivel1": "04 - Fechamentos",
-	"nivel2": "Alimentos e bebidas",
-	"nivel3": "DESCONTO",
-	"ano": 2017,
-	"mes": 10,
-	"valor": 0.00
-},
-{
-	"nivel1": "04 - Fechamentos",
-	"nivel2": "Alimentos e bebidas",
-	"nivel3": "DESCONTO",
-	"ano": 2017,
-	"mes": 11,
-	"valor": 0.00
-},
-{
-	"nivel1": "04 - Fechamentos",
-	"nivel2": "Alimentos e bebidas",
-	"nivel3": "DESCONTO",
-	"ano": 2017,
-	"mes": 12,
-	"valor": 0.00
-},
-{
-	"nivel1": "04 - Fechamentos",
-	"nivel2": "Alimentos e bebidas",
-	"nivel3": "DESCONTO",
-	"ano": 2018,
-	"mes": 1,
-	"valor": 0.00
-},
-{
-	"nivel1": "04 - Fechamentos",
-	"nivel2": "Alimentos e bebidas",
-	"nivel3": "DESCONTO",
-	"ano": 2018,
-	"mes": 2,
-	"valor": 0.00
-},
-{
-	"nivel1": "04 - Fechamentos",
-	"nivel2": "Alimentos e bebidas",
-	"nivel3": "DESCONTO",
-	"ano": 2018,
-	"mes": 3,
-	"valor": 0.00
-},
-{
-	"nivel1": "04 - Fechamentos",
-	"nivel2": "Alimentos e bebidas",
-	"nivel3": "DESCONTO",
-	"ano": 2018,
-	"mes": 4,
-	"valor": 0.00
-},
-{
-	"nivel1": "04 - Fechamentos",
-	"nivel2": "Alimentos e bebidas",
-	"nivel3": "DESCONTO",
-	"ano": 2018,
-	"mes": 5,
-	"valor": 0.00
-},
-{
-	"nivel1": "04 - Fechamentos",
-	"nivel2": "Alimentos e bebidas",
-	"nivel3": "DESCONTO",
-	"ano": 2018,
-	"mes": 6,
-	"valor": 0.00
-},
-{
-	"nivel1": "04 - Fechamentos",
-	"nivel2": "Alimentos e bebidas",
-	"nivel3": "DESCONTO",
-	"ano": 2018,
-	"mes": 7,
-	"valor": 0.00
-},
-{
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Dolar",
 	"ano": 2017,
@@ -3047,103 +2951,7 @@ var relatorio = [{
 	"valor": 0.36
 },
 {
-	"nivel1": "04 - Fechamentos",
-	"nivel2": "Alimentos e bebidas",
-	"nivel3": "IMPOSTO_RETIDO",
-	"ano": 2017,
-	"mes": 8,
-	"valor": 0.00
-},
-{
-	"nivel1": "04 - Fechamentos",
-	"nivel2": "Alimentos e bebidas",
-	"nivel3": "IMPOSTO_RETIDO",
-	"ano": 2017,
-	"mes": 9,
-	"valor": 0.00
-},
-{
-	"nivel1": "04 - Fechamentos",
-	"nivel2": "Alimentos e bebidas",
-	"nivel3": "IMPOSTO_RETIDO",
-	"ano": 2017,
-	"mes": 10,
-	"valor": 0.00
-},
-{
-	"nivel1": "04 - Fechamentos",
-	"nivel2": "Alimentos e bebidas",
-	"nivel3": "IMPOSTO_RETIDO",
-	"ano": 2017,
-	"mes": 11,
-	"valor": 0.00
-},
-{
-	"nivel1": "04 - Fechamentos",
-	"nivel2": "Alimentos e bebidas",
-	"nivel3": "IMPOSTO_RETIDO",
-	"ano": 2017,
-	"mes": 12,
-	"valor": 0.00
-},
-{
-	"nivel1": "04 - Fechamentos",
-	"nivel2": "Alimentos e bebidas",
-	"nivel3": "IMPOSTO_RETIDO",
-	"ano": 2018,
-	"mes": 1,
-	"valor": 0.00
-},
-{
-	"nivel1": "04 - Fechamentos",
-	"nivel2": "Alimentos e bebidas",
-	"nivel3": "IMPOSTO_RETIDO",
-	"ano": 2018,
-	"mes": 2,
-	"valor": 0.00
-},
-{
-	"nivel1": "04 - Fechamentos",
-	"nivel2": "Alimentos e bebidas",
-	"nivel3": "IMPOSTO_RETIDO",
-	"ano": 2018,
-	"mes": 3,
-	"valor": 0.00
-},
-{
-	"nivel1": "04 - Fechamentos",
-	"nivel2": "Alimentos e bebidas",
-	"nivel3": "IMPOSTO_RETIDO",
-	"ano": 2018,
-	"mes": 4,
-	"valor": 0.00
-},
-{
-	"nivel1": "04 - Fechamentos",
-	"nivel2": "Alimentos e bebidas",
-	"nivel3": "IMPOSTO_RETIDO",
-	"ano": 2018,
-	"mes": 5,
-	"valor": 0.00
-},
-{
-	"nivel1": "04 - Fechamentos",
-	"nivel2": "Alimentos e bebidas",
-	"nivel3": "IMPOSTO_RETIDO",
-	"ano": 2018,
-	"mes": 6,
-	"valor": 0.00
-},
-{
-	"nivel1": "04 - Fechamentos",
-	"nivel2": "Alimentos e bebidas",
-	"nivel3": "IMPOSTO_RETIDO",
-	"ano": 2018,
-	"mes": 7,
-	"valor": 0.00
-},
-{
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -3151,7 +2959,7 @@ var relatorio = [{
 	"valor": 84.52
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -3159,7 +2967,7 @@ var relatorio = [{
 	"valor": 67.62
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -3167,7 +2975,7 @@ var relatorio = [{
 	"valor": 126.77
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -3175,7 +2983,7 @@ var relatorio = [{
 	"valor": 76.21
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -3183,7 +2991,7 @@ var relatorio = [{
 	"valor": 96.95
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -3191,7 +2999,7 @@ var relatorio = [{
 	"valor": 190.27
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -3199,7 +3007,7 @@ var relatorio = [{
 	"valor": 157.17
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -3207,7 +3015,7 @@ var relatorio = [{
 	"valor": 123.70
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -3215,7 +3023,7 @@ var relatorio = [{
 	"valor": 115.75
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -3223,7 +3031,7 @@ var relatorio = [{
 	"valor": 78.44
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -3231,7 +3039,7 @@ var relatorio = [{
 	"valor": 72.01
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -3239,7 +3047,7 @@ var relatorio = [{
 	"valor": 89.78
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -3247,7 +3055,7 @@ var relatorio = [{
 	"valor": 3341.62
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -3255,7 +3063,7 @@ var relatorio = [{
 	"valor": 2842.85
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -3263,7 +3071,7 @@ var relatorio = [{
 	"valor": 2811.23
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -3271,7 +3079,7 @@ var relatorio = [{
 	"valor": 3954.21
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -3279,7 +3087,7 @@ var relatorio = [{
 	"valor": 1894.60
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -3287,7 +3095,7 @@ var relatorio = [{
 	"valor": 3044.93
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -3295,7 +3103,7 @@ var relatorio = [{
 	"valor": 5253.92
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -3303,7 +3111,7 @@ var relatorio = [{
 	"valor": 3166.77
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -3311,7 +3119,7 @@ var relatorio = [{
 	"valor": 1799.90
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -3319,7 +3127,7 @@ var relatorio = [{
 	"valor": 5493.22
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -3327,7 +3135,7 @@ var relatorio = [{
 	"valor": 1424.27
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Alimentos e bebidas",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -3335,7 +3143,7 @@ var relatorio = [{
 	"valor": 5379.82
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "A Prazo",
 	"ano": 2018,
@@ -3343,7 +3151,7 @@ var relatorio = [{
 	"valor": 96.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -3351,7 +3159,7 @@ var relatorio = [{
 	"valor": 0.11
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -3359,7 +3167,7 @@ var relatorio = [{
 	"valor": 3.10
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -3367,7 +3175,7 @@ var relatorio = [{
 	"valor": 2.92
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -3375,7 +3183,7 @@ var relatorio = [{
 	"valor": 0.47
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -3383,7 +3191,7 @@ var relatorio = [{
 	"valor": 0.24
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -3391,7 +3199,7 @@ var relatorio = [{
 	"valor": 13.25
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -3399,7 +3207,7 @@ var relatorio = [{
 	"valor": 6.53
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -3407,7 +3215,7 @@ var relatorio = [{
 	"valor": 1.16
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -3415,7 +3223,7 @@ var relatorio = [{
 	"valor": 0.13
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -3423,7 +3231,7 @@ var relatorio = [{
 	"valor": 22.68
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -3431,7 +3239,7 @@ var relatorio = [{
 	"valor": 22.68
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -3439,103 +3247,103 @@ var relatorio = [{
 	"valor": 59.34
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 8,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 9,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 10,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 11,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 12,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 1,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 2,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 3,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 4,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 5,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 6,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 7,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Dolar",
 	"ano": 2018,
@@ -3543,103 +3351,103 @@ var relatorio = [{
 	"valor": 0.86
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 8,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 9,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 10,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 11,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 12,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 1,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 2,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 3,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 4,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 5,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 6,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 7,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -3647,7 +3455,7 @@ var relatorio = [{
 	"valor": 149.84
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -3655,7 +3463,7 @@ var relatorio = [{
 	"valor": 82.76
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -3663,7 +3471,7 @@ var relatorio = [{
 	"valor": 216.99
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -3671,7 +3479,7 @@ var relatorio = [{
 	"valor": 114.60
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -3679,7 +3487,7 @@ var relatorio = [{
 	"valor": 63.52
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -3687,7 +3495,7 @@ var relatorio = [{
 	"valor": 66.15
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -3695,7 +3503,7 @@ var relatorio = [{
 	"valor": 200.87
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -3703,7 +3511,7 @@ var relatorio = [{
 	"valor": 91.40
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -3711,7 +3519,7 @@ var relatorio = [{
 	"valor": 158.45
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -3719,7 +3527,7 @@ var relatorio = [{
 	"valor": 165.02
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -3727,7 +3535,7 @@ var relatorio = [{
 	"valor": 332.63
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -3735,7 +3543,7 @@ var relatorio = [{
 	"valor": 374.62
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -3743,7 +3551,7 @@ var relatorio = [{
 	"valor": 3010.05
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -3751,7 +3559,7 @@ var relatorio = [{
 	"valor": 1894.12
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -3759,7 +3567,7 @@ var relatorio = [{
 	"valor": 3300.09
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -3767,7 +3575,7 @@ var relatorio = [{
 	"valor": 3364.93
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -3775,7 +3583,7 @@ var relatorio = [{
 	"valor": 2056.24
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -3783,7 +3591,7 @@ var relatorio = [{
 	"valor": 2700.61
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -3791,7 +3599,7 @@ var relatorio = [{
 	"valor": 2752.61
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -3799,7 +3607,7 @@ var relatorio = [{
 	"valor": 2677.43
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -3807,7 +3615,7 @@ var relatorio = [{
 	"valor": 2301.42
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -3815,7 +3623,7 @@ var relatorio = [{
 	"valor": 6126.30
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -3823,7 +3631,7 @@ var relatorio = [{
 	"valor": 33689.14
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Café da manhã",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -3831,7 +3639,7 @@ var relatorio = [{
 	"valor": 50779.21
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -3839,7 +3647,7 @@ var relatorio = [{
 	"valor": 120.72
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -3847,7 +3655,7 @@ var relatorio = [{
 	"valor": 68.31
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -3855,7 +3663,7 @@ var relatorio = [{
 	"valor": 9.84
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -3863,7 +3671,7 @@ var relatorio = [{
 	"valor": 27.44
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -3871,7 +3679,7 @@ var relatorio = [{
 	"valor": 33.92
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "A Prazo",
 	"ano": 2018,
@@ -3879,7 +3687,7 @@ var relatorio = [{
 	"valor": 18.30
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "A Prazo",
 	"ano": 2018,
@@ -3887,7 +3695,7 @@ var relatorio = [{
 	"valor": 4.97
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cartão",
 	"ano": 2017,
@@ -3895,7 +3703,7 @@ var relatorio = [{
 	"valor": 2.77
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cartão",
 	"ano": 2017,
@@ -3903,7 +3711,7 @@ var relatorio = [{
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cartão",
 	"ano": 2018,
@@ -3911,7 +3719,7 @@ var relatorio = [{
 	"valor": 13.16
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cartão",
 	"ano": 2018,
@@ -3919,7 +3727,7 @@ var relatorio = [{
 	"valor": 1.17
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -3927,7 +3735,7 @@ var relatorio = [{
 	"valor": 1.29
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -3935,7 +3743,7 @@ var relatorio = [{
 	"valor": 2.89
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -3943,7 +3751,7 @@ var relatorio = [{
 	"valor": 3.62
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -3951,7 +3759,7 @@ var relatorio = [{
 	"valor": 8.87
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -3959,7 +3767,7 @@ var relatorio = [{
 	"valor": 10.86
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -3967,7 +3775,7 @@ var relatorio = [{
 	"valor": 9.80
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -3975,7 +3783,7 @@ var relatorio = [{
 	"valor": 16.12
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -3983,7 +3791,7 @@ var relatorio = [{
 	"valor": 35.33
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -3991,7 +3799,7 @@ var relatorio = [{
 	"valor": 11.20
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -3999,7 +3807,7 @@ var relatorio = [{
 	"valor": 12.51
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -4007,7 +3815,7 @@ var relatorio = [{
 	"valor": 1.38
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -4015,103 +3823,103 @@ var relatorio = [{
 	"valor": 3.72
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 8,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 9,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 10,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 11,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 12,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 1,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 2,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 3,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 4,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 5,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 6,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 7,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Dolar",
 	"ano": 2017,
@@ -4119,7 +3927,7 @@ var relatorio = [{
 	"valor": 6.15
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Dolar",
 	"ano": 2017,
@@ -4127,7 +3935,7 @@ var relatorio = [{
 	"valor": 0.41
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Dolar",
 	"ano": 2018,
@@ -4135,7 +3943,7 @@ var relatorio = [{
 	"valor": 2.99
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Dolar",
 	"ano": 2018,
@@ -4143,103 +3951,103 @@ var relatorio = [{
 	"valor": 7.05
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 8,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 9,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 10,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 11,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 12,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 1,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 2,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 3,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 4,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 5,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 6,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 7,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -4247,7 +4055,7 @@ var relatorio = [{
 	"valor": 459.28
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -4255,7 +4063,7 @@ var relatorio = [{
 	"valor": 274.34
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -4263,7 +4071,7 @@ var relatorio = [{
 	"valor": 359.19
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -4271,7 +4079,7 @@ var relatorio = [{
 	"valor": 500.97
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -4279,7 +4087,7 @@ var relatorio = [{
 	"valor": 400.21
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -4287,7 +4095,7 @@ var relatorio = [{
 	"valor": 584.79
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -4295,7 +4103,7 @@ var relatorio = [{
 	"valor": 751.64
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -4303,7 +4111,7 @@ var relatorio = [{
 	"valor": 550.99
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -4311,7 +4119,7 @@ var relatorio = [{
 	"valor": 532.78
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -4319,7 +4127,7 @@ var relatorio = [{
 	"valor": 411.17
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -4327,7 +4135,7 @@ var relatorio = [{
 	"valor": 333.80
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -4335,7 +4143,7 @@ var relatorio = [{
 	"valor": 440.60
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -4343,7 +4151,7 @@ var relatorio = [{
 	"valor": 5605.94
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -4351,7 +4159,7 @@ var relatorio = [{
 	"valor": 5677.47
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -4359,7 +4167,7 @@ var relatorio = [{
 	"valor": 6244.20
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -4367,7 +4175,7 @@ var relatorio = [{
 	"valor": 6910.30
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -4375,7 +4183,7 @@ var relatorio = [{
 	"valor": 5718.01
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -4383,7 +4191,7 @@ var relatorio = [{
 	"valor": 4639.40
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -4391,7 +4199,7 @@ var relatorio = [{
 	"valor": 6007.77
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -4399,7 +4207,7 @@ var relatorio = [{
 	"valor": 5796.71
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -4407,7 +4215,7 @@ var relatorio = [{
 	"valor": 4930.02
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -4415,7 +4223,7 @@ var relatorio = [{
 	"valor": 4432.15
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -4423,7 +4231,7 @@ var relatorio = [{
 	"valor": 3670.81
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Front Desk",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -4431,7 +4239,7 @@ var relatorio = [{
 	"valor": 4332.67
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -4439,7 +4247,7 @@ var relatorio = [{
 	"valor": 17472.28
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -4447,7 +4255,7 @@ var relatorio = [{
 	"valor": 15304.97
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -4455,7 +4263,7 @@ var relatorio = [{
 	"valor": 5378.16
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -4463,7 +4271,7 @@ var relatorio = [{
 	"valor": 15383.06
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -4471,7 +4279,7 @@ var relatorio = [{
 	"valor": 11380.22
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "A Prazo",
 	"ano": 2018,
@@ -4479,7 +4287,7 @@ var relatorio = [{
 	"valor": 2250.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "A Prazo",
 	"ano": 2018,
@@ -4487,7 +4295,7 @@ var relatorio = [{
 	"valor": 927.70
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "A Prazo",
 	"ano": 2018,
@@ -4495,7 +4303,7 @@ var relatorio = [{
 	"valor": 2979.03
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "A Prazo",
 	"ano": 2018,
@@ -4503,7 +4311,7 @@ var relatorio = [{
 	"valor": 1700.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "A Prazo",
 	"ano": 2018,
@@ -4511,7 +4319,7 @@ var relatorio = [{
 	"valor": 704.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cartão",
 	"ano": 2017,
@@ -4519,7 +4327,7 @@ var relatorio = [{
 	"valor": 15.23
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cartão",
 	"ano": 2017,
@@ -4527,7 +4335,7 @@ var relatorio = [{
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cartão",
 	"ano": 2018,
@@ -4535,7 +4343,7 @@ var relatorio = [{
 	"valor": 324.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cartão",
 	"ano": 2018,
@@ -4543,7 +4351,7 @@ var relatorio = [{
 	"valor": 18.84
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cartão",
 	"ano": 2018,
@@ -4551,7 +4359,7 @@ var relatorio = [{
 	"valor": 232.80
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cartão",
 	"ano": 2018,
@@ -4559,7 +4367,7 @@ var relatorio = [{
 	"valor": 22.83
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cartão",
 	"ano": 2018,
@@ -4567,7 +4375,7 @@ var relatorio = [{
 	"valor": 120.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -4575,7 +4383,7 @@ var relatorio = [{
 	"valor": 300.64
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -4583,7 +4391,7 @@ var relatorio = [{
 	"valor": 635.43
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -4591,7 +4399,7 @@ var relatorio = [{
 	"valor": 302.30
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -4599,7 +4407,7 @@ var relatorio = [{
 	"valor": 590.82
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -4607,7 +4415,7 @@ var relatorio = [{
 	"valor": 369.55
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -4615,7 +4423,7 @@ var relatorio = [{
 	"valor": 1179.37
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -4623,7 +4431,7 @@ var relatorio = [{
 	"valor": 825.24
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -4631,7 +4439,7 @@ var relatorio = [{
 	"valor": 1767.75
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -4639,7 +4447,7 @@ var relatorio = [{
 	"valor": 535.17
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -4647,7 +4455,7 @@ var relatorio = [{
 	"valor": 265.57
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -4655,7 +4463,7 @@ var relatorio = [{
 	"valor": 123.23
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Cortesia",
 	"ano": 2018,
@@ -4663,103 +4471,103 @@ var relatorio = [{
 	"valor": 305.53
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 8,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 9,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 10,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 11,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 12,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 1,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 2,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 3,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 4,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 5,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 6,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 7,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Dolar",
 	"ano": 2017,
@@ -4767,7 +4575,7 @@ var relatorio = [{
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Dolar",
 	"ano": 2017,
@@ -4775,7 +4583,7 @@ var relatorio = [{
 	"valor": 3.63
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Dolar",
 	"ano": 2017,
@@ -4783,7 +4591,7 @@ var relatorio = [{
 	"valor": 11.85
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Dolar",
 	"ano": 2017,
@@ -4791,7 +4599,7 @@ var relatorio = [{
 	"valor": 5.57
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Dolar",
 	"ano": 2018,
@@ -4799,103 +4607,103 @@ var relatorio = [{
 	"valor": 9.54
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 8,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 9,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 10,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 11,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 12,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 1,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 2,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 3,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 4,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 5,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 6,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 7,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -4903,7 +4711,7 @@ var relatorio = [{
 	"valor": 1228.97
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -4911,7 +4719,7 @@ var relatorio = [{
 	"valor": 899.66
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -4919,7 +4727,7 @@ var relatorio = [{
 	"valor": 1539.25
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -4927,7 +4735,7 @@ var relatorio = [{
 	"valor": 1036.60
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -4935,7 +4743,7 @@ var relatorio = [{
 	"valor": 906.99
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -4943,7 +4751,7 @@ var relatorio = [{
 	"valor": 1730.86
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -4951,7 +4759,7 @@ var relatorio = [{
 	"valor": 2714.95
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -4959,7 +4767,7 @@ var relatorio = [{
 	"valor": 1536.19
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -4967,7 +4775,7 @@ var relatorio = [{
 	"valor": 1771.16
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -4975,7 +4783,7 @@ var relatorio = [{
 	"valor": 1674.80
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -4983,7 +4791,7 @@ var relatorio = [{
 	"valor": 1651.73
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -4991,7 +4799,7 @@ var relatorio = [{
 	"valor": 1740.15
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -4999,7 +4807,7 @@ var relatorio = [{
 	"valor": 238114.80
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -5007,7 +4815,7 @@ var relatorio = [{
 	"valor": 276516.91
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -5015,7 +4823,7 @@ var relatorio = [{
 	"valor": 285160.92
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -5023,7 +4831,7 @@ var relatorio = [{
 	"valor": 291743.15
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -5031,7 +4839,7 @@ var relatorio = [{
 	"valor": 285859.89
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -5039,7 +4847,7 @@ var relatorio = [{
 	"valor": 407891.99
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -5047,7 +4855,7 @@ var relatorio = [{
 	"valor": 295990.35
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -5055,7 +4863,7 @@ var relatorio = [{
 	"valor": 296411.82
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -5063,7 +4871,7 @@ var relatorio = [{
 	"valor": 270594.67
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -5071,7 +4879,7 @@ var relatorio = [{
 	"valor": 219135.12
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -5079,7 +4887,7 @@ var relatorio = [{
 	"valor": 185275.10
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Hospedagem",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -5087,7 +4895,7 @@ var relatorio = [{
 	"valor": 345564.06
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Outros",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -5095,7 +4903,7 @@ var relatorio = [{
 	"valor": 165.14
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Outros",
 	"nivel3": "Cortesia",
 	"ano": 2017,
@@ -5103,55 +4911,55 @@ var relatorio = [{
 	"valor": 0.04
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Outros",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 10,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Outros",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 11,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Outros",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 12,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Outros",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 10,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Outros",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 11,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Outros",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 12,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Outros",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -5159,7 +4967,7 @@ var relatorio = [{
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Outros",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -5167,7 +4975,7 @@ var relatorio = [{
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Outros",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -5175,7 +4983,7 @@ var relatorio = [{
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Outros",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -5183,7 +4991,7 @@ var relatorio = [{
 	"valor": 690.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Outros",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -5191,7 +4999,7 @@ var relatorio = [{
 	"valor": 959.86
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Outros",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -5199,7 +5007,7 @@ var relatorio = [{
 	"valor": 309.96
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -5207,7 +5015,7 @@ var relatorio = [{
 	"valor": 3699.90
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -5215,7 +5023,7 @@ var relatorio = [{
 	"valor": 3582.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -5223,7 +5031,7 @@ var relatorio = [{
 	"valor": 1432.80
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -5231,7 +5039,7 @@ var relatorio = [{
 	"valor": 3693.30
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "A Prazo",
 	"ano": 2017,
@@ -5239,7 +5047,7 @@ var relatorio = [{
 	"valor": 3967.80
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "A Prazo",
 	"ano": 2018,
@@ -5247,7 +5055,7 @@ var relatorio = [{
 	"valor": 3221.10
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "A Prazo",
 	"ano": 2018,
@@ -5255,7 +5063,7 @@ var relatorio = [{
 	"valor": 3985.80
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "A Prazo",
 	"ano": 2018,
@@ -5263,7 +5071,7 @@ var relatorio = [{
 	"valor": 3590.10
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "A Prazo",
 	"ano": 2018,
@@ -5271,7 +5079,7 @@ var relatorio = [{
 	"valor": 3686.10
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "A Prazo",
 	"ano": 2018,
@@ -5279,7 +5087,7 @@ var relatorio = [{
 	"valor": 4095.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "A Prazo",
 	"ano": 2018,
@@ -5287,7 +5095,7 @@ var relatorio = [{
 	"valor": 3326.40
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "A Prazo",
 	"ano": 2018,
@@ -5295,199 +5103,199 @@ var relatorio = [{
 	"valor": 3315.30
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 8,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 9,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 10,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 11,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2017,
 	"mes": 12,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 1,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 2,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 3,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 4,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 5,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 6,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
-	"nivel3": "DESCONTO",
+	"nivel3": "Desconto",
 	"ano": 2018,
 	"mes": 7,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 8,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 9,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 10,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 11,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2017,
 	"mes": 12,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 1,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 2,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 3,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 4,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 5,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 6,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
-	"nivel3": "IMPOSTO_RETIDO",
+	"nivel3": "Imposto Retido",
 	"ano": 2018,
 	"mes": 7,
 	"valor": 0.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -5495,7 +5303,7 @@ var relatorio = [{
 	"valor": 5708.70
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -5503,7 +5311,7 @@ var relatorio = [{
 	"valor": 5951.41
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -5511,7 +5319,7 @@ var relatorio = [{
 	"valor": 5474.70
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -5519,7 +5327,7 @@ var relatorio = [{
 	"valor": 5673.95
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Reais",
 	"ano": 2017,
@@ -5527,7 +5335,7 @@ var relatorio = [{
 	"valor": 5127.40
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -5535,7 +5343,7 @@ var relatorio = [{
 	"valor": 5813.10
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -5543,7 +5351,7 @@ var relatorio = [{
 	"valor": 6740.12
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -5551,7 +5359,7 @@ var relatorio = [{
 	"valor": 7137.00
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -5559,7 +5367,7 @@ var relatorio = [{
 	"valor": 7571.16
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -5567,7 +5375,7 @@ var relatorio = [{
 	"valor": 6321.60
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -5575,7 +5383,7 @@ var relatorio = [{
 	"valor": 4171.05
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Reais",
 	"ano": 2018,
@@ -5583,7 +5391,7 @@ var relatorio = [{
 	"valor": 6816.30
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -5591,7 +5399,7 @@ var relatorio = [{
 	"valor": 100.32
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -5599,7 +5407,7 @@ var relatorio = [{
 	"valor": 256.50
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -5607,7 +5415,7 @@ var relatorio = [{
 	"valor": 30.97
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Uso de Crédito",
 	"ano": 2017,
@@ -5615,7 +5423,7 @@ var relatorio = [{
 	"valor": 68.45
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -5623,7 +5431,7 @@ var relatorio = [{
 	"valor": 175.92
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -5631,7 +5439,7 @@ var relatorio = [{
 	"valor": 275.44
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
@@ -5639,7 +5447,7 @@ var relatorio = [{
 	"valor": 6.40
 },
 {
-	"nivel1": "04 - Fechamentos",
+	"nivel1": "04. Fechamentos",
 	"nivel2": "Turismo",
 	"nivel3": "Uso de Crédito",
 	"ano": 2018,
