@@ -9,7 +9,7 @@ $(function(){
         showBorders: true,
 		showTotalsPrior: "rows",
 		rowHeaderLayout: "tree",
-		showRowGrandTotals: true,
+		showRowGrandTotals: false,
 		showColumnGrandTotals: false,
 		showColumnTotals: false,
         texts: {
@@ -121,12 +121,14 @@ $(function(){
                 caption: "Ano",
 				dataField: "ano",
 				area: "column",
-                displayFolder: 'Data'
+                displayFolder: 'Data',
+                expanded: true
             }, {
                 caption: "Mês",
                 dataField: "mes",
                 area: "column",
-                displayFolder: 'Data'
+                displayFolder: 'Data',
+                expanded: true
 			}, {
                 caption: "Valor",
                 dataField: "valor",
