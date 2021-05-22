@@ -1,0 +1,50 @@
+﻿<html>
+
+<head>
+    <title>DevExtreme Demo</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="../../../../css/dx.spa.css" />
+    <link rel="stylesheet" type="text/css" href="../../../../css/dx.common.css" />
+    <link rel="dx-theme" data-theme="generic.light" href="../../../../css/dx.light.css" />
+    <link rel="stylesheet" type ="text/css" href ="styles.css" />
+
+    <script src="https://unpkg.com/core-js@2.4.1/client/shim.min.js"></script>
+    <script src="https://unpkg.com/systemjs@0.21.3/dist/system.js"></script>
+    <script type="text/javascript" src="config.js"></script>
+    <script type="text/javascript">
+        System.import('./index.js');
+    </script>
+</head>
+
+<body class="dx-viewport">
+    <div class="demo-container">
+        <div id="app">
+            <span v-if="false">Loading...</span>
+                <dx-chart ref="chart">
+                    <dx-tooltip :enabled="true" :customize-tooltip="customizeTooltip"></dx-tooltip>
+                    <dx-adaptive-layout :width="450"></dx-adaptive-layout>
+                    <dx-size :height="200"></dx-size>
+                    <dx-common-series-settings type="bar"></dx-common-series-settings>
+                </dx-chart>
+
+                <dx-pivot-grid
+                    ref="grid"
+                    :data-source="dataSource"
+                    :allow-sorting-by-summary="true"
+                    :allow-filtering="true"
+                    :show-borders="true"
+                    :show-column-grand-totals="false"
+                    :show-row-grand-totals="false"
+                    :show-row-totals="false"
+                    :show-column-totals="false"
+                >
+                    <dx-field-chooser :enabled="true" :height="400"></dx-field-chooser>
+                </dx-pivot-grid>
+            <br />
+        </div>
+    </div>
+</body>
+
+</html>
