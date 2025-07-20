@@ -1,11 +1,1 @@
-﻿teste giroto
-
-We recommend that you setup a local web server and run this application in it. Make sure your web server has correct MIME types for JSON files(application/json). At the same time, you can run this app from a file system (w/o a web server), but take into account the following notes.
-
-- Run Google Chrome with the --allow-file-access-from-files option parameter: chrome.exe --allow-file-access-from-files
-
-- In Opera 12+, find the Allow File XMLHttpRequest flag in the User Prefs section of Opera config, set this flag to true and save changes.
-
-- Run FireFox as is.
-
-- For Internet Explorer and Microsoft Edge, you will have to setup a local web server and run the app in it.
+<a href="https://app.rocketseat.com.br/me/andressa-celant-04112"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=andressa-celant-04112&type=card" width="280" alt="Andressa Celant's Rocket ID"/></a>
