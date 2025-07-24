@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Validador de Contas</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      overflow: hidden;
+      font-family: sans-serif;
+    }
+
+    body {
+      background: url('fundo.png') no-repeat center center fixed;
+      background-size: auto;
+      position: relative;
+    }
+
+    input#input-hidden {
+      position: absolute;
+      left: -9999px;
+    }
+
+    .status {
+      position: absolute;
+      bottom: 30px;
+      width: 100%;
+      text-align: center;
+      font-size: 2em;
+      color: white;
+      text-shadow: 2px 2px 5px black;
+      z-index: 3;
+    }
+
+    .timer-bar {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        height: 8px;
+        background-color: #ffffff;
+        width: 0%;
+        z-index: 999;
+        transition: width 5s linear;
+        display: none;
+    }
+  </style>
+</head>
+<body onclick="document.getElementById('input-hidden').focus()">
+  <div class="status" id="status"></div>
+  <div id="timer-bar" class="timer-bar"></div>
+  <input type="text" id="input-hidden" autofocus />
+
+  <script>
+    const input = document.getElementById("input-hidden");
+    const statusDiv = document.getElementById("status");
+    const timerBar = document.getElementById("timer-bar");
+
+    let buffer = "";
+    let timeout = null;
+
+    input.addEventListener("input", () => {
+      buffer += input.value;
+      input.value = "";
+
+      clearTimeout(timeout);
+      timeout = setTimeout(() => {
+        const codigo = buffer.trim();
+        buffer = "";
+
+        if (!codigo) return;
+
+        // Simulando sucesso com código '1'
+        const sucesso = codigo === '1';
+ 
+        // Reset da barra ANTES de mostrar
+        timerBar.style.transition = "none";
+        timerBar.style.width = "0%";
+        timerBar.style.display = "block";
+
+        // Força render pra reiniciar transição
+        void timerBar.offsetWidth; // hack necessário
+
+          // Aplica fundo e cor
+          if (sucesso) {
+            document.body.style.background = "url('sucesso.png') no-repeat center center fixed";
+            document.body.style.backgroundColor = "#4b7b35";
+            
+            timerBar.style.backgroundColor = "#4aae3a";
+          } else {
+            document.body.style.background = "url('erro.png') no-repeat center center fixed";
+            document.body.style.backgroundColor = "#96311b";
+            
+            timerBar.style.backgroundColor = "#cc3333";
+          }
+
+        // Agora ativa a animação
+        timerBar.style.transition = "width 5s linear";
+        timerBar.style.width = "100%";
+
+
+          // Após 5s, reset
+          setTimeout(() => {
+            document.body.style.background = "url('fundo.png') no-repeat center center fixed"; 
+            timerBar.style.display = "none"; 
+            timerBar.style.width = "0%";
+          }, 5000);
+          
+      }, 800);
+
+    });
+
+    window.onload = () => input.focus();
+    window.onfocus = () => input.focus();
+  </script>
+</body>
+</html>
