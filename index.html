@@ -53,66 +53,21 @@
   <input type="text" id="input-hidden" autofocus />
 
   <script>
-    const input = document.getElementById("input-hidden");
-    const statusDiv = document.getElementById("status");
-    const timerBar = document.getElementById("timer-bar");
+  (function(d,t) {
+    var BASE_URL="https://desbrachat.desbravadorweb.com.br";
+    var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+    g.src=BASE_URL+"/packs/js/sdk.js";
+    g.async = true;
+    s.parentNode.insertBefore(g,s);
+    g.onload=function(){
+      window.chatwootSDK.run({
+        websiteToken: '5Fw2u9DV7M54fqJc4UxexFVL',
+        baseUrl: BASE_URL
+      })
+    }
+  })(document,"script");
+</script>
 
-    let buffer = "";
-    let timeout = null;
-
-    input.addEventListener("input", () => {
-      buffer += input.value;
-      input.value = "";
-
-      clearTimeout(timeout);
-      timeout = setTimeout(() => {
-        const codigo = buffer.trim();
-        buffer = "";
-
-        if (!codigo) return;
-
-        // Simulando sucesso com código '1'
-        const sucesso = codigo === '1';
- 
-        // Reset da barra ANTES de mostrar
-        timerBar.style.transition = "none";
-        timerBar.style.width = "0%";
-        timerBar.style.display = "block";
-
-        // Força render pra reiniciar transição
-        void timerBar.offsetWidth; // hack necessário
-
-          // Aplica fundo e cor
-          if (sucesso) {
-            document.body.style.background = "url('sucesso.png') no-repeat center center fixed";
-            document.body.style.backgroundColor = "#4b7b35";
-            
-            timerBar.style.backgroundColor = "#4aae3a";
-          } else {
-            document.body.style.background = "url('erro.png') no-repeat center center fixed";
-            document.body.style.backgroundColor = "#96311b";
-            
-            timerBar.style.backgroundColor = "#cc3333";
-          }
-
-        // Agora ativa a animação
-        timerBar.style.transition = "width 5s linear";
-        timerBar.style.width = "100%";
-
-
-          // Após 5s, reset
-          setTimeout(() => {
-            document.body.style.background = "url('fundo.png') no-repeat center center fixed"; 
-            timerBar.style.display = "none"; 
-            timerBar.style.width = "0%";
-          }, 5000);
-          
-      }, 800);
-
-    });
-
-    window.onload = () => input.focus();
-    window.onfocus = () => input.focus();
-  </script>
+  
 </body>
 </html>
