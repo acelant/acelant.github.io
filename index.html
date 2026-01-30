@@ -1,74 +1,382 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html>
 <head>
-  <meta charset="UTF-8" />
-  <title>Validador de Contas</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Feriado - Aniversário de Chapecó</title>
+
   <style>
-    html, body {
-      margin: 0;
-      padding: 0;
-      height: 100%;
-      overflow: hidden;
-      font-family: sans-serif;
+    /* Base */
+    body{
+      margin:0;
+      padding:0;
+      background-color:#f4f4f9;
+      -webkit-text-size-adjust:100%;
+      -ms-text-size-adjust:100%;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size:14px;
+      line-height:1.6;
+      color:#414141;
+    }
+    table{
+      border-collapse:collapse;
+      mso-table-lspace:0pt;
+      mso-table-rspace:0pt;
+      width:100%;
+    }
+    td{
+      border-collapse:collapse;
+    }
+    img{
+      border:0;
+      outline:none;
+      text-decoration:none;
+      -ms-interpolation-mode:bicubic;
+      display:block;
+      max-width:100%;
+      height:auto;
+    }
+    a{
+      color:inherit;
     }
 
-    body {
-      background: url('fundo.png') no-repeat center center fixed;
-      background-size: auto;
-      position: relative;
+    /* Layout */
+    .wrapper{
+      width:100%;
+      background-color:#f4f4f9;
+      padding:20px 0;
+    }
+    .container{
+      width:600px;
+      max-width:600px;
+      background-color:#ffffff;
+      border:1px solid #e0e0e0;
+      border-radius:8px;
+      overflow:hidden;
+    }
+    .header{
+      background-color:#017bc4;
+      text-align:center;
+      padding:30px 20px 20px 20px;
+    }
+    .header-title{
+      color:#ffffff;
+      font-size:20px;
+      font-weight:600;
+      margin:20px 0 0 0;
+      font-family: Arial, Helvetica, sans-serif;
+      text-align:center;
     }
 
-    input#input-hidden {
-      position: absolute;
-      left: -9999px;
+    .content{
+      padding:25px 30px 0 30px;
+      background-color:#ffffff;
     }
 
-    .status {
-      position: absolute;
-      bottom: 30px;
-      width: 100%;
-      text-align: center;
-      font-size: 2em;
-      color: white;
-      text-shadow: 2px 2px 5px black;
-      z-index: 3;
+    .p13{
+      margin:0 0 15px 0;
+      font-size:13px;
+      color:#555555;
+      line-height:1.7;
     }
 
-    .timer-bar {
-        position: fixed;
-        bottom: 0;
-        left: 0;
-        height: 8px;
-        background-color: #ffffff;
-        width: 0%;
-        z-index: 999;
-        transition: width 5s linear;
-        display: none;
+    /* Boxes */
+    .box{
+      width:100%;
+      border-radius:4px;
+      overflow:hidden;
+    }
+    .box-pad{
+      padding:20px;
+    }
+
+    .box-alert{
+      background-color:#fff3cd;
+      border-left:4px solid #ffc107;
+    }
+    .box-alert h2{
+      margin:0 0 15px 0;
+      color:#856404;
+      font-size:16px;
+      font-weight:bold;
+    }
+    .box-alert p{
+      margin:0 0 15px 0;
+      color:#856404;
+      font-size:13px;
+      line-height:1.6;
+    }
+
+    .box-token{
+      background-color:#e8f4f8;
+      border-left:4px solid #17a2b8;
+    }
+    .box-token h2{
+      margin:0 0 15px 0;
+      color:#0c5460;
+      font-size:16px;
+      font-weight:bold;
+    }
+    .box-token p{
+      margin:0 0 10px 0;
+      color:#0c5460;
+      font-size:13px;
+      line-height:1.6;
+    }
+
+    .box-resp{
+      background-color:#f0f8ff;
+      border-left:4px solid #2a5298;
+    }
+    .box-resp h2{
+      margin:0 0 15px 0;
+      color:#1e3c72;
+      font-size:16px;
+      font-weight:bold;
+    }
+    .box-resp p, .box-resp td{
+      color:#2c5282;
+      font-size:13px;
+      line-height:1.6;
+    }
+
+    /* Buttons */
+    .btn-wrap{
+      padding:0 30px 30px 30px;
+      text-align:center;
+    }
+    .btn{
+      display:inline-block;
+      padding:14px 30px;
+      background-color:#2a5298;
+      color:#ffffff !important;
+      text-decoration:none;
+      border-radius:5px;
+      font-size:14px;
+      font-weight:bold;
+    }
+    .btn-token{
+      background-color:#17a2b8;
+      font-size:13px;
+    }
+
+    /* Sections spacing */
+    .section{
+      padding:0 30px 30px 30px;
+    }
+
+    .divider{
+      background-color:rgba(0,0,0,0.1);
+      height:1px;
+      margin:30px 0 0 0;
+    }
+
+    .sign{
+      padding:10px 10px 0 10px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size:12px;
+      color:#939393;
+      text-align:center;
+      margin:20px 0 0 0;
+    }
+
+    .logo-bottom{
+      width:70%;
+      height:auto;
+      display:block;
+      margin:20px auto 0 auto;
+    }
+
+    /* Responsive */
+    @media only screen and (max-width: 620px){
+      .container{
+        width:100% !important;
+        max-width:100% !important;
+        border-radius:0 !important;
+      }
+      .content{
+        padding:20px 15px 0 15px !important;
+      }
+      .section{
+        padding:0 15px 25px 15px !important;
+      }
+      .btn-wrap{
+        padding:0 15px 25px 15px !important;
+      }
+      .logo-bottom{
+        width:90% !important;
+      }
     }
   </style>
 </head>
-<body onclick="document.getElementById('input-hidden').focus()">
-  <div class="status" id="status"></div>
-  <div id="timer-bar" class="timer-bar"></div>
-  <input type="text" id="input-hidden" autofocus />
 
-<script>
-  (function(d,t) {
-    var BASE_URL="https://desbrachat.desbravadorweb.com.br";
-    var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-    g.src=BASE_URL+"/packs/js/sdk.js";
-    g.async = true;
-    s.parentNode.insertBefore(g,s);
-    g.onload=function(){
-      window.chatwootSDK.run({
-        websiteToken: '5Fw2u9DV7M54fqJc4UxexFVL',
-        baseUrl: BASE_URL
-      })
-    }
-  })(document,"script");
-</script>
+<body>
 
+  <table role="presentation" class="wrapper" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td align="center">
 
-  
+        <table role="presentation" class="container" cellpadding="0" cellspacing="0" border="0">
+          <!-- Cabeçalho -->
+          <tr>
+            <td class="header">
+              <img src="http://mautic.crm.desbravadorweb.com.br/media/images/cpia_de_cabealhos_mautic_8.png" style="margin:0 auto; width:60%; height:auto;">
+              <p class="header-title">&nbsp;Nova Ficha Nacional de Registro de Hóspedes</p>
+            </td>
+          </tr>
+
+          <!-- Corpo -->
+          <tr>
+            <td class="content">
+
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td style="padding:0 0 20px 0;">
+                    <p class="p13">
+                      <strong>Prezado(a) cliente,</strong><br><br>
+                      Estamos iniciando a preparação para a 
+                      <strong>Nova Ficha Nacional de Registro de Hóspedes (FNRH)</strong>, que exigirá integração obrigatória com o 
+                      <strong>Cadastur</strong> (Ministério do Turismo).<br>
+                    </p>
+                    <p class="p13">
+                      Para garantir que a atualização ocorra sem impactos na sua operação, é essencial iniciar agora o processo de cadastro, pois a liberação pelo governo pode levar até 
+                      <strong>5 dias úteis</strong>.<br><br>
+                      Se o cadastro for feito mais próximo da data de ativação, corre-se o risco de não conseguir operar a FNRH dentro do prazo legal.
+                    </p>
+                  </td>
+                </tr>
+              </table>
+
+            </td>
+          </tr>
+
+          <!-- Box de Alerta -->
+          <tr>
+            <td class="section">
+              <table role="presentation" class="box box-alert" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td class="box-pad">
+                    <h2>⚠️ O que precisa ser feito ainda esta semana:</h2>
+                    <p>
+                      Solicitamos que o responsável legal do empreendimento:<br>
+                      <strong>1.</strong>&nbsp;Realize o cadastro no <strong>Cadastur</strong><br>
+                      <strong>2.</strong>&nbsp;Gere a <strong>API-Key / Token de integração da FNRH</strong><br>
+                      <strong>3.</strong>&nbsp;Guarde essa chave ou informe no ticket de atendimento<br>
+                      <strong>4.</strong>&nbsp;Tenha em mãos os dados do empreendimento e do responsável
+                    </p>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- Botão Manual -->
+          <tr>
+            <td class="btn-wrap">
+              <p style="margin:0 0 15px 0; font-size:14px; color:#555555;">
+                <strong>Manual oficial do governo com passo a passo:</strong>
+              </p>
+              <a class="btn" href="https://www.gov.br/turismo/pt-br/acesso-a-informacao/acoes-e-programas/programas-projetos-acoes-obras-e-atividades/ficha-nacional-de-registro-de-hospedes/cadastur_cpf_fnrh.pdf">
+                Acessar Manual do Governo
+              </a>
+            </td>
+          </tr>
+
+          <!-- Box API-Key -->
+          <tr>
+            <td class="section" style="padding-bottom:10px;">
+              <table role="presentation" class="box box-token" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td class="box-pad">
+                    <h2>🔑 Sobre a API-Key / Token</h2>
+                    <p>
+                      Durante o cadastro no Cadastur, será solicitado que o responsável gere a API-Key / Token da FNRH. Essa chave é 
+                      <strong>obrigatória </strong>para que possamos conectar o sistema e ativar a nova FNRH no PMS.
+                    </p>
+                    <p style="margin:0; font-weight:bold;">👉 Sem o token, a integração não pode ser concluída.</p>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- Botão Gerar Token -->
+          <tr>
+            <td class="btn-wrap">
+              <a class="btn btn-token" href="https://fnrh.turismo.serpro.gov.br/FNRH_SRH/Login">
+                Gerar Token
+              </a>
+            </td>
+          </tr>
+
+          <!-- Responsabilidades do Hotel -->
+          <tr>
+            <td class="section">
+              <table role="presentation" class="box box-resp" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td class="box-pad">
+                    <h2>O que é responsabilidade do hotel:</h2>
+                    <p style="margin:0 0 15px 0;">
+                      Para que a nova FNRH possa ser ativada corretamente, é de responsabilidade do hotel:
+                    </p>
+
+                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                      <tr><td style="padding:5px 0;">• Realizar o cadastro do empreendimento no Cadastur;</td></tr>
+                      <tr><td style="padding:5px 0;">• Manter os dados cadastrais do empreendimento sempre atualizados;</td></tr>
+                      <tr><td style="padding:5px 0;">• Garantir que o responsável legal possua CPF vinculado ao Gov.br;</td></tr>
+                      <tr><td style="padding:5px 0;">• Gerar a API-Key / Token de integração da FNRH junto ao Cadastur;</td></tr>
+                      <tr><td style="padding:5px 0;">• Armazenar a chave gerada de forma segura;</td></tr>
+                      <tr><td style="padding:5px 0;">• Informar a API-Key / Token à nossa equipe por meio do ticket de atendimento, quando solicitado;</td></tr>
+                      <tr><td style="padding:5px 0;">• Providenciar as informações do responsável legal sempre que necessário.</td></tr>
+                    </table>
+
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- Informações Necessárias -->
+          <tr>
+            <td class="section">
+
+              <h2 style="margin:0 0 15px 0; color:#333333; font-size:16px; font-weight:bold; font-family:Arial, Helvetica, sans-serif;">
+                Informações que serão necessárias
+              </h2>
+
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr><td style="padding:8px 0; color:#555555; font-size:13px; border-bottom:1px solid #eeeeee;">✓ Dados completos do responsável legal</td></tr>
+                <tr><td style="padding:8px 0; color:#555555; font-size:13px; border-bottom:1px solid #eeeeee;">✓ CPF vinculado ao Gov.br</td></tr>
+                <tr><td style="padding:8px 0; color:#555555; font-size:13px; border-bottom:1px solid #eeeeee;">✓ CNPJ do empreendimento</td></tr>
+                <tr><td style="padding:8px 0; color:#555555; font-size:13px; border-bottom:1px solid #eeeeee;">✓ Dados cadastrais atualizados</td></tr>
+                <tr><td style="padding:8px 0; color:#555555; font-size:13px;">✓ API-Key / Token gerado no Cadastur</td></tr>
+              </table>
+
+              <div class="divider"></div>
+
+              <div class="sign">
+                <p style="margin:0 0 6px 0;">Atenciosamente,</p>
+                <p style="margin:0;">Setor da Informação.</p>
+              </div>
+
+              <img class="logo-bottom" src="http://mautic.crm.desbravadorweb.com.br/media/images/desbravador_desde_1988_black_1.png">
+
+            </td>
+          </tr>
+
+          <!-- Rodapé (vazio, como no original) -->
+          <tr>
+            <td class="footer">
+              &nbsp;
+            </td>
+          </tr>
+
+        </table>
+
+      </td>
+    </tr>
+  </table>
+
 </body>
 </html>
