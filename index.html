@@ -25,105 +25,25 @@
             text-align: center;
             color: var(--text-dark);
         }
-
-        /* Estilo do Botão do Chat */
-        #chat-trigger {
-            position: fixed;
-            bottom: 20px;
-            right: 20px;
-            background-color: var(--primary-color);
-            color: white;
-            border: none;
-            border-radius: 50%;
-            width: 60px;
-            height: 60px;
-            cursor: pointer;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.2);
-            font-size: 24px;
-        }
-
-        /* Janela do Chat */
-        #chat-window {
-            position: fixed;
-            bottom: 90px;
-            right: 20px;
-            width: 350px;
-            height: 450px;
-            background: white;
-            border-radius: 10px;
-            box-shadow: 0 5px 15px rgba(0,0,0,0.3);
-            display: none;
-            flex-direction: column;
-            overflow: hidden;
-            border: 1px solid #ddd;
-        }
-
-        .chat-header {
-            background: var(--primary-color);
-            color: white;
-            padding: 15px;
-            font-weight: bold;
-            display: flex;
-            justify-content: space-between;
-        }
-
-        #chat-messages {
-            flex: 1;
-            padding: 15px;
-            overflow-y: auto;
-            background: #fff;
-            display: flex;
-            flex-direction: column;
-            gap: 10px;
-        }
-
-        .message {
-            padding: 8px 12px;
-            border-radius: 15px;
-            max-width: 80%;
-            font-size: 14px;
-        }
-
-        .bot { background: #e9ecef; align-self: flex-start; color: #333; }
-        .user { background: var(--primary-color); align-self: flex-end; color: white; }
-
-        .chat-input {
-            padding: 15px;
-            border-top: 1px solid #eee;
-            display: flex;
-        }
-
-        .chat-input input {
-            flex: 1;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            padding: 8px;
-            outline: none;
-        }
     </style>
 </head>
 <body>
 
-    <div class="hero">
-        <h1>Portal de Parceiros</h1>
-        <p>Simulação de Interface - Channel Manager Desbravador</p>
-    </div>
-
     <section id="chat-ia" style="margin: 40px auto; max-width: 900px;">
-  <h2>Chat IA</h2>
-
-  <iframe
-    src="https://hml.n8n.3web.hmldesbravador.com/webhook/d0c64807-8b9f-47bc-82e8-56ffdc6a4309/chat"
-    style="
-      width: 100%;
-      height: 600px;
-      border: 1px solid #ccc;
-      border-radius: 8px;
-    "
-    loading="lazy"
-    title="Chat IA n8n">
-  </iframe>
-</section>
+      <h2>Chat IA - Channel Manager</h2>
+    
+      <iframe
+        src="https://hml.n8n.3web.hmldesbravador.com/webhook/d0c64807-8b9f-47bc-82e8-56ffdc6a4309/chat"
+        style="
+          width: 100%;
+          height: 600px;
+          border: 1px solid #ccc;
+          border-radius: 8px;
+        "
+        loading="lazy"
+        title="Chat IA n8n">
+      </iframe>
+    </section>
     
 </body>
 </html>
