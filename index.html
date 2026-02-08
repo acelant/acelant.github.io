@@ -1,49 +1,36 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simulador de Suporte - Desbravador</title>
-    <style>
-        :root {
-            --primary-color: #0056b3;
-            --secondary-color: #f4f7f6;
-            --text-dark: #333;
-        }
-
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: var(--secondary-color);
-            margin: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
-
-        .hero {
-            text-align: center;
-            color: var(--text-dark);
-        }
-    </style>
+  <meta charset="UTF-8">
+  <title>Chat IA</title>
 </head>
 <body>
+  <h3>Chat IA</h3>
 
-    <section id="chat-ia" style="margin: 40px auto; max-width: 900px;">
-      <h2>Chat IA - Channel Manager</h2>
-    
-      <iframe
-        src="https://hml.n8n.3web.hmldesbravador.com/webhook/d0c64807-8b9f-47bc-82e8-56ffdc6a4309/chat"
-        style="
-          width: 100%;
-          height: 600px;
-          border: 1px solid #ccc;
-          border-radius: 8px;
-        "
-        loading="lazy"
-        title="Chat IA n8n">
-      </iframe>
-    </section>
-    
+  <input id="msg" placeholder="Digite sua pergunta" />
+  <button onclick="send()">Enviar</button>
+
+  <pre id="resp"></pre>
+
+  <script>
+    async function send() {
+      const msg = document.getElementById("msg").value;
+
+      const res = await fetch(
+        "https://hml.n8n.3web.hmldesbravador.com/webhook/d0c64807-8b9f-47bc-82e8-56ffdc6a4309/chat",
+        {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            message: msg,
+            sessionId: "demo-web"
+          })
+        }
+      );
+
+      const data = await res.json();
+      document.getElementById("resp").innerText = data.answer || JSON.stringify(data);
+    }
+  </script>
 </body>
 </html>
