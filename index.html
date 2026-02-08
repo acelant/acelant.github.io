@@ -109,67 +109,21 @@
         <p>Simulação de Interface - Channel Manager Desbravador</p>
     </div>
 
-    <button id="chat-trigger" onclick="toggleChat()">💬</button>
+    <section id="chat-ia" style="margin: 40px auto; max-width: 900px;">
+  <h2>Chat IA</h2>
 
-    <div id="chat-window">
-        <div class="chat-header">
-            <span>Suporte Desbravador</span>
-            <span style="cursor:pointer" onclick="toggleChat()">✖</span>
-        </div>
-        <div id="chat-messages">
-            <div class="message bot">Olá! Bem-vindo ao suporte do Channel Manager. Como podemos ajudar com suas reservas hoje?</div>
-        </div>
-        <div class="chat-input">
-            <input type="text" id="user-input" placeholder="Digite sua dúvida..." onkeypress="handleKey(event)">
-        </div>
-    </div>
-
-    <script>
-        function toggleChat() {
-            const chat = document.getElementById('chat-window');
-            chat.style.display = chat.style.display === 'flex' ? 'none' : 'flex';
-        }
-
-        function handleKey(e) {
-            if (e.key === 'Enter') {
-                sendMessage();
-            }
-        }
-
-        function sendMessage() {
-            const input = document.getElementById('user-input');
-            const container = document.getElementById('chat-messages');
-            
-            if (input.value.trim() === "") return;
-
-            // Mensagem do Usuário
-            const userDiv = document.createElement('div');
-            userDiv.className = 'message user';
-            userDiv.textContent = input.value;
-            container.appendChild(userDiv);
-
-            const text = input.value.toLowerCase();
-            input.value = "";
-
-            // Simulação de Resposta Automática
-            setTimeout(() => {
-                const botDiv = document.createElement('div');
-                botDiv.className = 'message bot';
-                
-                if (text.includes('reserva')) {
-                    botDiv.textContent = "Para divergências em reservas, verifique o log de integração no menu 'Configurações > Logs'.";
-                } else if (text.includes('mapeamento')) {
-                    botDiv.textContent = "O mapeamento de categorias deve ser feito primeiro no PMS e depois replicado no Channel.";
-                } else {
-                    botDiv.textContent = "Entendi. Vou encaminhar você para um especialista em Channel Manager. Aguarde um instante.";
-                }
-                
-                container.appendChild(botDiv);
-                container.scrollTop = container.scrollHeight;
-            }, 1000);
-
-            container.scrollTop = container.scrollHeight;
-        }
-    </script>
+  <iframe
+    src="https://hml.n8n.3web.hmldesbravador.com/webhook/d0c64807-8b9f-47bc-82e8-56ffdc6a4309/chat"
+    style="
+      width: 100%;
+      height: 600px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+    "
+    loading="lazy"
+    title="Chat IA n8n">
+  </iframe>
+</section>
+    
 </body>
 </html>
