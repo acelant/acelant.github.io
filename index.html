@@ -1,29 +1,186 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="pt-BR">
 <head>
-  <meta charset="UTF-8">
-  <title>Chat IA</title>
-</head>
-<body>
-  <h3>Chat IA</h3>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="Andressa Celant — CTO | Tech Leadership | Cloud | Produto" />
+  <title>Andressa Celant — CTO</title>
 
- 
-  <pre id="resp"></pre>
- 
-    <script>
-      (function(d,t) {
-        var BASE_URL="https://desbrachat.desbravadorweb.com.br";
-        var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-        g.src=BASE_URL+"/packs/js/sdk.js";
-        g.async = true;
-        s.parentNode.insertBefore(g,s);
-        g.onload=function(){
-          window.chatwootSDK.run({
-            websiteToken: 'XyY42kdnCnnJCkbpUPwagmLA',
-            baseUrl: BASE_URL
-          })
-        }
-      })(document,"script");
-    </script> 
+  <style>
+    :root{
+      --bg:#0b1220;
+      --panel:rgba(255,255,255,.06);
+      --text:#e8eefc;
+      --muted:rgba(232,238,252,.72);
+      --brand:#017BC4;
+      --border:rgba(255,255,255,.12);
+      --radius:18px;
+      --max:1080px;
+    }
+
+    *{box-sizing:border-box}
+    body{
+      margin:0;
+      font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial;
+      background:var(--bg);
+      color:var(--text);
+    }
+
+    .wrap{max-width:var(--max);margin:auto;padding:40px 20px}
+
+    header{
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      margin-bottom:60px;
+    }
+
+    .logo{
+      width:40px;height:40px;
+      border-radius:12px;
+      background:linear-gradient(135deg,var(--brand),#2aa8ff);
+    }
+
+    nav a{
+      margin-left:20px;
+      color:var(--muted);
+      text-decoration:none;
+      font-weight:500;
+    }
+
+    nav a:hover{color:white}
+
+    h1{
+      font-size:42px;
+      line-height:1.1;
+      margin:20px 0;
+    }
+
+    .sub{
+      font-size:18px;
+      color:var(--muted);
+      max-width:650px;
+    }
+
+    .btn{
+      display:inline-block;
+      margin-top:30px;
+      padding:12px 18px;
+      background:var(--brand);
+      color:white;
+      border-radius:10px;
+      text-decoration:none;
+      font-weight:600;
+    }
+
+    section{
+      margin-top:80px;
+    }
+
+    .card{
+      background:var(--panel);
+      border:1px solid var(--border);
+      border-radius:var(--radius);
+      padding:25px;
+      margin-top:20px;
+    }
+
+    footer{
+      margin-top:80px;
+      text-align:center;
+      color:var(--muted);
+      font-size:14px;
+    }
+
+    @media(max-width:768px){
+      h1{font-size:30px}
+      header{flex-direction:column;gap:20px}
+      nav a{margin-left:10px}
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="wrap">
+
+    <header>
+      <div style="display:flex;align-items:center;gap:12px;">
+        <div class="logo"></div>
+        <strong>Andressa Celant</strong>
+      </div>
+      <nav>
+        <a href="#sobre">Sobre</a>
+        <a href="#atuacao">Atuação</a>
+        <a href="#contato">Contato</a>
+      </nav>
+    </header>
+
+    <main>
+      <h1>Liderança técnica com visão estratégica.</h1>
+      <p class="sub">
+        Sou CTO com foco em arquitetura, performance, cloud e evolução contínua de produto.
+        Trabalho conectando estratégia, engenharia e execução para gerar impacto real.
+      </p>
+
+      <a href="#contato" class="btn">Falar comigo</a>
+
+      <section id="sobre">
+        <h2>Sobre</h2>
+        <div class="card">
+          Atuo na linha de frente entre produto e engenharia, liderando arquitetura,
+          DevSecOps, integrações e escalabilidade de sistemas críticos.
+        </div>
+      </section>
+
+      <section id="atuacao">
+        <h2>Atuação</h2>
+        <div class="card">
+          • Arquitetura de aplicações em cloud<br>
+          • PostgreSQL e otimização de performance<br>
+          • Docker, CI/CD e automação<br>
+          • Segurança e confiabilidade<br>
+          • Estratégia de produto e inovação com IA
+        </div>
+      </section>
+
+      <section id="contato">
+        <h2>Contato</h2>
+        <div class="card">
+          Email: andressa@seudominio.com<br>
+          GitHub: github.com/acelant<br>
+          LinkedIn: linkedin.com/in/seuusuario
+        </div>
+      </section>
+
+    </main>
+
+    <footer>
+      © <span id="year"></span> Andressa Celant
+    </footer>
+
+  </div>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+
+  <!-- DesbraChat Widget -->
+  <script>
+    (function(d,t) {
+      var BASE_URL="https://desbrachat.desbravadorweb.com.br";
+      var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+      g.src=BASE_URL+"/packs/js/sdk.js";
+      g.async = true;
+      s.parentNode.insertBefore(g,s);
+      g.onload=function(){
+        window.chatwootSDK.run({
+          websiteToken: 'XyY42kdnCnnJCkbpUPwagmLA',
+          baseUrl: BASE_URL
+        })
+      }
+    })(document,"script");
+  </script>
+
 </body>
 </html>
