@@ -1,1 +1,0 @@
-<a href="https://app.rocketseat.com.br/me/andressa-celant-04112"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=andressa-celant-04112&type=card" width="280" alt="Andressa Celant's Rocket ID"/></a>
