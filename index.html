@@ -134,32 +134,27 @@ Pellentesque et mattis quam. Orci varius natoque penatibus et magnis dis parturi
 
 
   <script>
-  (function (w, d, s, o, f, js, fjs) {
-    w['circleWidget'] = o;
-    w[o] = w[o] || function () {
-      (w[o].q = w[o].q || []).push(arguments);
-    };
-    js = d.createElement(s);
-    fjs = d.getElementsByTagName(s)[0];
-    js.id = o;
-    js.src = f;
-    js.async = 1;
-    fjs.parentNode.insertBefore(js, fjs);
-  }(window, document, 'script', 'mw', 'https://desbravador.circle.so/external/widget.js'));
-  
-  mw('init', {
-    community_public_uid: '80f71c55',
-    brand_color_dark: '#FFFFFF',
-    brand_color_light: '#0697ff',
-    default_appearance: 'light',
-  });
-  
-  // Optional: pass in a default space slug and/or post slug
-  // mw('setDefaults', {
-  //   space_slug: '',
-  //   post_slug: '',
-  // });
-  </script>
+const metaTag = document.createElement('meta');
+metaTag.name = 'viewport';
+metaTag.content = 'width=device-width, initial-scale=1';
+document.getElementsByTagName('head')[0].appendChild(metaTag);
+
+window.addEventListener('message', function (e) {
+  const iframe = document.getElementById('iframe');
+  const height = e.data[1];
+  iframe.style.height = height + 'px';
+}, false);
+
+document.write(
+  '<iframe' +
+  ' id="iframe"' +
+  ' style="max-width:800px;border:0;box-shadow:none;outline:0;"' +
+  ' src="https://desbravador.circle.so/c/[SPACE_SLUG_GOES_HERE]/[POST_SLUG_GOES_HERE]?iframe=true&post=true"' +
+  ' scrolling="no"' +
+  ' width="100%">' +
+  '</iframe>'
+);
+</script>
 
   <script>
     document.getElementById("year").textContent = new Date().getFullYear();
