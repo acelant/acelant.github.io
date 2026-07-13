@@ -132,6 +132,35 @@ Pellentesque et mattis quam. Orci varius natoque penatibus et magnis dis parturi
 
   </div>
 
+
+  <script>
+  (function (w, d, s, o, f, js, fjs) {
+    w['circleWidget'] = o;
+    w[o] = w[o] || function () {
+      (w[o].q = w[o].q || []).push(arguments);
+    };
+    js = d.createElement(s);
+    fjs = d.getElementsByTagName(s)[0];
+    js.id = o;
+    js.src = f;
+    js.async = 1;
+    fjs.parentNode.insertBefore(js, fjs);
+  }(window, document, 'script', 'mw', 'https://desbravador.circle.so/external/widget.js'));
+  
+  mw('init', {
+    community_public_uid: '80f71c55',
+    brand_color_dark: '#FFFFFF',
+    brand_color_light: '#0697ff',
+    default_appearance: 'light',
+  });
+  
+  // Optional: pass in a default space slug and/or post slug
+  // mw('setDefaults', {
+  //   space_slug: '',
+  //   post_slug: '',
+  // });
+  </script>
+
   <script>
     document.getElementById("year").textContent = new Date().getFullYear();
   </script>
