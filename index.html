@@ -142,21 +142,22 @@ Pellentesque et mattis quam. Orci varius natoque penatibus et magnis dis parturi
     document.getElementById("year").textContent = new Date().getFullYear();
   </script>
 
-  <script>
-    (function(d,t) {
-      var BASE_URL="https://desbrachat.desbravadorweb.com.br";
-      var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-      g.src=BASE_URL+"/packs/js/sdk.js";
-      g.async = true;
-      s.parentNode.insertBefore(g,s);
-      g.onload=function(){
-        window.chatwootSDK.run({
-          websiteToken: 'BjU3MGMtnwibJWVtMSs9Wt9T',
-          baseUrl: BASE_URL
-        })
-      }
-    })(document,"script");
-  </script>
+<script>
+  (function(d,t) {
+    var BASE_URL="https://desbrachat.desbravadorweb.com.br";
+    var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+    g.src=BASE_URL+"/packs/js/sdk.js";
+    g.async = true;
+    s.parentNode.insertBefore(g,s);
+    g.onload=function(){
+      window.chatwootSDK.run({
+        websiteToken: 'XyY42kdnCnnJCkbpUPwagmLA',
+        baseUrl: BASE_URL
+      })
+    }
+  })(document,"script");
+</script>
+
 
 
 </body>
